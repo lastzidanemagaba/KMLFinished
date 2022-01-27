@@ -1,0 +1,220 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.opengis.net/kml/2.2 http://schemas.opengis.net/kml/2.2.0/ogckml22.xsd http://www.google.com/kml/ext/2.2 http://code.google.com/apis/kml/schema/kml22gx.xsd">
+	<Document id="Sombu_Layer">
+		<name>Sombu_Layer</name>
+		<Snippet></Snippet>
+		<Style id="PolyStyle00">
+			<LabelStyle>
+				<color>00000000</color>
+				<scale>0.000000</scale>
+			</LabelStyle>
+			<LineStyle>
+				<color>ff6e6e6e</color>
+				<width>0.400000</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>ffbdf2bf</color>
+				<outline>1</outline>
+			</PolyStyle>
+		</Style>
+		<Folder id="FeatureLayer0">
+			<name>Sombu_Layer</name>
+			<Snippet></Snippet>
+			<description><![CDATA[Sombu_Layer]]></description>
+			<Placemark id="ID_00000">
+				<name>Sombu</name>
+				<Snippet></Snippet>
+				<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Sombu</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>1</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Shape_Leng</td>
+
+<td>0.10754</td>
+
+</tr>
+
+<tr>
+
+<td>ADM4_EN</td>
+
+<td>Sombu</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>ADM4_PCODE</td>
+
+<td>ID7407040019</td>
+
+</tr>
+
+<tr>
+
+<td>ADM4_REF</td>
+
+<td></td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>ADM4ALT1EN</td>
+
+<td></td>
+
+</tr>
+
+<tr>
+
+<td>ADM4ALT2EN</td>
+
+<td></td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>ADM3_EN</td>
+
+<td>Wangi-Wangi</td>
+
+</tr>
+
+<tr>
+
+<td>ADM3_PCODE</td>
+
+<td>ID7407040</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>ADM2_EN</td>
+
+<td>Wakatobi</td>
+
+</tr>
+
+<tr>
+
+<td>ADM2_PCODE</td>
+
+<td>ID7407</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>ADM1_EN</td>
+
+<td>Sulawesi Tenggara</td>
+
+</tr>
+
+<tr>
+
+<td>ADM1_PCODE</td>
+
+<td>ID74</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>ADM0_EN</td>
+
+<td>Indonesia</td>
+
+</tr>
+
+<tr>
+
+<td>ADM0_PCODE</td>
+
+<td>ID</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>date</td>
+
+<td>12/20/2019</td>
+
+</tr>
+
+<tr>
+
+<td>validOn</td>
+
+<td>4/1/2020</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>validTo</td>
+
+<td>&lt;Null&gt;</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>
+
+]]></description>
+				<styleUrl>#PolyStyle00</styleUrl>
+				<MultiGeometry>
+					<Polygon>
+						<extrude>0</extrude><altitudeMode>clampToGround</altitudeMode>
+						<outerBoundaryIs><LinearRing><coordinates> 123.564352200094,-5.280458199686109,0 123.539352200144,-5.269568200212234,0 123.5203521998942,-5.258628200231215,0 123.5193367996536,-5.263285000402391,0 123.5192481004195,-5.266522899712015,0 123.5201092003794,-5.267441700174288,0 123.5203401004154,-5.267688199850511,0 123.5231197996391,-5.270654500304886,0 123.5242363996902,-5.271846100217317,0 123.528352200094,-5.276238200232683,0 123.5553521996444,-5.282678200438568,0 123.564352200094,-5.280458199686109,0</coordinates></LinearRing></outerBoundaryIs>
+					</Polygon>
+				</MultiGeometry>
+			</Placemark>
+		</Folder>
+	</Document>
+</kml>

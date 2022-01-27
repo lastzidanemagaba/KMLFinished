@@ -1,0 +1,414 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.opengis.net/kml/2.2 http://schemas.opengis.net/kml/2.2.0/ogckml22.xsd http://www.google.com/kml/ext/2.2 http://code.google.com/apis/kml/schema/kml22gx.xsd">
+	<Document id="Simpang_Jaya_Layer">
+		<name>Simpang_Jaya_Layer</name>
+		<Snippet></Snippet>
+		<Style id="PolyStyle00">
+			<LabelStyle>
+				<color>00000000</color>
+				<scale>0.000000</scale>
+			</LabelStyle>
+			<LineStyle>
+				<color>ff6e6e6e</color>
+				<width>0.400000</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>fff2f2ce</color>
+				<outline>1</outline>
+			</PolyStyle>
+		</Style>
+		<Folder id="FeatureLayer0">
+			<name>Simpang_Jaya_Layer</name>
+			<Snippet></Snippet>
+			<description><![CDATA[Simpang_Jaya_Layer]]></description>
+			<Placemark id="ID_00000">
+				<name>Simpang Jaya</name>
+				<Snippet></Snippet>
+				<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Simpang Jaya</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>1</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Shape_Leng</td>
+
+<td>0.115228</td>
+
+</tr>
+
+<tr>
+
+<td>ADM4_EN</td>
+
+<td>Simpang Jaya</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>ADM4_PCODE</td>
+
+<td>ID1110050021</td>
+
+</tr>
+
+<tr>
+
+<td>ADM4_REF</td>
+
+<td></td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>ADM4ALT1EN</td>
+
+<td></td>
+
+</tr>
+
+<tr>
+
+<td>ADM4ALT2EN</td>
+
+<td></td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>ADM3_EN</td>
+
+<td>Juli</td>
+
+</tr>
+
+<tr>
+
+<td>ADM3_PCODE</td>
+
+<td>ID1110050</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>ADM2_EN</td>
+
+<td>Bireuen</td>
+
+</tr>
+
+<tr>
+
+<td>ADM2_PCODE</td>
+
+<td>ID1110</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>ADM1_EN</td>
+
+<td>Aceh</td>
+
+</tr>
+
+<tr>
+
+<td>ADM1_PCODE</td>
+
+<td>ID11</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>ADM0_EN</td>
+
+<td>Indonesia</td>
+
+</tr>
+
+<tr>
+
+<td>ADM0_PCODE</td>
+
+<td>ID</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>date</td>
+
+<td>12/20/2019</td>
+
+</tr>
+
+<tr>
+
+<td>validOn</td>
+
+<td>4/1/2020</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>validTo</td>
+
+<td>&lt;Null&gt;</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>
+
+]]></description>
+				<styleUrl>#PolyStyle00</styleUrl>
+				<MultiGeometry>
+					<Polygon>
+						<extrude>0</extrude><altitudeMode>clampToGround</altitudeMode>
+						<outerBoundaryIs><LinearRing><coordinates> 96.67665509995294,5.123634899930721,0 96.67619720024067,5.123675800198043,0 96.67551279997582,5.123558800198509,0 96.67502670022208,5.122956699592066,0 96.67417800011469,5.122235699617875,0 96.6732096002429,5.121676699919817,0 96.67245089978923,5.121521100118741,0 96.67221820020984,5.121183099820257,0 96.67160550019372,5.120293000321738,0 96.6716649004149,5.120292699948209,0 96.6712683002919,5.119792499724156,0 96.67098579985486,5.119632799913859,0 96.67058270033141,5.119473799776074,0 96.66977810027919,5.119438100288164,0 96.66937599990251,5.119440399854625,0 96.66869969983134,5.11984119981156,0 96.66841389978168,5.1200104998847,0 96.66805219964937,5.120052900221197,0 96.66761100034745,5.120257100285016,0 96.66704929998525,5.120502199716782,0 96.66648949989059,5.121070000180396,0 96.66568830017496,5.121639199989147,0 96.6647278997728,5.122491599907448,0 96.66352199974057,5.122619499690188,0 96.66336430002247,5.122652000289634,0 96.66269999960537,5.12278919996163,0 96.6626508003942,5.122799400072324,0 96.66251769983205,5.122826900441169,0 96.66196189992178,5.123069499757662,0 96.66198769967264,5.123126399863509,0 96.66189350018493,5.123099299692967,0 96.66070379964071,5.122757099560545,0 96.65636420024771,5.121508700266361,0 96.65537030009932,5.121300300368603,0 96.6544180997156,5.121580799814126,0 96.65384050023897,5.121060300092836,0 96.65374560017938,5.120974699922499,0 96.65330459962763,5.118293800218737,0 96.65109860042014,5.115439899731655,0 96.65024189994381,5.114529900034881,0 96.64980779989008,5.11306869956087,0 96.65022909989312,5.112273400297227,0 96.65154289968513,5.111605400069209,0 96.65241250003692,5.111163199821874,0 96.65484239985693,5.110600399588805,0 96.65505139960248,5.110142200402265,0 96.65633330044153,5.107331999772043,0 96.65640439994314,5.107176099597382,0 96.65626749974535,5.104493400350179,0 96.65617960000861,5.104161099954865,0 96.65585789992218,5.102945400010242,0 96.65583239964559,5.102849200430285,0 96.65558120011235,5.101447900200469,0 96.65560880030597,5.101402300076131,0 96.65730080009189,5.098607100137599,0 96.65799839970646,5.097454600049787,0 96.65826650019886,5.097011600305166,0 96.65837020012469,5.096230700086778,0 96.65898679960117,5.094909700322432,0 96.65935700012551,5.093966199980173,0 96.66033469988656,5.092548700262341,0 96.66108039974074,5.091603100003113,0 96.66200969978786,5.091343300253129,0 96.66211139962144,5.091314799838187,0 96.66365350040877,5.091259200152024,0 96.66366009963394,5.091258899778438,0 96.66506930040794,5.091439200358877,0 96.66586719961163,5.091434600326579,0 96.66643020039351,5.091384300345226,0 96.66694359996723,5.090863699899899,0 96.6671297002755,5.090580200316026,0 96.66722179984623,5.090250200386492,0 96.6672180002106,5.08959130039824,0 96.66697769956124,5.088604299848612,0 96.66643619977089,5.08820180017301,0 96.6667954996127,5.087941399675913,0 96.67186470009591,5.088414200255158,0 96.6725113000565,5.088288799688428,0 96.67264300037425,5.088263300311098,0 96.67365639962321,5.09145139966239,0 96.67350880019103,5.091446599980657,0 96.67452180014101,5.097787799767218,0 96.67488500034256,5.100060900090511,0 96.67525250020276,5.102361099685027,0 96.67594349969283,5.106686800055854,0 96.67596239984493,5.106804800101486,0 96.67591889963757,5.107016100312819,0 96.67775260020238,5.110906800408543,0 96.67773270000419,5.110909900371666,0 96.67773770023473,5.111777100432903,0 96.67784159981005,5.111941699749707,0 96.67905889964857,5.116589399681118,0 96.67885370043797,5.117006700398974,0 96.67821140013609,5.117212000333609,0 96.67781610043272,5.118424100292032,0 96.67782180033589,5.119417600242116,0 96.67782650019291,5.120238700155937,0 96.67775350042376,5.121529599611392,0 96.67754480015248,5.122519200101067,0 96.67754260041073,5.122505700377815,0 96.67715869961438,5.123025100228233,0 96.67695899975809,5.123268199567804,0 96.67669049996664,5.123618499893894,0 96.67667960018343,5.123632700189034,0 96.67665509995294,5.123634899930721,0</coordinates></LinearRing></outerBoundaryIs>
+					</Polygon>
+				</MultiGeometry>
+			</Placemark>
+			<Placemark id="ID_00001">
+				<name>Simpang Jaya</name>
+				<Snippet></Snippet>
+				<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Simpang Jaya</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>2</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Shape_Leng</td>
+
+<td>0.135979</td>
+
+</tr>
+
+<tr>
+
+<td>ADM4_EN</td>
+
+<td>Simpang Jaya</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>ADM4_PCODE</td>
+
+<td>ID1115022013</td>
+
+</tr>
+
+<tr>
+
+<td>ADM4_REF</td>
+
+<td></td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>ADM4ALT1EN</td>
+
+<td></td>
+
+</tr>
+
+<tr>
+
+<td>ADM4ALT2EN</td>
+
+<td></td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>ADM3_EN</td>
+
+<td>Tadu Raya</td>
+
+</tr>
+
+<tr>
+
+<td>ADM3_PCODE</td>
+
+<td>ID1115022</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>ADM2_EN</td>
+
+<td>Nagan Raya</td>
+
+</tr>
+
+<tr>
+
+<td>ADM2_PCODE</td>
+
+<td>ID1115</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>ADM1_EN</td>
+
+<td>Aceh</td>
+
+</tr>
+
+<tr>
+
+<td>ADM1_PCODE</td>
+
+<td>ID11</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>ADM0_EN</td>
+
+<td>Indonesia</td>
+
+</tr>
+
+<tr>
+
+<td>ADM0_PCODE</td>
+
+<td>ID</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>date</td>
+
+<td>12/20/2019</td>
+
+</tr>
+
+<tr>
+
+<td>validOn</td>
+
+<td>4/1/2020</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>validTo</td>
+
+<td>&lt;Null&gt;</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>
+
+]]></description>
+				<styleUrl>#PolyStyle00</styleUrl>
+				<MultiGeometry>
+					<Polygon>
+						<extrude>0</extrude><altitudeMode>clampToGround</altitudeMode>
+						<outerBoundaryIs><LinearRing><coordinates> 96.39680369963111,4.15106219996062,0 96.39306240030959,4.152834900410369,0 96.38045539989685,4.165938199788116,0 96.3795843003752,4.166204700386686,0 96.37980700039282,4.165903799820569,0 96.37988129968227,4.165803500231391,0 96.37338290020074,4.164452400158211,0 96.37090800010418,4.159263900108954,0 96.36908370015271,4.146821200438126,0 96.36018839967494,4.137829099633279,0 96.3601431997489,4.137813900191361,0 96.35968170005049,4.137658500039777,0 96.36495599991952,4.124449399919911,0 96.36958550027066,4.112855000158163,0 96.37897720043753,4.13181629988236,0 96.39680369963111,4.15106219996062,0</coordinates></LinearRing></outerBoundaryIs>
+					</Polygon>
+				</MultiGeometry>
+			</Placemark>
+		</Folder>
+	</Document>
+</kml>

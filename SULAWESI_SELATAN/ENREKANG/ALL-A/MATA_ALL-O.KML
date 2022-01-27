@@ -1,0 +1,608 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.opengis.net/kml/2.2 http://schemas.opengis.net/kml/2.2.0/ogckml22.xsd http://www.google.com/kml/ext/2.2 http://code.google.com/apis/kml/schema/kml22gx.xsd">
+	<Document id="Mata_Allo_Layer">
+		<name>Mata_Allo_Layer</name>
+		<Snippet></Snippet>
+		<Style id="PolyStyle00">
+			<LabelStyle>
+				<color>00000000</color>
+				<scale>0.000000</scale>
+			</LabelStyle>
+			<LineStyle>
+				<color>ff6e6e6e</color>
+				<width>0.400000</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>fff2c7c2</color>
+				<outline>1</outline>
+			</PolyStyle>
+		</Style>
+		<Folder id="FeatureLayer0">
+			<name>Mata_Allo_Layer</name>
+			<Snippet></Snippet>
+			<description><![CDATA[Mata_Allo_Layer]]></description>
+			<Placemark id="ID_00000">
+				<name>Mata Allo</name>
+				<Snippet></Snippet>
+				<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Mata Allo</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>1</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Shape_Leng</td>
+
+<td>0.062875</td>
+
+</tr>
+
+<tr>
+
+<td>ADM4_EN</td>
+
+<td>Mata Allo</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>ADM4_PCODE</td>
+
+<td>ID7306020018</td>
+
+</tr>
+
+<tr>
+
+<td>ADM4_REF</td>
+
+<td></td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>ADM4ALT1EN</td>
+
+<td></td>
+
+</tr>
+
+<tr>
+
+<td>ADM4ALT2EN</td>
+
+<td></td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>ADM3_EN</td>
+
+<td>Bajeng</td>
+
+</tr>
+
+<tr>
+
+<td>ADM3_PCODE</td>
+
+<td>ID7306020</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>ADM2_EN</td>
+
+<td>Gowa</td>
+
+</tr>
+
+<tr>
+
+<td>ADM2_PCODE</td>
+
+<td>ID7306</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>ADM1_EN</td>
+
+<td>Sulawesi Selatan</td>
+
+</tr>
+
+<tr>
+
+<td>ADM1_PCODE</td>
+
+<td>ID73</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>ADM0_EN</td>
+
+<td>Indonesia</td>
+
+</tr>
+
+<tr>
+
+<td>ADM0_PCODE</td>
+
+<td>ID</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>date</td>
+
+<td>12/20/2019</td>
+
+</tr>
+
+<tr>
+
+<td>validOn</td>
+
+<td>4/1/2020</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>validTo</td>
+
+<td>&lt;Null&gt;</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>
+
+]]></description>
+				<styleUrl>#PolyStyle00</styleUrl>
+				<MultiGeometry>
+					<Polygon>
+						<extrude>0</extrude><altitudeMode>clampToGround</altitudeMode>
+						<outerBoundaryIs><LinearRing><coordinates> 119.4459272003801,-5.288081400136434,0 119.4458924002141,-5.288092700117943,0 119.4451767997696,-5.287258300130418,0 119.4442483001191,-5.286423199570947,0 119.4447908997803,-5.284191200063788,0 119.4433128001457,-5.283749200365264,0 119.4399285002002,-5.282289400135653,0 119.4383398001418,-5.280868799555435,0 119.4373806003344,-5.279340800137788,0 119.436791199954,-5.278401700178279,0 119.4368408002628,-5.277245899578531,0 119.4350586002743,-5.276588700208322,0 119.4335921000954,-5.276069599832113,0 119.431464199813,-5.275883200049577,0 119.4307082998482,-5.276263499960521,0 119.4300671003165,-5.276607499636327,0 119.4301226001779,-5.276643500397199,0 119.4298213003128,-5.277553900292219,0 119.4295577000279,-5.278312599846572,0 119.4296341001336,-5.278843299678499,0 119.4301266003624,-5.279373399662632,0 119.4311864999571,-5.279902600324704,0 119.431678900361,-5.280356900050833,0 119.4318695998022,-5.28141819988997,0 119.4314931004263,-5.28255630003315,0 119.4307763002861,-5.283846499816093,0 119.430474500398,-5.284377800395134,0 119.4302868001957,-5.285325899870315,0 119.430098400321,-5.285819099771572,0 119.4297585995797,-5.286198799834722,0 119.4291538999325,-5.28654090014237,0 119.4287951999386,-5.286929300246982,0 119.4299108997683,-5.286881000357823,0 119.432105400244,-5.287294800014934,0 119.432898999789,-5.287611700419575,0 119.4339976997342,-5.288050299781446,0 119.4367620996912,-5.290169400197613,0 119.437594299937,-5.290168099777929,0 119.4375966004028,-5.29170730025163,0 119.4378117002499,-5.291544999602024,0 119.4383217003863,-5.291544299929456,0 119.4387858000247,-5.291868900329462,0 119.4394806000497,-5.291449600418673,0 119.4430501000821,-5.291211799884593,0 119.4435606002415,-5.291536299560505,0 119.4438383000976,-5.291257099635402,0 119.4440230999861,-5.291349299930175,0 119.4444879001965,-5.291581399661823,0 119.4442569003357,-5.292139400213102,0 119.4443038998052,-5.292557600253019,0 119.4449051001903,-5.29153430036763,0 119.4451366998989,-5.29139449985621,0 119.4456473997078,-5.291858399845239,0 119.446480500175,-5.290927699553663,0 119.4467115998605,-5.290462599869045,0 119.4473603995629,-5.290275700063432,0 119.4465246002302,-5.289440499679245,0 119.4465237000088,-5.288836399879926,0 119.4459272003801,-5.288081400136434,0</coordinates></LinearRing></outerBoundaryIs>
+					</Polygon>
+				</MultiGeometry>
+			</Placemark>
+			<Placemark id="ID_00001">
+				<name>Mata Allo</name>
+				<Snippet></Snippet>
+				<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Mata Allo</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>2</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Shape_Leng</td>
+
+<td>0.049226</td>
+
+</tr>
+
+<tr>
+
+<td>ADM4_EN</td>
+
+<td>Mata Allo</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>ADM4_PCODE</td>
+
+<td>ID7306050012</td>
+
+</tr>
+
+<tr>
+
+<td>ADM4_REF</td>
+
+<td></td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>ADM4ALT1EN</td>
+
+<td></td>
+
+</tr>
+
+<tr>
+
+<td>ADM4ALT2EN</td>
+
+<td></td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>ADM3_EN</td>
+
+<td>Bontomarannu</td>
+
+</tr>
+
+<tr>
+
+<td>ADM3_PCODE</td>
+
+<td>ID7306050</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>ADM2_EN</td>
+
+<td>Gowa</td>
+
+</tr>
+
+<tr>
+
+<td>ADM2_PCODE</td>
+
+<td>ID7306</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>ADM1_EN</td>
+
+<td>Sulawesi Selatan</td>
+
+</tr>
+
+<tr>
+
+<td>ADM1_PCODE</td>
+
+<td>ID73</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>ADM0_EN</td>
+
+<td>Indonesia</td>
+
+</tr>
+
+<tr>
+
+<td>ADM0_PCODE</td>
+
+<td>ID</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>date</td>
+
+<td>12/20/2019</td>
+
+</tr>
+
+<tr>
+
+<td>validOn</td>
+
+<td>4/1/2020</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>validTo</td>
+
+<td>&lt;Null&gt;</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>
+
+]]></description>
+				<styleUrl>#PolyStyle00</styleUrl>
+				<MultiGeometry>
+					<Polygon>
+						<extrude>0</extrude><altitudeMode>clampToGround</altitudeMode>
+						<outerBoundaryIs><LinearRing><coordinates> 119.5340999002902,-5.262276399935843,0 119.534094099663,-5.262266199825206,0 119.5340463996217,-5.262181300226757,0 119.5338701999498,-5.261054099866783,0 119.5329378997643,-5.261612300067554,0 119.531948800197,-5.26226629964998,0 119.5313767998995,-5.262823800178182,0 119.5313905999963,-5.266243900335667,0 119.5314733996777,-5.268720900349251,0 119.5316902999674,-5.271405200389665,0 119.5317540996721,-5.271522800236994,0 119.5316948999997,-5.271825699995986,0 119.5320631004319,-5.273008199668652,0 119.5322504004357,-5.27437359986169,0 119.5322687996654,-5.274394900304344,0 119.5331000996899,-5.275351799645762,0 119.5331033003771,-5.2753480998349,0 119.5340063995758,-5.27685140027188,0 119.5353069001934,-5.278032600424126,0 119.5353132997691,-5.278061199764522,0 119.5391607002063,-5.277712500231644,0 119.5390836004278,-5.277612099918429,0 119.5391529003861,-5.274584300225229,0 119.540087000115,-5.274038099678535,0 119.5419034004217,-5.272634999905279,0 119.5429087003763,-5.271689100171784,0 119.5430751999605,-5.271561700412121,0 119.5430320999515,-5.271528199766578,0 119.5429858999794,-5.270893999658313,0 119.5428037000308,-5.27007890002119,0 119.5423059999221,-5.269762600363663,0 119.5414019996026,-5.269673500031956,0 119.5410399999961,-5.269447500401782,0 119.5409035998214,-5.268949400094698,0 119.540847000089,-5.268500999921173,0 119.5407370004123,-5.2684530004056,0 119.5407008998267,-5.268419300110565,0 119.5398662003649,-5.267587199689444,0 119.5387364000649,-5.26648300039011,0 119.5372817997154,-5.265208000049142,0 119.5363435001525,-5.264275000191049,0 119.5361475001071,-5.264064799850587,0 119.5357327004039,-5.264806899718621,0 119.5355178002063,-5.264825200022926,0 119.5350524999729,-5.265059399671486,0 119.534515000367,-5.265024399856145,0 119.5339590997328,-5.26463029984842,0 119.5335637002047,-5.263805000100604,0 119.5334726996055,-5.262979200329767,0 119.5335976001492,-5.26263779969463,0 119.5338122997979,-5.262493800248649,0 119.5340270003459,-5.262349799903291,0 119.5340999002902,-5.262276399935843,0</coordinates></LinearRing></outerBoundaryIs>
+					</Polygon>
+				</MultiGeometry>
+			</Placemark>
+			<Placemark id="ID_00002">
+				<name>Mata Allo</name>
+				<Snippet></Snippet>
+				<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Mata Allo</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>3</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Shape_Leng</td>
+
+<td>0.076209</td>
+
+</tr>
+
+<tr>
+
+<td>ADM4_EN</td>
+
+<td>Mata Allo</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>ADM4_PCODE</td>
+
+<td>ID7316050003</td>
+
+</tr>
+
+<tr>
+
+<td>ADM4_REF</td>
+
+<td></td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>ADM4ALT1EN</td>
+
+<td></td>
+
+</tr>
+
+<tr>
+
+<td>ADM4ALT2EN</td>
+
+<td></td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>ADM3_EN</td>
+
+<td>Alla</td>
+
+</tr>
+
+<tr>
+
+<td>ADM3_PCODE</td>
+
+<td>ID7316050</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>ADM2_EN</td>
+
+<td>Enrekang</td>
+
+</tr>
+
+<tr>
+
+<td>ADM2_PCODE</td>
+
+<td>ID7316</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>ADM1_EN</td>
+
+<td>Sulawesi Selatan</td>
+
+</tr>
+
+<tr>
+
+<td>ADM1_PCODE</td>
+
+<td>ID73</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>ADM0_EN</td>
+
+<td>Indonesia</td>
+
+</tr>
+
+<tr>
+
+<td>ADM0_PCODE</td>
+
+<td>ID</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>date</td>
+
+<td>12/20/2019</td>
+
+</tr>
+
+<tr>
+
+<td>validOn</td>
+
+<td>4/1/2020</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>validTo</td>
+
+<td>&lt;Null&gt;</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>
+
+]]></description>
+				<styleUrl>#PolyStyle00</styleUrl>
+				<MultiGeometry>
+					<Polygon>
+						<extrude>0</extrude><altitudeMode>clampToGround</altitudeMode>
+						<outerBoundaryIs><LinearRing><coordinates> 119.8065811001377,-3.351555699835615,0 119.8040672000413,-3.342237199986755,0 119.7965578996274,-3.333309499633629,0 119.795556699682,-3.331557300129248,0 119.7940936996646,-3.3295315997035,0 119.7939360997713,-3.336540400419096,0 119.7963112003017,-3.342973400302128,0 119.7952225997433,-3.346634999905291,0 119.7938384001221,-3.349700300428481,0 119.7949330998828,-3.350128699679715,0 119.7963879997064,-3.351841599709985,0 119.7968800997369,-3.354139499738096,0 119.8032396996525,-3.36075669966192,0 119.8032398003766,-3.360756800385957,0 119.8033099996568,-3.360755699615822,0 119.8062333997517,-3.359589799629475,0 119.8077203999766,-3.359893999808207,0 119.8079908000354,-3.359826500292684,0 119.8088058996726,-3.359803799605629,0 119.8065811001377,-3.351555699835615,0</coordinates></LinearRing></outerBoundaryIs>
+					</Polygon>
+				</MultiGeometry>
+			</Placemark>
+		</Folder>
+	</Document>
+</kml>

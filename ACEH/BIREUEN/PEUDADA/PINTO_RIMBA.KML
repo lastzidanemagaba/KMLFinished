@@ -1,0 +1,414 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.opengis.net/kml/2.2 http://schemas.opengis.net/kml/2.2.0/ogckml22.xsd http://www.google.com/kml/ext/2.2 http://code.google.com/apis/kml/schema/kml22gx.xsd">
+	<Document id="Pinto_Rimba_Layer">
+		<name>Pinto_Rimba_Layer</name>
+		<Snippet></Snippet>
+		<Style id="PolyStyle00">
+			<LabelStyle>
+				<color>00000000</color>
+				<scale>0.000000</scale>
+			</LabelStyle>
+			<LineStyle>
+				<color>ff6e6e6e</color>
+				<width>0.400000</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>ffd2fcde</color>
+				<outline>1</outline>
+			</PolyStyle>
+		</Style>
+		<Folder id="FeatureLayer0">
+			<name>Pinto_Rimba_Layer</name>
+			<Snippet></Snippet>
+			<description><![CDATA[Pinto_Rimba_Layer]]></description>
+			<Placemark id="ID_00000">
+				<name>Pinto Rimba</name>
+				<Snippet></Snippet>
+				<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Pinto Rimba</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>1</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Shape_Leng</td>
+
+<td>0.224432</td>
+
+</tr>
+
+<tr>
+
+<td>ADM4_EN</td>
+
+<td>Pinto Rimba</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>ADM4_PCODE</td>
+
+<td>ID1103011008</td>
+
+</tr>
+
+<tr>
+
+<td>ADM4_REF</td>
+
+<td></td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>ADM4ALT1EN</td>
+
+<td></td>
+
+</tr>
+
+<tr>
+
+<td>ADM4ALT2EN</td>
+
+<td></td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>ADM3_EN</td>
+
+<td>Trumon Timur</td>
+
+</tr>
+
+<tr>
+
+<td>ADM3_PCODE</td>
+
+<td>ID1103011</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>ADM2_EN</td>
+
+<td>Aceh Selatan</td>
+
+</tr>
+
+<tr>
+
+<td>ADM2_PCODE</td>
+
+<td>ID1103</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>ADM1_EN</td>
+
+<td>Aceh</td>
+
+</tr>
+
+<tr>
+
+<td>ADM1_PCODE</td>
+
+<td>ID11</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>ADM0_EN</td>
+
+<td>Indonesia</td>
+
+</tr>
+
+<tr>
+
+<td>ADM0_PCODE</td>
+
+<td>ID</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>date</td>
+
+<td>12/20/2019</td>
+
+</tr>
+
+<tr>
+
+<td>validOn</td>
+
+<td>4/1/2020</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>validTo</td>
+
+<td>&lt;Null&gt;</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>
+
+]]></description>
+				<styleUrl>#PolyStyle00</styleUrl>
+				<MultiGeometry>
+					<Polygon>
+						<extrude>0</extrude><altitudeMode>clampToGround</altitudeMode>
+						<outerBoundaryIs><LinearRing><coordinates> 97.73293890021012,2.931414299930054,0 97.73252749994424,2.931555300137063,0 97.72892750030394,2.932455300271954,0 97.728549699609,2.932558400349933,0 97.71764830032885,2.887327099665981,0 97.71571669956609,2.879310899978123,0 97.71489480015498,2.875899700410912,0 97.71319329993088,2.868837999773916,0 97.71727409962006,2.867812900345143,0 97.72176879969044,2.866683799717634,0 97.72123130008447,2.864159099662743,0 97.72039449980639,2.860229199917683,0 97.72128510022725,2.859459599680804,0 97.72123819968323,2.85883840017209,0 97.72049020026259,2.848919000311639,0 97.7206560001743,2.848916699845859,0 97.72391310000961,2.848871699569315,0 97.73152439973131,2.848766700123178,0 97.73148360018808,2.849284599904422,0 97.73188709990978,2.85029619961,0 97.73531940027016,2.858902299701413,0 97.7379587998588,2.865520100372407,0 97.74213300043766,2.875985400405966,0 97.74339829979175,2.879157499918733,0 97.74455730017934,2.882063099732306,0 97.75289939978751,2.896633800409631,0 97.7539466000556,2.900006900198321,0 97.75273390024938,2.902411000267477,0 97.75238250005242,2.903107500011174,0 97.75290890022563,2.905325700320873,0 97.7589427998704,2.930748500343043,0 97.75852750014406,2.930255300441786,0 97.75622750019903,2.928455300172004,0 97.75607770012584,2.928365500167729,0 97.75551410039549,2.927873999985138,0 97.75472910016788,2.927261999641644,0 97.75397919958044,2.927044000380363,0 97.75377799965503,2.926985600205342,0 97.75372750002418,2.926955300246959,0 97.75365250016279,2.926949299970261,0 97.75347910008048,2.926898999988907,0 97.75272909966827,2.926789000312169,0 97.75123069963712,2.926572199847215,0 97.75094300021937,2.926531000105626,0 97.74997709956358,2.926563999828772,0 97.74922700022591,2.926740099675897,0 97.74895369985342,2.926843199753932,0 97.74658640004236,2.92725750033344,0 97.74598900019225,2.927291000079663,0 97.74511999968831,2.92747510029568,0 97.7448089997356,2.927540999917255,0 97.74380800033902,2.927682000124264,0 97.74364740030734,2.927715499870487,0 97.74310579979289,2.927828200211309,0 97.74304870003755,2.927851800220424,0 97.74302750031893,2.92785530038185,0 97.74291849978897,2.927893099786786,0 97.74289999983517,2.927897299620724,0 97.74262199960566,2.927965999731157,0 97.74209189962153,2.928110000076515,0 97.74122290001691,2.928480000051991,0 97.74042750002917,2.928755299617421,0 97.74039460013074,2.928769599737279,0 97.74021979980398,2.928822800032265,0 97.74009080015037,2.928861999681601,0 97.73815970031001,2.929720999724395,0 97.73721669999077,2.930015599640285,0 97.73602750036889,2.930355299657379,0 97.73431630005729,2.930942000273149,0 97.73322639997843,2.931293000271808,0 97.73293890021012,2.931414299930054,0</coordinates></LinearRing></outerBoundaryIs>
+					</Polygon>
+				</MultiGeometry>
+			</Placemark>
+			<Placemark id="ID_00001">
+				<name>Pinto Rimba</name>
+				<Snippet></Snippet>
+				<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Pinto Rimba</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>2</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Shape_Leng</td>
+
+<td>0.063748</td>
+
+</tr>
+
+<tr>
+
+<td>ADM4_EN</td>
+
+<td>Pinto Rimba</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>ADM4_PCODE</td>
+
+<td>ID1110040052</td>
+
+</tr>
+
+<tr>
+
+<td>ADM4_REF</td>
+
+<td></td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>ADM4ALT1EN</td>
+
+<td></td>
+
+</tr>
+
+<tr>
+
+<td>ADM4ALT2EN</td>
+
+<td></td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>ADM3_EN</td>
+
+<td>Peudada</td>
+
+</tr>
+
+<tr>
+
+<td>ADM3_PCODE</td>
+
+<td>ID1110040</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>ADM2_EN</td>
+
+<td>Bireuen</td>
+
+</tr>
+
+<tr>
+
+<td>ADM2_PCODE</td>
+
+<td>ID1110</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>ADM1_EN</td>
+
+<td>Aceh</td>
+
+</tr>
+
+<tr>
+
+<td>ADM1_PCODE</td>
+
+<td>ID11</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>ADM0_EN</td>
+
+<td>Indonesia</td>
+
+</tr>
+
+<tr>
+
+<td>ADM0_PCODE</td>
+
+<td>ID</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>date</td>
+
+<td>12/20/2019</td>
+
+</tr>
+
+<tr>
+
+<td>validOn</td>
+
+<td>4/1/2020</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>validTo</td>
+
+<td>&lt;Null&gt;</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>
+
+]]></description>
+				<styleUrl>#PolyStyle00</styleUrl>
+				<MultiGeometry>
+					<Polygon>
+						<extrude>0</extrude><altitudeMode>clampToGround</altitudeMode>
+						<outerBoundaryIs><LinearRing><coordinates> 96.60738469974416,5.150801099591149,0 96.60466070003133,5.151265200128933,0 96.60319569992168,5.151514699943505,0 96.59979890029905,5.152515700239405,0 96.59814030043458,5.153555800359925,0 96.59762699978626,5.153700500377852,0 96.59762730015984,5.153741100271588,0 96.59755569973584,5.153681100202675,0 96.59732209993501,5.153671800313361,0 96.59717839996324,5.152003500361275,0 96.59701629986239,5.15037859989252,0 96.59656929993332,5.147067899563979,0 96.59636750016006,5.143817200203671,0 96.59633849972204,5.138663600145094,0 96.59628120031721,5.137840500139021,0 96.59617209996253,5.136271700278769,0 96.59619360005468,5.134645600114425,0 96.59713389970977,5.133198500110723,0 96.59902910041274,5.132880999858287,0 96.60199599981559,5.132710900287861,0 96.60276479965586,5.132706599729829,0 96.60363430018288,5.132701700223322,0 96.60487200024266,5.132694699900526,0 96.60738080028375,5.132680499605442,0 96.60927990044712,5.133068500411014,0 96.60928710041941,5.133102199806729,0 96.60962559984159,5.134692499759126,0 96.61035060000023,5.138461599823017,0 96.61127709955855,5.14542009965794,0 96.6106250002436,5.147230200213642,0 96.6096718996385,5.14734689983959,0 96.60928429993055,5.147394400231406,0 96.60835640012783,5.147792299874766,0 96.60826500022961,5.148018599878526,0 96.60784949995451,5.149046800169742,0 96.6079500000925,5.149512499702155,0 96.60790370029559,5.149979100355267,0 96.60738469974416,5.150801099591149,0</coordinates></LinearRing></outerBoundaryIs>
+					</Polygon>
+				</MultiGeometry>
+			</Placemark>
+		</Folder>
+	</Document>
+</kml>

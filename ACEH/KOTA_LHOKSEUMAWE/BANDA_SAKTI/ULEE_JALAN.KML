@@ -1,0 +1,608 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.opengis.net/kml/2.2 http://schemas.opengis.net/kml/2.2.0/ogckml22.xsd http://www.google.com/kml/ext/2.2 http://code.google.com/apis/kml/schema/kml22gx.xsd">
+	<Document id="Ulee_Jalan_Layer">
+		<name>Ulee_Jalan_Layer</name>
+		<Snippet></Snippet>
+		<Style id="PolyStyle00">
+			<LabelStyle>
+				<color>00000000</color>
+				<scale>0.000000</scale>
+			</LabelStyle>
+			<LineStyle>
+				<color>ff6e6e6e</color>
+				<width>0.400000</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>fffccce0</color>
+				<outline>1</outline>
+			</PolyStyle>
+		</Style>
+		<Folder id="FeatureLayer0">
+			<name>Ulee_Jalan_Layer</name>
+			<Snippet></Snippet>
+			<description><![CDATA[Ulee_Jalan_Layer]]></description>
+			<Placemark id="ID_00000">
+				<name>Ulee Jalan</name>
+				<Snippet></Snippet>
+				<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Ulee Jalan</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>1</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Shape_Leng</td>
+
+<td>0.097325</td>
+
+</tr>
+
+<tr>
+
+<td>ADM4_EN</td>
+
+<td>Ulee Jalan</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>ADM4_PCODE</td>
+
+<td>ID1105132004</td>
+
+</tr>
+
+<tr>
+
+<td>ADM4_REF</td>
+
+<td></td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>ADM4ALT1EN</td>
+
+<td></td>
+
+</tr>
+
+<tr>
+
+<td>ADM4ALT2EN</td>
+
+<td></td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>ADM3_EN</td>
+
+<td>Banda Alam</td>
+
+</tr>
+
+<tr>
+
+<td>ADM3_PCODE</td>
+
+<td>ID1105132</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>ADM2_EN</td>
+
+<td>Aceh Timur</td>
+
+</tr>
+
+<tr>
+
+<td>ADM2_PCODE</td>
+
+<td>ID1105</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>ADM1_EN</td>
+
+<td>Aceh</td>
+
+</tr>
+
+<tr>
+
+<td>ADM1_PCODE</td>
+
+<td>ID11</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>ADM0_EN</td>
+
+<td>Indonesia</td>
+
+</tr>
+
+<tr>
+
+<td>ADM0_PCODE</td>
+
+<td>ID</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>date</td>
+
+<td>12/20/2019</td>
+
+</tr>
+
+<tr>
+
+<td>validOn</td>
+
+<td>4/1/2020</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>validTo</td>
+
+<td>&lt;Null&gt;</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>
+
+]]></description>
+				<styleUrl>#PolyStyle00</styleUrl>
+				<MultiGeometry>
+					<Polygon>
+						<extrude>0</extrude><altitudeMode>clampToGround</altitudeMode>
+						<outerBoundaryIs><LinearRing><coordinates> 97.71893780043922,4.878749299940296,0 97.71893509977508,4.878745799778869,0 97.71892300029629,4.878740699723551,0 97.71892060000573,4.878739500027962,0 97.71891830043927,4.87873980040149,0 97.71891890028706,4.878739599852679,0 97.71681510003691,4.87883409971397,0 97.70906459965164,4.877773399722685,0 97.70902399975785,4.877773700096213,0 97.70841300035971,4.876457599838432,0 97.7084127998109,4.876419699709402,0 97.70839210011536,4.873463399716172,0 97.70786689963779,4.87220900014529,0 97.70785409958711,4.872178399813322,0 97.70784619994225,4.871041400440333,0 97.70779999997006,4.869828799559514,0 97.70858660009156,4.868837799724702,0 97.70856839961203,4.866220099877751,0 97.70856810013777,4.866184600039333,0 97.70856789958896,4.866146699910303,0 97.70468390034176,4.861890800420156,0 97.70464610003756,4.861891099894365,0 97.7101575996935,4.856970800162344,0 97.73612100018408,4.856983000365233,0 97.73618279979644,4.856983000365233,0 97.7361749999763,4.856969599567435,0 97.73620169994854,4.856969700291472,0 97.73693599999649,4.859499100203379,0 97.73693740024089,4.859503899885112,0 97.7370503002312,4.859636299875376,0 97.74044239999682,4.863610600049185,0 97.7400768004041,4.86399850013072,0 97.73897710041291,4.865165499987882,0 97.73846930001827,4.865704300013476,0 97.73180470042666,4.872776500235318,0 97.72895480012397,4.875800699942374,0 97.72652700022093,4.878376899674208,0 97.72650479955689,4.8783780004444,0 97.72637329978801,4.878383999821779,0 97.72135700012552,4.8786379000191,0 97.72135569970584,4.87863120006989,0 97.71893780043922,4.878749299940296,0</coordinates></LinearRing></outerBoundaryIs>
+					</Polygon>
+				</MultiGeometry>
+			</Placemark>
+			<Placemark id="ID_00001">
+				<name>Ulee Jalan</name>
+				<Snippet></Snippet>
+				<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Ulee Jalan</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>2</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Shape_Leng</td>
+
+<td>0.071206</td>
+
+</tr>
+
+<tr>
+
+<td>ADM4_EN</td>
+
+<td>Ulee Jalan</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>ADM4_PCODE</td>
+
+<td>ID1110081007</td>
+
+</tr>
+
+<tr>
+
+<td>ADM4_REF</td>
+
+<td></td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>ADM4ALT1EN</td>
+
+<td></td>
+
+</tr>
+
+<tr>
+
+<td>ADM4ALT2EN</td>
+
+<td></td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>ADM3_EN</td>
+
+<td>Peusangan Selatan</td>
+
+</tr>
+
+<tr>
+
+<td>ADM3_PCODE</td>
+
+<td>ID1110081</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>ADM2_EN</td>
+
+<td>Bireuen</td>
+
+</tr>
+
+<tr>
+
+<td>ADM2_PCODE</td>
+
+<td>ID1110</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>ADM1_EN</td>
+
+<td>Aceh</td>
+
+</tr>
+
+<tr>
+
+<td>ADM1_PCODE</td>
+
+<td>ID11</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>ADM0_EN</td>
+
+<td>Indonesia</td>
+
+</tr>
+
+<tr>
+
+<td>ADM0_PCODE</td>
+
+<td>ID</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>date</td>
+
+<td>12/20/2019</td>
+
+</tr>
+
+<tr>
+
+<td>validOn</td>
+
+<td>4/1/2020</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>validTo</td>
+
+<td>&lt;Null&gt;</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>
+
+]]></description>
+				<styleUrl>#PolyStyle00</styleUrl>
+				<MultiGeometry>
+					<Polygon>
+						<extrude>0</extrude><altitudeMode>clampToGround</altitudeMode>
+						<outerBoundaryIs><LinearRing><coordinates> 96.77110700038781,5.14883039990309,0 96.77105029993146,5.148792999797138,0 96.77014950029928,5.148556399858023,0 96.76861399963644,5.148565500097789,0 96.76771389967678,5.148460800125861,0 96.7658493002051,5.148471899558558,0 96.76144600003295,5.14896129982418,0 96.75372600015487,5.149819299820876,0 96.75271539959607,5.149845499770038,0 96.7526768996193,5.149722600217899,0 96.75279830000159,5.149270900431759,0 96.75280769971562,5.149236100265853,0 96.7528019998125,5.148273900320305,0 96.75251659996115,5.146674299579331,0 96.75234879995719,5.145734199573724,0 96.75238100018305,5.145684399615391,0 96.75233959989271,5.145682600072007,0 96.7524109997679,5.145479800252645,0 96.75272709977588,5.144692000435498,0 96.752884400195,5.144300000344799,0 96.75341960023439,5.139685200311817,0 96.75368240012273,5.137419299960754,0 96.75370149992432,5.137255099942934,0 96.75415419975656,5.133351499971809,0 96.75411350003805,5.132870600098158,0 96.75398379981254,5.131337599550648,0 96.75931549981055,5.130563099807262,0 96.7598756002788,5.131098299846713,0 96.76127710015811,5.131612399992321,0 96.76207000003052,5.131522500163328,0 96.76357889964657,5.131351399647428,0 96.76528750001819,5.131051099828426,0 96.76548719987443,5.131864300097448,0 96.76616419961817,5.132889199876729,0 96.76671950040469,5.133360799861066,0 96.76780280035899,5.134643400372681,0 96.76834900000642,5.135290100158045,0 96.76863909971473,5.135625399792389,0 96.77049480039477,5.137770399784188,0 96.77164669973547,5.139029900309708,0 96.77252800026707,5.141240600273534,0 96.77280849971254,5.141951300312314,0 96.77287309981375,5.142061899836847,0 96.77283120039965,5.142079700118131,0 96.77300089977177,5.142541600014852,0 96.77329789997816,5.143417699767099,0 96.77333580010713,5.143529400061823,0 96.773376900024,5.143844099825401,0 96.77322590025517,5.143875300005163,0 96.77112419992193,5.144591600122283,0 96.77101530011606,5.144724199762038,0 96.77095019999177,5.144834599637136,0 96.77096529960897,5.145017099959261,0 96.77087510030572,5.145499200427821,0 96.77088040001053,5.146396599723346,0 96.77106240030957,5.147391699567322,0 96.77113430020785,5.147785099902478,0 96.77108550029567,5.148436500444177,0 96.77110700038781,5.14883039990309,0</coordinates></LinearRing></outerBoundaryIs>
+					</Polygon>
+				</MultiGeometry>
+			</Placemark>
+			<Placemark id="ID_00002">
+				<name>Ulee Jalan</name>
+				<Snippet></Snippet>
+				<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Ulee Jalan</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>3</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Shape_Leng</td>
+
+<td>0.048192</td>
+
+</tr>
+
+<tr>
+
+<td>ADM4_EN</td>
+
+<td>Ulee Jalan</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>ADM4_PCODE</td>
+
+<td>ID1174030014</td>
+
+</tr>
+
+<tr>
+
+<td>ADM4_REF</td>
+
+<td></td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>ADM4ALT1EN</td>
+
+<td></td>
+
+</tr>
+
+<tr>
+
+<td>ADM4ALT2EN</td>
+
+<td></td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>ADM3_EN</td>
+
+<td>Banda Sakti</td>
+
+</tr>
+
+<tr>
+
+<td>ADM3_PCODE</td>
+
+<td>ID1174030</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>ADM2_EN</td>
+
+<td>Kota Lhokseumawe</td>
+
+</tr>
+
+<tr>
+
+<td>ADM2_PCODE</td>
+
+<td>ID1174</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>ADM1_EN</td>
+
+<td>Aceh</td>
+
+</tr>
+
+<tr>
+
+<td>ADM1_PCODE</td>
+
+<td>ID11</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>ADM0_EN</td>
+
+<td>Indonesia</td>
+
+</tr>
+
+<tr>
+
+<td>ADM0_PCODE</td>
+
+<td>ID</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>date</td>
+
+<td>12/20/2019</td>
+
+</tr>
+
+<tr>
+
+<td>validOn</td>
+
+<td>4/1/2020</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>validTo</td>
+
+<td>&lt;Null&gt;</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>
+
+]]></description>
+				<styleUrl>#PolyStyle00</styleUrl>
+				<MultiGeometry>
+					<Polygon>
+						<extrude>0</extrude><altitudeMode>clampToGround</altitudeMode>
+						<outerBoundaryIs><LinearRing><coordinates> 97.12461260019143,5.207622700027628,0 97.12466939957318,5.20687969993827,0 97.12449760028409,5.20655589993487,0 97.12448990028872,5.206554100391486,0 97.1247388002555,5.206124499645966,0 97.12491480027785,5.205276400285697,0 97.12526890023963,5.204599899665709,0 97.12667459995288,5.204526600422298,0 97.12821159978557,5.200180599654971,0 97.13020459996238,5.200252999576321,0 97.13067939973456,5.197497799683731,0 97.13079110002928,5.196433200232036,0 97.13096969999174,5.194906299785941,0 97.1311214003324,5.193554500040193,0 97.13135719987491,5.191849800028308,0 97.13140170012844,5.191846299866882,0 97.13182500022361,5.191906700134155,0 97.13331980026862,5.192077299727657,0 97.13342450024055,5.19210280000425,0 97.13342529973784,5.192102999653741,0 97.13340040020836,5.192458999883002,0 97.13338750033296,5.192642299702413,0 97.13368610043324,5.193161900101643,0 97.1343667999879,5.194059499946036,0 97.13492169967674,5.195056599882207,0 97.13551810038007,5.195968900044761,0 97.13611519985665,5.196983700437499,0 97.13612949997651,5.197007900294409,0 97.13614749990728,5.197021800215964,0 97.13545300025584,5.196908599852065,0 97.1346157997794,5.196800799917014,0 97.13457410001479,5.197333700390004,0 97.13374849989344,5.197271100381045,0 97.13367340020733,5.197894899829805,0 97.13353109958064,5.198598499721015,0 97.13336650026383,5.199358899893355,0 97.13352839981587,5.199913099909679,0 97.13352310011106,5.200842499781572,0 97.13334860015783,5.201818200349692,0 97.13315169989107,5.202816800355095,0 97.13315529987727,5.203360800260782,0 97.13313660027393,5.203961499723505,0 97.13332970000573,5.20463970006216,0 97.13310940027867,5.204740200200149,0 97.13296160029768,5.204807500066124,0 97.13235119984807,5.205109799977322,0 97.13170719982747,5.205441499625579,0 97.13125779960785,5.205660200358011,0 97.13088259975223,5.205869299928281,0 97.13053939957371,5.206095299558456,0 97.13022290026669,5.206272400351054,0 97.12993460010176,5.206379399889443,0 97.1297078998997,5.20647260023037,0 97.12949370027411,5.20657010023001,0 97.12912830033088,5.206751200307679,0 97.12880779994009,5.206893199661465,0 97.12848449995977,5.207029599836233,0 97.12822270011759,5.20714790025545,0 97.12798050010008,5.207248100019854,0 97.12771040041468,5.207355200282336,0 97.12748930029102,5.207437300291247,0 97.12705959972084,5.207615400230566,0 97.12660050031292,5.207831199750103,0 97.12617770024076,5.208023400159846,0 97.12583750020053,5.208182099924045,0 97.12538120038215,5.208400799757158,0 97.12513059979739,5.208520600245549,0 97.12501149988088,5.208569699631994,0 97.12461260019143,5.207622700027628,0</coordinates></LinearRing></outerBoundaryIs>
+					</Polygon>
+				</MultiGeometry>
+			</Placemark>
+		</Folder>
+	</Document>
+</kml>

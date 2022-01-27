@@ -1,0 +1,212 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.opengis.net/kml/2.2 http://schemas.opengis.net/kml/2.2.0/ogckml22.xsd http://www.google.com/kml/ext/2.2 http://code.google.com/apis/kml/schema/kml22gx.xsd">
+	<Document id="Koragi_Layer">
+		<name>Koragi_Layer</name>
+		<Snippet></Snippet>
+		<Style id="PolyStyle00">
+			<LabelStyle>
+				<color>00000000</color>
+				<scale>0.000000</scale>
+			</LabelStyle>
+			<LineStyle>
+				<color>ff6e6e6e</color>
+				<width>0.400000</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>ffc7fcfc</color>
+				<outline>1</outline>
+			</PolyStyle>
+		</Style>
+		<Folder id="FeatureLayer0">
+			<name>Koragi_Layer</name>
+			<Snippet></Snippet>
+			<description><![CDATA[Koragi_Layer]]></description>
+			<Placemark id="ID_00000">
+				<name>Koragi</name>
+				<Snippet></Snippet>
+				<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Koragi</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>1</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Shape_Leng</td>
+
+<td>0.075644</td>
+
+</tr>
+
+<tr>
+
+<td>ADM3_EN</td>
+
+<td>Koragi</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>ADM3_PCODE</td>
+
+<td>ID9402228</td>
+
+</tr>
+
+<tr>
+
+<td>ADM3_REF</td>
+
+<td></td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>ADM3ALT1EN</td>
+
+<td></td>
+
+</tr>
+
+<tr>
+
+<td>ADM3ALT2EN</td>
+
+<td></td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>ADM2_EN</td>
+
+<td>Jayawijaya</td>
+
+</tr>
+
+<tr>
+
+<td>ADM2_PCODE</td>
+
+<td>ID9402</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>ADM1_EN</td>
+
+<td>Papua</td>
+
+</tr>
+
+<tr>
+
+<td>ADM1_PCODE</td>
+
+<td>ID94</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>ADM0_EN</td>
+
+<td>Indonesia</td>
+
+</tr>
+
+<tr>
+
+<td>ADM0_PCODE</td>
+
+<td>ID</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>date</td>
+
+<td>12/20/2019</td>
+
+</tr>
+
+<tr>
+
+<td>validOn</td>
+
+<td>4/1/2020</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>validTo</td>
+
+<td>&lt;Null&gt;</td>
+
+</tr>
+
+<tr>
+
+<td>tes</td>
+
+<td></td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>
+
+]]></description>
+				<styleUrl>#PolyStyle00</styleUrl>
+				<MultiGeometry>
+					<Polygon>
+						<extrude>0</extrude><altitudeMode>clampToGround</altitudeMode>
+						<outerBoundaryIs><LinearRing><coordinates> 138.8139531997804,-3.879851300397149,0 138.8137057998828,-3.87465589984987,0 138.8119177003416,-3.87036520019376,0 138.8112318000076,-3.868718400333876,0 138.812221399598,-3.864265200378668,0 138.8121328001887,-3.862484000436211,0 138.8119733000278,-3.859317199728935,0 138.806405299565,-3.859662999847501,0 138.8023514003969,-3.860754399995528,0 138.800903199623,-3.861144300169258,0 138.7982314999838,-3.86284419960009,0 138.796247500222,-3.864106999738226,0 138.7937080000243,-3.8655883998847,0 138.7943709001969,-3.866504100383906,0 138.7973406999134,-3.870604999920772,0 138.7981520997397,-3.871725399607442,0 138.7994218003759,-3.875111300346191,0 138.7988663997646,-3.875431399639353,0 138.8008735004117,-3.877114599559093,0 138.8010933999406,-3.87760830038269,0 138.8015386003262,-3.878611000397314,0 138.8018625001544,-3.880068699810579,0 138.801871100371,-3.880107400336215,0 138.8037000003548,-3.881603800275116,0 138.8056370995726,-3.88295729973953,0 138.8056952002734,-3.882933900279227,0 138.8079024999005,-3.882757300409025,0 138.8098518002205,-3.882601300409647,0 138.813952299559,-3.883765200303685,0 138.8139531997804,-3.879851300397149,0</coordinates></LinearRing></outerBoundaryIs>
+					</Polygon>
+				</MultiGeometry>
+			</Placemark>
+		</Folder>
+	</Document>
+</kml>

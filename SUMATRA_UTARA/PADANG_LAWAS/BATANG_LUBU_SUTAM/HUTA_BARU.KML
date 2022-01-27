@@ -1,0 +1,806 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.opengis.net/kml/2.2 http://schemas.opengis.net/kml/2.2.0/ogckml22.xsd http://www.google.com/kml/ext/2.2 http://code.google.com/apis/kml/schema/kml22gx.xsd">
+	<Document id="Huta_Baru_Layer">
+		<name>Huta_Baru_Layer</name>
+		<Snippet></Snippet>
+		<Style id="PolyStyle00">
+			<LabelStyle>
+				<color>00000000</color>
+				<scale>0.000000</scale>
+			</LabelStyle>
+			<LineStyle>
+				<color>ff6e6e6e</color>
+				<width>0.400000</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>fff7bcc4</color>
+				<outline>1</outline>
+			</PolyStyle>
+		</Style>
+		<Folder id="FeatureLayer0">
+			<name>Huta_Baru_Layer</name>
+			<Snippet></Snippet>
+			<description><![CDATA[Huta_Baru_Layer]]></description>
+			<Placemark id="ID_00000">
+				<name>Huta Baru</name>
+				<Snippet></Snippet>
+				<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Huta Baru</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>1</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Shape_Leng</td>
+
+<td>0.016497</td>
+
+</tr>
+
+<tr>
+
+<td>ADM4_EN</td>
+
+<td>Huta Baru</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>ADM4_PCODE</td>
+
+<td>ID1202034009</td>
+
+</tr>
+
+<tr>
+
+<td>ADM4_REF</td>
+
+<td></td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>ADM4ALT1EN</td>
+
+<td></td>
+
+</tr>
+
+<tr>
+
+<td>ADM4ALT2EN</td>
+
+<td></td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>ADM3_EN</td>
+
+<td>Puncak Sorik Marapi</td>
+
+</tr>
+
+<tr>
+
+<td>ADM3_PCODE</td>
+
+<td>ID1202034</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>ADM2_EN</td>
+
+<td>Mandailing Natal</td>
+
+</tr>
+
+<tr>
+
+<td>ADM2_PCODE</td>
+
+<td>ID1202</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>ADM1_EN</td>
+
+<td>Sumatera Utara</td>
+
+</tr>
+
+<tr>
+
+<td>ADM1_PCODE</td>
+
+<td>ID12</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>ADM0_EN</td>
+
+<td>Indonesia</td>
+
+</tr>
+
+<tr>
+
+<td>ADM0_PCODE</td>
+
+<td>ID</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>date</td>
+
+<td>12/20/2019</td>
+
+</tr>
+
+<tr>
+
+<td>validOn</td>
+
+<td>4/1/2020</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>validTo</td>
+
+<td>&lt;Null&gt;</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>
+
+]]></description>
+				<styleUrl>#PolyStyle00</styleUrl>
+				<MultiGeometry>
+					<Polygon>
+						<extrude>0</extrude><altitudeMode>clampToGround</altitudeMode>
+						<outerBoundaryIs><LinearRing><coordinates> 99.5951274001095,0.7022648999052308,0 99.59585760014818,0.7047715002046289,0 99.59419769986403,0.703683899692237,0 99.59183440023742,0.7019850003075589,0 99.58983920031892,0.7013425003561338,0 99.5899873995989,0.7008202001921404,0 99.59020949976866,0.7002161003927654,0 99.59032430002651,0.6999048998912372,0 99.59143200038659,0.7002830000604376,0 99.59249890030407,0.7007975004043487,0 99.59318800042593,0.7011554000017668,0 99.59396600033074,0.7016028001291943,0 99.59472169974669,0.7019383003123494,0 99.5951274001095,0.7022648999052308,0</coordinates></LinearRing></outerBoundaryIs>
+					</Polygon>
+				</MultiGeometry>
+			</Placemark>
+			<Placemark id="ID_00001">
+				<name>Huta Baru</name>
+				<Snippet></Snippet>
+				<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Huta Baru</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>2</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Shape_Leng</td>
+
+<td>0.27025</td>
+
+</tr>
+
+<tr>
+
+<td>ADM4_EN</td>
+
+<td>Huta Baru</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>ADM4_PCODE</td>
+
+<td>ID1203161092</td>
+
+</tr>
+
+<tr>
+
+<td>ADM4_REF</td>
+
+<td></td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>ADM4ALT1EN</td>
+
+<td></td>
+
+</tr>
+
+<tr>
+
+<td>ADM4ALT2EN</td>
+
+<td></td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>ADM3_EN</td>
+
+<td>Aek Bilah</td>
+
+</tr>
+
+<tr>
+
+<td>ADM3_PCODE</td>
+
+<td>ID1203161</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>ADM2_EN</td>
+
+<td>Tapanuli Selatan</td>
+
+</tr>
+
+<tr>
+
+<td>ADM2_PCODE</td>
+
+<td>ID1203</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>ADM1_EN</td>
+
+<td>Sumatera Utara</td>
+
+</tr>
+
+<tr>
+
+<td>ADM1_PCODE</td>
+
+<td>ID12</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>ADM0_EN</td>
+
+<td>Indonesia</td>
+
+</tr>
+
+<tr>
+
+<td>ADM0_PCODE</td>
+
+<td>ID</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>date</td>
+
+<td>12/20/2019</td>
+
+</tr>
+
+<tr>
+
+<td>validOn</td>
+
+<td>4/1/2020</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>validTo</td>
+
+<td>&lt;Null&gt;</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>
+
+]]></description>
+				<styleUrl>#PolyStyle00</styleUrl>
+				<MultiGeometry>
+					<Polygon>
+						<extrude>0</extrude><altitudeMode>clampToGround</altitudeMode>
+						<outerBoundaryIs><LinearRing><coordinates> 99.53005690040567,1.976654100306519,0 99.53013400018403,1.974934699976473,0 99.5307796999233,1.970159700110116,0 99.53132109988888,1.966155199802699,0 99.53131969964448,1.961765599902549,0 99.53131759972752,1.954981699845632,0 99.53212190030553,1.95072600000492,0 99.53259269989326,1.948234500222043,0 99.53647379972614,1.955778199704184,0 99.53689959993665,1.957382399578137,0 99.53710880023101,1.958170700317623,0 99.53806220031038,1.96176349998558,0 99.53806420040257,1.968148299804227,0 99.54081299982016,1.975515900338564,0 99.54163690022284,1.977724399661383,0 99.54260919955499,1.978767200445986,0 99.54485590027963,1.981176700044728,0 99.54512649998804,1.981947499977196,0 99.54560489974637,1.983309800207167,0 99.54560710038743,1.990093600439366,0 99.54560870028138,1.994882299678409,0 99.54362719973551,1.999671499839906,0 99.54335660002715,2.002951500011761,0 99.5420412003412,2.001268300092022,0 99.54187660012508,2.000771900402924,0 99.54085009955253,1.997677200142732,0 99.54005519958787,1.992489799964346,0 99.54005380024273,1.988100200064252,0 99.53825630008822,1.984847399887656,0 99.53806950010738,1.984509399589172,0 99.53734009956599,1.98322599958027,0 99.53489469993053,1.978923699569123,0 99.53005690040567,1.976654100306519,0</coordinates></LinearRing></outerBoundaryIs>
+					</Polygon>
+					<Polygon>
+						<extrude>0</extrude><altitudeMode>clampToGround</altitudeMode>
+						<outerBoundaryIs><LinearRing><coordinates> 99.55641950005992,1.884355200232335,0 99.55588520024185,1.88553889960059,0 99.55350680009883,1.889131100320071,0 99.55192060015565,1.889929700095649,0 99.54993780008948,1.890329400181713,0 99.54914540024009,1.893123000226353,0 99.54755949977118,1.894719699754376,0 99.54478329980952,1.894720599975756,0 99.54200709984786,1.894721500197136,0 99.53645539959706,1.896718499659073,0 99.53605990024425,1.90031009963144,0 99.53611390003653,1.900418799787815,0 99.53804409965551,1.90430000034479,0 99.54002770011834,1.906294600415549,0 99.54002789976784,1.906907099882801,0 99.54002860033967,1.909087999911321,0 99.54091049981974,1.910861300208865,0 99.54090060008269,1.910895100328673,0 99.54003010040884,1.913876600224967,0 99.53877369984644,1.914403799895524,0 99.53557500018616,1.91574600027775,0 99.53527149968005,1.915873400037412,0 99.53567019972002,1.922657100444894,0 99.53446200012127,1.92752600032469,0 99.53408570039483,1.929042500111336,0 99.52997569971882,1.933476000417159,0 99.52969599977064,1.933250999933762,0 99.53130839966298,1.925451900185067,0 99.53130810018871,1.924547300017935,0 99.53130519987513,1.915076499980557,0 99.53094740010249,1.911488199620749,0 99.53050950041319,1.9070957003064,0 99.5308639996739,1.904951700360755,0 99.5316405004088,1.900254999968297,0 99.53169710014112,1.899912399637572,0 99.52971220015797,1.893528099842001,0 99.52971079991352,1.889138599766625,0 99.52948640017729,1.887448600072901,0 99.52861440043426,1.880883300024323,0 99.53373110041002,1.880599800440507,0 99.53872509958376,1.880323199556074,0 99.5462576996332,1.879418600288204,0 99.55142750007911,1.882713899726753,0 99.55641950005992,1.884355200232335,0</coordinates></LinearRing></outerBoundaryIs>
+					</Polygon>
+				</MultiGeometry>
+			</Placemark>
+			<Placemark id="ID_00002">
+				<name>Huta Baru</name>
+				<Snippet></Snippet>
+				<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Huta Baru</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>3</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Shape_Leng</td>
+
+<td>0.334533</td>
+
+</tr>
+
+<tr>
+
+<td>ADM4_EN</td>
+
+<td>Huta Baru</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>ADM4_PCODE</td>
+
+<td>ID1220050108</td>
+
+</tr>
+
+<tr>
+
+<td>ADM4_REF</td>
+
+<td></td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>ADM4ALT1EN</td>
+
+<td></td>
+
+</tr>
+
+<tr>
+
+<td>ADM4ALT2EN</td>
+
+<td></td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>ADM3_EN</td>
+
+<td>Simangambat</td>
+
+</tr>
+
+<tr>
+
+<td>ADM3_PCODE</td>
+
+<td>ID1220050</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>ADM2_EN</td>
+
+<td>Padang Lawas Utara</td>
+
+</tr>
+
+<tr>
+
+<td>ADM2_PCODE</td>
+
+<td>ID1220</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>ADM1_EN</td>
+
+<td>Sumatera Utara</td>
+
+</tr>
+
+<tr>
+
+<td>ADM1_PCODE</td>
+
+<td>ID12</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>ADM0_EN</td>
+
+<td>Indonesia</td>
+
+</tr>
+
+<tr>
+
+<td>ADM0_PCODE</td>
+
+<td>ID</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>date</td>
+
+<td>12/20/2019</td>
+
+</tr>
+
+<tr>
+
+<td>validOn</td>
+
+<td>4/1/2020</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>validTo</td>
+
+<td>&lt;Null&gt;</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>
+
+]]></description>
+				<styleUrl>#PolyStyle00</styleUrl>
+				<MultiGeometry>
+					<Polygon>
+						<extrude>0</extrude><altitudeMode>clampToGround</altitudeMode>
+						<outerBoundaryIs><LinearRing><coordinates> 100.0121944003513,1.368613799986917,0 100.012720000128,1.374132600339294,0 100.0102857997499,1.382517200108737,0 100.0029830996904,1.40009780037326,0 99.99784419994995,1.413080399940554,0 99.99054140006564,1.429038199653235,0 99.98377969977338,1.446889299801398,0 99.98134539957061,1.4536510000936,0 99.97999309980179,1.460412800210634,0 99.9759359999465,1.466363199602029,0 99.97377230035141,1.471772600125462,0 99.97214939997491,1.473395399777928,0 99.97187899991599,1.475559200097052,0 99.97052660032239,1.476911499865878,0 99.96971519959686,1.477452499633216,0 99.96863329988696,1.481239099604807,0 99.9678219000607,1.482320900389311,0 99.96728100011813,1.483402800099213,0 99.96728100011813,1.485566600418338,0 99.96592859962522,1.486378000244542,0 99.96592859962522,1.488000799897065,0 99.96295340037921,1.490976000042394,0 99.96187149976998,1.49395120018778,0 99.96051920000116,1.497196800392089,0 99.95754399985577,1.50612239992887,0 99.95673260002951,1.511261299669286,0 99.95646210014587,1.514236499814672,0 99.95565070031961,1.518023099786262,0 99.95565070031961,1.521580100141534,0 99.95409969984132,1.521580100141534,0 99.95270060025257,1.521580100141534,0 99.95270060025257,1.519248399993728,0 99.95270060025257,1.511786900345214,0 99.95783039975322,1.494532299825835,0 99.9657581996812,1.477277600381001,0 99.97368599960924,1.463753699773463,0 99.98114750015708,1.443700999901296,0 99.98720990021678,1.426912699661386,0 99.99513770014482,1.409658000216609,0 100.0025991997933,1.391936999592929,0 100.0077290001933,1.379345800268538,0 100.0089852002069,1.373064700375664,0 100.0107719004029,1.370801700338234,0 100.0121944003513,1.368613799986917,0</coordinates></LinearRing></outerBoundaryIs>
+					</Polygon>
+				</MultiGeometry>
+			</Placemark>
+			<Placemark id="ID_00003">
+				<name>Huta Baru</name>
+				<Snippet></Snippet>
+				<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Huta Baru</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>4</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Shape_Leng</td>
+
+<td>0.152293</td>
+
+</tr>
+
+<tr>
+
+<td>ADM4_EN</td>
+
+<td>Huta Baru</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>ADM4_PCODE</td>
+
+<td>ID1221060014</td>
+
+</tr>
+
+<tr>
+
+<td>ADM4_REF</td>
+
+<td></td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>ADM4ALT1EN</td>
+
+<td></td>
+
+</tr>
+
+<tr>
+
+<td>ADM4ALT2EN</td>
+
+<td></td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>ADM3_EN</td>
+
+<td>Batang Lubu Sutam</td>
+
+</tr>
+
+<tr>
+
+<td>ADM3_PCODE</td>
+
+<td>ID1221060</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>ADM2_EN</td>
+
+<td>Padang Lawas</td>
+
+</tr>
+
+<tr>
+
+<td>ADM2_PCODE</td>
+
+<td>ID1221</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>ADM1_EN</td>
+
+<td>Sumatera Utara</td>
+
+</tr>
+
+<tr>
+
+<td>ADM1_PCODE</td>
+
+<td>ID12</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>ADM0_EN</td>
+
+<td>Indonesia</td>
+
+</tr>
+
+<tr>
+
+<td>ADM0_PCODE</td>
+
+<td>ID</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>date</td>
+
+<td>12/20/2019</td>
+
+</tr>
+
+<tr>
+
+<td>validOn</td>
+
+<td>4/1/2020</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>validTo</td>
+
+<td>&lt;Null&gt;</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>
+
+]]></description>
+				<styleUrl>#PolyStyle00</styleUrl>
+				<MultiGeometry>
+					<Polygon>
+						<extrude>0</extrude><altitudeMode>clampToGround</altitudeMode>
+						<outerBoundaryIs><LinearRing><coordinates> 100.0541044003978,0.9341038002502273,0 100.0545463002716,0.9345919000961658,0 100.0522674002204,0.9362631003618276,0 100.0039271998804,0.8826357002773761,0 100.0031753001001,0.8815452003507858,0 100.0049667999779,0.8803508997742711,0 100.0052643002073,0.8801525003376582,0 100.0541044003978,0.9341038002502273,0</coordinates></LinearRing></outerBoundaryIs>
+					</Polygon>
+				</MultiGeometry>
+			</Placemark>
+		</Folder>
+	</Document>
+</kml>

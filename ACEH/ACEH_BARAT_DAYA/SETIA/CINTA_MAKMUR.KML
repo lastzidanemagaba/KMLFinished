@@ -1,0 +1,608 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.opengis.net/kml/2.2 http://schemas.opengis.net/kml/2.2.0/ogckml22.xsd http://www.google.com/kml/ext/2.2 http://code.google.com/apis/kml/schema/kml22gx.xsd">
+	<Document id="Cinta_Makmur_Layer">
+		<name>Cinta_Makmur_Layer</name>
+		<Snippet></Snippet>
+		<Style id="PolyStyle00">
+			<LabelStyle>
+				<color>00000000</color>
+				<scale>0.000000</scale>
+			</LabelStyle>
+			<LineStyle>
+				<color>ff6e6e6e</color>
+				<width>0.400000</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>fffacde6</color>
+				<outline>1</outline>
+			</PolyStyle>
+		</Style>
+		<Folder id="FeatureLayer0">
+			<name>Cinta_Makmur_Layer</name>
+			<Snippet></Snippet>
+			<description><![CDATA[Cinta_Makmur_Layer]]></description>
+			<Placemark id="ID_00000">
+				<name>Cinta Makmur</name>
+				<Snippet></Snippet>
+				<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Cinta Makmur</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>1</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Shape_Leng</td>
+
+<td>0.06123</td>
+
+</tr>
+
+<tr>
+
+<td>ADM4_EN</td>
+
+<td>Cinta Makmur</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>ADM4_PCODE</td>
+
+<td>ID1104021020</td>
+
+</tr>
+
+<tr>
+
+<td>ADM4_REF</td>
+
+<td></td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>ADM4ALT1EN</td>
+
+<td></td>
+
+</tr>
+
+<tr>
+
+<td>ADM4ALT2EN</td>
+
+<td></td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>ADM3_EN</td>
+
+<td>Babul Makmur</td>
+
+</tr>
+
+<tr>
+
+<td>ADM3_PCODE</td>
+
+<td>ID1104021</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>ADM2_EN</td>
+
+<td>Aceh Tenggara</td>
+
+</tr>
+
+<tr>
+
+<td>ADM2_PCODE</td>
+
+<td>ID1104</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>ADM1_EN</td>
+
+<td>Aceh</td>
+
+</tr>
+
+<tr>
+
+<td>ADM1_PCODE</td>
+
+<td>ID11</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>ADM0_EN</td>
+
+<td>Indonesia</td>
+
+</tr>
+
+<tr>
+
+<td>ADM0_PCODE</td>
+
+<td>ID</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>date</td>
+
+<td>12/20/2019</td>
+
+</tr>
+
+<tr>
+
+<td>validOn</td>
+
+<td>4/1/2020</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>validTo</td>
+
+<td>&lt;Null&gt;</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>
+
+]]></description>
+				<styleUrl>#PolyStyle00</styleUrl>
+				<MultiGeometry>
+					<Polygon>
+						<extrude>0</extrude><altitudeMode>clampToGround</altitudeMode>
+						<outerBoundaryIs><LinearRing><coordinates> 97.97487059959855,3.297824699850082,0 97.9748800002119,3.297826299743974,0 97.97487600002745,3.299138600366177,0 97.97472920009255,3.299843200303485,0 97.97454800019011,3.300712699931182,0 97.9746784999129,3.301190900040069,0 97.97475110038306,3.301419299960799,0 97.97471950000499,3.301535499563727,0 97.97448249986752,3.302483599938228,0 97.97153070008181,3.301861900406436,0 97.96700529985475,3.300778300078548,0 97.96520690037823,3.300279799573161,0 97.96517520017539,3.300260000099001,0 97.96517520017539,3.300227799873142,0 97.96517520017539,3.300164199818028,0 97.96271639974213,3.298722799717495,0 97.96075730040917,3.298013099724812,0 97.94902739979472,3.293287200144221,0 97.94907509983602,3.293225100158281,0 97.94913049987275,3.293154999803448,0 97.94926320023654,3.292780600344486,0 97.94946790032338,3.292521500267071,0 97.94963919958946,3.292212299857795,0 97.949885700165,3.292074399613909,0 97.95013650039925,3.291853000015976,0 97.95016569958744,3.291502000017317,0 97.95029859960073,3.291183600442878,0 97.95049580024107,3.290983799862545,0 97.95072980024014,3.290678800186527,0 97.95103060008216,3.29049079961078,0 97.95114140015556,3.290318899597594,0 97.95114769990647,3.29030909968526,0 97.95268509993747,3.290944200014849,0 97.95346779969924,3.291592499694161,0 97.95408499992288,3.291830800251262,0 97.95425940005134,3.291898199942011,0 97.9543978003183,3.291951599886488,0 97.95536599964123,3.292600399588821,0 97.95607690022882,3.292757600183165,0 97.95684789981078,3.29327159960468,0 97.95686620011509,3.293283799807568,0 97.95698360031298,3.293362000356069,0 97.95778949988556,3.294000099924745,0 97.95909590005579,3.294581099738025,0 97.9603417003093,3.295242599666267,0 97.96168499966308,3.295847099663945,0 97.9630617996624,3.296182900220742,0 97.96433789987424,3.296250100261943,0 97.96559249999393,3.296364399597394,0 97.96560310030287,3.296365399643548,0 97.96589980013573,3.296392399989315,0 97.96616240037451,3.296469399942907,0 97.96635690035072,3.296526399873528,0 97.96735579983033,3.29681920024592,0 97.96853569956295,3.296844300324267,0 97.96981599960873,3.297120400286303,0 97.97148319969,3.29706479970082,0 97.97290829957842,3.297498899754487,0 97.97486389964934,3.29782359997921,0 97.97487059959855,3.297824699850082,0</coordinates></LinearRing></outerBoundaryIs>
+					</Polygon>
+				</MultiGeometry>
+			</Placemark>
+			<Placemark id="ID_00001">
+				<name>Cinta Makmur</name>
+				<Snippet></Snippet>
+				<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Cinta Makmur</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>2</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Shape_Leng</td>
+
+<td>0.173039</td>
+
+</tr>
+
+<tr>
+
+<td>ADM4_EN</td>
+
+<td>Cinta Makmur</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>ADM4_PCODE</td>
+
+<td>ID1111100001</td>
+
+</tr>
+
+<tr>
+
+<td>ADM4_REF</td>
+
+<td></td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>ADM4ALT1EN</td>
+
+<td></td>
+
+</tr>
+
+<tr>
+
+<td>ADM4ALT2EN</td>
+
+<td></td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>ADM3_EN</td>
+
+<td>Baktiya</td>
+
+</tr>
+
+<tr>
+
+<td>ADM3_PCODE</td>
+
+<td>ID1111100</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>ADM2_EN</td>
+
+<td>Aceh Utara</td>
+
+</tr>
+
+<tr>
+
+<td>ADM2_PCODE</td>
+
+<td>ID1111</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>ADM1_EN</td>
+
+<td>Aceh</td>
+
+</tr>
+
+<tr>
+
+<td>ADM1_PCODE</td>
+
+<td>ID11</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>ADM0_EN</td>
+
+<td>Indonesia</td>
+
+</tr>
+
+<tr>
+
+<td>ADM0_PCODE</td>
+
+<td>ID</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>date</td>
+
+<td>12/20/2019</td>
+
+</tr>
+
+<tr>
+
+<td>validOn</td>
+
+<td>4/1/2020</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>validTo</td>
+
+<td>&lt;Null&gt;</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>
+
+]]></description>
+				<styleUrl>#PolyStyle00</styleUrl>
+				<MultiGeometry>
+					<Polygon>
+						<extrude>0</extrude><altitudeMode>clampToGround</altitudeMode>
+						<outerBoundaryIs><LinearRing><coordinates> 97.41325129960785,5.068375099930961,0 97.41298189959502,5.068391599792562,0 97.41297769976109,5.068368800180053,0 97.40441530042585,5.062123799973449,0 97.39788359994822,5.056470399889065,0 97.39793380010485,5.056336099631324,0 97.40149450027104,5.046810100106086,0 97.40677569973883,5.03305449996526,0 97.40676649967429,5.03305449996526,0 97.40655459961516,5.033056000034435,0 97.40676289968815,5.032508900165681,0 97.40684389982619,5.032296099885173,0 97.40673650008949,5.016347500236975,0 97.40673240008027,5.01572750042385,0 97.40677540026456,5.015634399907697,0 97.4080736004164,5.012981999719557,0 97.41084020011522,5.012813300393532,0 97.41084070013824,5.011095300307886,0 97.41078859971418,5.011045100151307,0 97.41106790036338,5.010837899949195,0 97.42787650010047,4.998370899697306,0 97.4284024002506,4.997544500078675,0 97.43160899955575,5.009601100110729,0 97.43356819961281,5.016567799964037,0 97.43441729991849,5.017712500231767,0 97.43245669961703,5.024259900174286,0 97.4266208001099,5.044947300177796,0 97.42296019965357,5.057924000192486,0 97.42326170006748,5.065207700275209,0 97.42177979989793,5.065241799869227,0 97.42121229980785,5.065112599666804,0 97.42031939982053,5.065275400339488,0 97.41919630036904,5.065480200251102,0 97.4175733001677,5.066062299935254,0 97.41556630024462,5.067048699737768,0 97.41325050011056,5.068370200424454,0 97.41325129960785,5.068375099930961,0</coordinates></LinearRing></outerBoundaryIs>
+					</Polygon>
+				</MultiGeometry>
+			</Placemark>
+			<Placemark id="ID_00002">
+				<name>Cinta Makmur</name>
+				<Snippet></Snippet>
+				<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Cinta Makmur</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>3</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Shape_Leng</td>
+
+<td>0.043192</td>
+
+</tr>
+
+<tr>
+
+<td>ADM4_EN</td>
+
+<td>Cinta Makmur</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>ADM4_PCODE</td>
+
+<td>ID1112021009</td>
+
+</tr>
+
+<tr>
+
+<td>ADM4_REF</td>
+
+<td></td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>ADM4ALT1EN</td>
+
+<td></td>
+
+</tr>
+
+<tr>
+
+<td>ADM4ALT2EN</td>
+
+<td></td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>ADM3_EN</td>
+
+<td>Setia</td>
+
+</tr>
+
+<tr>
+
+<td>ADM3_PCODE</td>
+
+<td>ID1112021</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>ADM2_EN</td>
+
+<td>Aceh Barat Daya</td>
+
+</tr>
+
+<tr>
+
+<td>ADM2_PCODE</td>
+
+<td>ID1112</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>ADM1_EN</td>
+
+<td>Aceh</td>
+
+</tr>
+
+<tr>
+
+<td>ADM1_PCODE</td>
+
+<td>ID11</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>ADM0_EN</td>
+
+<td>Indonesia</td>
+
+</tr>
+
+<tr>
+
+<td>ADM0_PCODE</td>
+
+<td>ID</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>date</td>
+
+<td>12/20/2019</td>
+
+</tr>
+
+<tr>
+
+<td>validOn</td>
+
+<td>4/1/2020</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>validTo</td>
+
+<td>&lt;Null&gt;</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>
+
+]]></description>
+				<styleUrl>#PolyStyle00</styleUrl>
+				<MultiGeometry>
+					<Polygon>
+						<extrude>0</extrude><altitudeMode>clampToGround</altitudeMode>
+						<outerBoundaryIs><LinearRing><coordinates> 96.88855490008865,3.697150800169368,0 96.88853800002875,3.697175099851052,0 96.88801710010915,3.697862299705434,0 96.88778110001783,3.698738400356945,0 96.88582630034352,3.700070299904439,0 96.88391969983434,3.701289300360997,0 96.88306019976847,3.702070699703086,0 96.88291949993504,3.701961299874142,0 96.88271639974209,3.701820600040719,0 96.88243869988617,3.701608899631083,0 96.88230269990976,3.70081060022909,0 96.88149709981138,3.698417700316668,0 96.88076069984646,3.697344499748908,0 96.88059820044663,3.697127800007991,0 96.88053050038235,3.697176799569718,0 96.87996150022309,3.697588400384404,0 96.87992179965141,3.697510299660621,0 96.87896700022696,3.695632900138264,0 96.87883219994615,3.695100899886654,0 96.87802730041966,3.694758599929514,0 96.87790270024948,3.69470560018334,0 96.87710180000812,3.693377699920973,0 96.87658669981641,3.692314900012661,0 96.87722969979086,3.692312100423123,0 96.87775579959055,3.691377800145403,0 96.87788539999127,3.690711499636052,0 96.87841259966183,3.690043500307354,0 96.87906999958085,3.688842399956854,0 96.87959720015073,3.688174399728837,0 96.87906479970081,3.68764419991993,0 96.87856890003479,3.686292599823673,0 96.87968120042711,3.686828200061427,0 96.8809350001502,3.687813300343578,0 96.88185519995756,3.689485200281808,0 96.88336509961971,3.691750400060982,0 96.88400060014766,3.692703800140293,0 96.88446579965699,3.693401700128391,0 96.88570940016876,3.694460800225784,0 96.88736259960433,3.69606950030726,0 96.88855490008865,3.697150800169368,0</coordinates></LinearRing></outerBoundaryIs>
+					</Polygon>
+				</MultiGeometry>
+			</Placemark>
+		</Folder>
+	</Document>
+</kml>

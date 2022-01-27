@@ -1,0 +1,220 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.opengis.net/kml/2.2 http://schemas.opengis.net/kml/2.2.0/ogckml22.xsd http://www.google.com/kml/ext/2.2 http://code.google.com/apis/kml/schema/kml22gx.xsd">
+	<Document id="Tambangan_Hulu_Layer">
+		<name>Tambangan_Hulu_Layer</name>
+		<Snippet></Snippet>
+		<Style id="PolyStyle00">
+			<LabelStyle>
+				<color>00000000</color>
+				<scale>0.000000</scale>
+			</LabelStyle>
+			<LineStyle>
+				<color>ff6e6e6e</color>
+				<width>0.400000</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>ffc4f5e0</color>
+				<outline>1</outline>
+			</PolyStyle>
+		</Style>
+		<Folder id="FeatureLayer0">
+			<name>Tambangan_Hulu_Layer</name>
+			<Snippet></Snippet>
+			<description><![CDATA[Tambangan_Hulu_Layer]]></description>
+			<Placemark id="ID_00000">
+				<name>Tambangan Hulu</name>
+				<Snippet></Snippet>
+				<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Tambangan Hulu</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>1</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Shape_Leng</td>
+
+<td>0.040177</td>
+
+</tr>
+
+<tr>
+
+<td>ADM4_EN</td>
+
+<td>Tambangan Hulu</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>ADM4_PCODE</td>
+
+<td>ID1274030009</td>
+
+</tr>
+
+<tr>
+
+<td>ADM4_REF</td>
+
+<td></td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>ADM4ALT1EN</td>
+
+<td></td>
+
+</tr>
+
+<tr>
+
+<td>ADM4ALT2EN</td>
+
+<td></td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>ADM3_EN</td>
+
+<td>Padang Hilir</td>
+
+</tr>
+
+<tr>
+
+<td>ADM3_PCODE</td>
+
+<td>ID1274030</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>ADM2_EN</td>
+
+<td>Kota Tebing Tinggi</td>
+
+</tr>
+
+<tr>
+
+<td>ADM2_PCODE</td>
+
+<td>ID1274</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>ADM1_EN</td>
+
+<td>Sumatera Utara</td>
+
+</tr>
+
+<tr>
+
+<td>ADM1_PCODE</td>
+
+<td>ID12</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>ADM0_EN</td>
+
+<td>Indonesia</td>
+
+</tr>
+
+<tr>
+
+<td>ADM0_PCODE</td>
+
+<td>ID</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>date</td>
+
+<td>12/20/2019</td>
+
+</tr>
+
+<tr>
+
+<td>validOn</td>
+
+<td>4/1/2020</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>validTo</td>
+
+<td>&lt;Null&gt;</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>
+
+]]></description>
+				<styleUrl>#PolyStyle00</styleUrl>
+				<MultiGeometry>
+					<Polygon>
+						<extrude>0</extrude><altitudeMode>clampToGround</altitudeMode>
+						<outerBoundaryIs><LinearRing><coordinates> 99.17986860015583,3.335902999823645,0 99.17985999993908,3.335902200326359,0 99.17986009976386,3.336703999889721,0 99.17998300021537,3.337382399877924,0 99.18016720025616,3.337999199903209,0 99.1806583002404,3.338739199854217,0 99.18188609966381,3.340465999806099,0 99.18139520022839,3.340959500080885,0 99.18108849993439,3.34163809971858,0 99.18108869958388,3.342748300193932,0 99.18102739999455,3.343365100219273,0 99.1809047000919,3.343550099757351,0 99.1805978001484,3.343550199582069,0 99.18010689981361,3.343612000093799,0 99.17875669996181,3.34367390043019,0 99.17777469964273,3.343674100079681,0 99.17691559977516,3.343859300166628,0 99.17574979961364,3.345216399617186,0 99.17519759968951,3.346079999692279,0 99.17486830033187,3.346683800017388,0 99.17462040041119,3.346358599769587,0 99.17442760015371,3.345833099817753,0 99.17434490029694,3.345114000111039,0 99.17406959983225,3.344284299980529,0 99.17343660031889,3.344035499838469,0 99.17230820026327,3.344008000368945,0 99.17181269989624,3.343537899554462,0 99.17115210018932,3.342542299687409,0 99.17077969992329,3.341972099832617,0 99.17077199992792,3.341960299828031,0 99.16991869978824,3.341331699798161,0 99.1696629002227,3.340931200214754,0 99.16893670036848,3.34077670028455,0 99.16814610006253,3.340147700056377,0 99.16809229991975,3.339474699597758,0 99.16826369990986,3.339121400032639,0 99.16893639999495,3.338864700245779,0 99.16928480005356,3.338292199925149,0 99.16936330007627,3.337818500023786,0 99.16937240031609,3.337809299959247,0 99.16954990040762,3.337631000370436,0 99.17053180000261,3.337322399808954,0 99.17157500008625,3.33695220018393,0 99.17323200005683,3.336828500235129,0 99.17409129957389,3.33695170016091,0 99.17409610015494,3.336952800031725,0 99.17464360022205,3.337074999911351,0 99.1765460998227,3.336642899949936,0 99.17918489956355,3.336025599901575,0 99.17973720021166,3.335778799851767,0 99.17986860015583,3.335902999823645,0</coordinates></LinearRing></outerBoundaryIs>
+					</Polygon>
+				</MultiGeometry>
+			</Placemark>
+		</Folder>
+	</Document>
+</kml>

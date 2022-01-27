@@ -1,0 +1,414 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.opengis.net/kml/2.2 http://schemas.opengis.net/kml/2.2.0/ogckml22.xsd http://www.google.com/kml/ext/2.2 http://code.google.com/apis/kml/schema/kml22gx.xsd">
+	<Document id="Pondok_Batu_Layer">
+		<name>Pondok_Batu_Layer</name>
+		<Snippet></Snippet>
+		<Style id="PolyStyle00">
+			<LabelStyle>
+				<color>00000000</color>
+				<scale>0.000000</scale>
+			</LabelStyle>
+			<LineStyle>
+				<color>ff6e6e6e</color>
+				<width>0.400000</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>fff7e8be</color>
+				<outline>1</outline>
+			</PolyStyle>
+		</Style>
+		<Folder id="FeatureLayer0">
+			<name>Pondok_Batu_Layer</name>
+			<Snippet></Snippet>
+			<description><![CDATA[Pondok_Batu_Layer]]></description>
+			<Placemark id="ID_00000">
+				<name>Pondok Batu</name>
+				<Snippet></Snippet>
+				<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Pondok Batu</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>1</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Shape_Leng</td>
+
+<td>0.139386</td>
+
+</tr>
+
+<tr>
+
+<td>ADM4_EN</td>
+
+<td>Pondok Batu</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>ADM4_PCODE</td>
+
+<td>ID1204032004</td>
+
+</tr>
+
+<tr>
+
+<td>ADM4_REF</td>
+
+<td></td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>ADM4ALT1EN</td>
+
+<td></td>
+
+</tr>
+
+<tr>
+
+<td>ADM4ALT2EN</td>
+
+<td></td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>ADM3_EN</td>
+
+<td>Sarudik</td>
+
+</tr>
+
+<tr>
+
+<td>ADM3_PCODE</td>
+
+<td>ID1204032</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>ADM2_EN</td>
+
+<td>Tapanuli Tengah</td>
+
+</tr>
+
+<tr>
+
+<td>ADM2_PCODE</td>
+
+<td>ID1204</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>ADM1_EN</td>
+
+<td>Sumatera Utara</td>
+
+</tr>
+
+<tr>
+
+<td>ADM1_PCODE</td>
+
+<td>ID12</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>ADM0_EN</td>
+
+<td>Indonesia</td>
+
+</tr>
+
+<tr>
+
+<td>ADM0_PCODE</td>
+
+<td>ID</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>date</td>
+
+<td>12/20/2019</td>
+
+</tr>
+
+<tr>
+
+<td>validOn</td>
+
+<td>4/1/2020</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>validTo</td>
+
+<td>&lt;Null&gt;</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>
+
+]]></description>
+				<styleUrl>#PolyStyle00</styleUrl>
+				<MultiGeometry>
+					<Polygon>
+						<extrude>0</extrude><altitudeMode>clampToGround</altitudeMode>
+						<outerBoundaryIs><LinearRing><coordinates> 98.79623219995614,1.721649200050592,0 98.79581940034512,1.72134680031462,0 98.795549600134,1.720833800039884,0 98.79307479986221,1.719356800276159,0 98.79296950004243,1.719433400031448,0 98.78913040034774,1.719432999833145,0 98.78488110008277,1.722468799895239,0 98.78041080041817,1.71590209960226,0 98.7807738000709,1.712132700064103,0 98.78427829980376,1.709458000286531,0 98.78379539983791,1.705445299960672,0 98.78101629956262,1.704593800263694,0 98.78174169991956,1.70094599985805,0 98.78500439983327,1.70045999992908,0 98.78585050000061,1.69814979987342,0 98.78681749962794,1.695231599658655,0 98.78693880018557,1.690732500104843,0 98.79116839990178,1.687571500024774,0 98.79479389981867,1.682829700430375,0 98.80168120032721,1.685383900046986,0 98.80748090032336,1.689153900332258,0 98.81139549990246,1.689232299630987,0 98.81242160027671,1.692907600405476,0 98.81245629971852,1.693031800377355,0 98.81249150008273,1.69315820009092,0 98.79977020033454,1.7020179998309,0 98.80985800004675,1.713667500155054,0 98.80921359982784,1.714635300178998,0 98.80736929985335,1.716769799686574,0 98.80573320012712,1.718445000136683,0 98.80520420001386,1.718991199784114,0 98.80441080011838,1.719229199967629,0 98.80403489969092,1.719607399961603,0 98.80400700002309,1.720055599586317,0 98.80337839999322,1.719764099633551,0 98.80311410003577,1.719697600164181,0 98.8030999995654,1.719694000178038,0 98.80284949970473,1.719763999808777,0 98.80269630019416,1.71987610030186,0 98.80227879982681,1.719665899961342,0 98.80204210006292,1.719623899823148,0 98.80184130033581,1.719619100141415,0 98.80160549989398,1.719793899568856,0 98.80140689990856,1.719856399753098,0 98.80118340039365,1.719931299789721,0 98.80063729967168,1.719831299674809,0 98.80041389998155,1.719643899846176,0 98.80024009970089,1.71941909991159,0 98.80021529999618,1.719231700082958,0 98.80016569968734,1.718782000389069,0 98.79999200013077,1.718557199555164,0 98.79986789998367,1.718144999791946,0 98.7996836001181,1.717771300005552,0 98.79924099967246,1.717786600171507,0 98.79915660009709,1.717789499585763,0 98.79893509977512,1.71779709975641,0 98.79858750011311,1.717809100309807,0 98.79840210037668,1.717815499885432,0 98.79794619985728,1.717831200249748,0 98.79662810040656,1.718130800396182,0 98.7959092003494,1.719748400168555,0 98.7959560999941,1.720024799604857,0 98.79623219995614,1.721649200050592,0</coordinates></LinearRing></outerBoundaryIs>
+					</Polygon>
+				</MultiGeometry>
+			</Placemark>
+			<Placemark id="ID_00001">
+				<name>Pondok Batu</name>
+				<Snippet></Snippet>
+				<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Pondok Batu</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>2</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Shape_Leng</td>
+
+<td>0.157458</td>
+
+</tr>
+
+<tr>
+
+<td>ADM4_EN</td>
+
+<td>Pondok Batu</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>ADM4_PCODE</td>
+
+<td>ID1207050022</td>
+
+</tr>
+
+<tr>
+
+<td>ADM4_REF</td>
+
+<td></td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>ADM4ALT1EN</td>
+
+<td></td>
+
+</tr>
+
+<tr>
+
+<td>ADM4ALT2EN</td>
+
+<td></td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>ADM3_EN</td>
+
+<td>Bilah Hulu</td>
+
+</tr>
+
+<tr>
+
+<td>ADM3_PCODE</td>
+
+<td>ID1207050</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>ADM2_EN</td>
+
+<td>Labuhan Batu</td>
+
+</tr>
+
+<tr>
+
+<td>ADM2_PCODE</td>
+
+<td>ID1207</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>ADM1_EN</td>
+
+<td>Sumatera Utara</td>
+
+</tr>
+
+<tr>
+
+<td>ADM1_PCODE</td>
+
+<td>ID12</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>ADM0_EN</td>
+
+<td>Indonesia</td>
+
+</tr>
+
+<tr>
+
+<td>ADM0_PCODE</td>
+
+<td>ID</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>date</td>
+
+<td>12/20/2019</td>
+
+</tr>
+
+<tr>
+
+<td>validOn</td>
+
+<td>4/1/2020</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>validTo</td>
+
+<td>&lt;Null&gt;</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>
+
+]]></description>
+				<styleUrl>#PolyStyle00</styleUrl>
+				<MultiGeometry>
+					<Polygon>
+						<extrude>0</extrude><altitudeMode>clampToGround</altitudeMode>
+						<outerBoundaryIs><LinearRing><coordinates> 99.96506339965623,2.079353899962541,0 99.96161489980784,2.079182499972433,0 99.96128439985523,2.079166099935605,0 99.96125879975386,2.079172299861796,0 99.96011709962448,2.079446499556354,0 99.95859270019304,2.079812600071477,0 99.95695610044373,2.080205700033105,0 99.95694700020397,2.080207899774791,0 99.95603350034582,2.080427300179792,0 99.95053210007643,2.08093380015481,0 99.94876110024467,2.080713399703654,0 99.94857490011162,2.080690199892842,0 99.94847180003359,2.080684800363315,0 99.94666580038643,2.080588900257567,0 99.94539690014687,2.080521600391592,0 99.93853969994723,2.080157599793438,0 99.93710289987899,2.080081400236452,0 99.9318921002403,2.079804800251395,0 99.9259663000048,2.079490200312534,0 99.92507869972229,2.076694899649965,0 99.9250785000728,2.076694700000473,0 99.92507840024803,2.076694399626888,0 99.92337060027302,2.07534400012554,0 99.9220740998399,2.074178799811818,0 99.91974119999645,2.071831300374242,0 99.92364019993533,2.071364500071695,0 99.92468499991287,2.068556599907197,0 99.92886689958783,2.06223759988535,0 99.93217630039601,2.055041800438801,0 99.9313010001411,2.04925210000448,0 99.93234539992034,2.045917799666768,0 99.94560370015068,2.05292830010103,0 99.95066400004362,2.045111900094184,0 99.95562169988159,2.046068099763033,0 99.95762059961106,2.055268899939847,0 99.95117119969115,2.05527280029952,0 99.95281750042739,2.063058199776151,0 99.95997129973574,2.064469499567792,0 99.96506339965623,2.079353899962541,0</coordinates></LinearRing></outerBoundaryIs>
+					</Polygon>
+				</MultiGeometry>
+			</Placemark>
+		</Folder>
+	</Document>
+</kml>

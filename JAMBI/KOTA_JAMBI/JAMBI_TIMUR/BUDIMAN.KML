@@ -1,0 +1,220 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.opengis.net/kml/2.2 http://schemas.opengis.net/kml/2.2.0/ogckml22.xsd http://www.google.com/kml/ext/2.2 http://code.google.com/apis/kml/schema/kml22gx.xsd">
+	<Document id="Budiman_Layer">
+		<name>Budiman_Layer</name>
+		<Snippet></Snippet>
+		<Style id="PolyStyle00">
+			<LabelStyle>
+				<color>00000000</color>
+				<scale>0.000000</scale>
+			</LabelStyle>
+			<LineStyle>
+				<color>ff6e6e6e</color>
+				<width>0.400000</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>fffcd7f1</color>
+				<outline>1</outline>
+			</PolyStyle>
+		</Style>
+		<Folder id="FeatureLayer0">
+			<name>Budiman_Layer</name>
+			<Snippet></Snippet>
+			<description><![CDATA[Budiman_Layer]]></description>
+			<Placemark id="ID_00000">
+				<name>Budiman</name>
+				<Snippet></Snippet>
+				<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Budiman</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>1</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Shape_Leng</td>
+
+<td>0.024085</td>
+
+</tr>
+
+<tr>
+
+<td>ADM4_EN</td>
+
+<td>Budiman</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>ADM4_PCODE</td>
+
+<td>ID1571080002</td>
+
+</tr>
+
+<tr>
+
+<td>ADM4_REF</td>
+
+<td></td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>ADM4ALT1EN</td>
+
+<td></td>
+
+</tr>
+
+<tr>
+
+<td>ADM4ALT2EN</td>
+
+<td></td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>ADM3_EN</td>
+
+<td>Jambi Timur</td>
+
+</tr>
+
+<tr>
+
+<td>ADM3_PCODE</td>
+
+<td>ID1571080</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>ADM2_EN</td>
+
+<td>Kota Jambi</td>
+
+</tr>
+
+<tr>
+
+<td>ADM2_PCODE</td>
+
+<td>ID1571</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>ADM1_EN</td>
+
+<td>Jambi</td>
+
+</tr>
+
+<tr>
+
+<td>ADM1_PCODE</td>
+
+<td>ID15</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>ADM0_EN</td>
+
+<td>Indonesia</td>
+
+</tr>
+
+<tr>
+
+<td>ADM0_PCODE</td>
+
+<td>ID</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>date</td>
+
+<td>12/20/2019</td>
+
+</tr>
+
+<tr>
+
+<td>validOn</td>
+
+<td>4/1/2020</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>validTo</td>
+
+<td>&lt;Null&gt;</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>
+
+]]></description>
+				<styleUrl>#PolyStyle00</styleUrl>
+				<MultiGeometry>
+					<Polygon>
+						<extrude>0</extrude><altitudeMode>clampToGround</altitudeMode>
+						<outerBoundaryIs><LinearRing><coordinates> 103.6281361004008,-1.594964699761022,0 103.6279141000557,-1.594998200406565,0 103.6274963002141,-1.59506109988979,0 103.6272876997676,-1.595096800277076,0 103.6270101995611,-1.595159599935528,0 103.626997699884,-1.59516250024916,0 103.6269377996398,-1.595176099797129,0 103.6265798002177,-1.595240699898341,0 103.6264182001399,-1.595269899985851,0 103.6259555996713,-1.595252099704567,0 103.6258736003864,-1.595248899916726,0 103.6253835004483,-1.595125799815776,0 103.6250934996654,-1.595038400102055,0 103.6250818003849,-1.595034800115911,0 103.6250799999421,-1.595039300323378,0 103.6249140003809,-1.595444599588575,0 103.6248378997493,-1.59569799976282,0 103.6247797001231,-1.595906100186312,0 103.6246925998836,-1.596050800204239,0 103.6246396999622,-1.596394600230553,0 103.6246027000547,-1.596766399749526,0 103.6245975999993,-1.596892199615297,0 103.6245945998609,-1.596922100274639,0 103.624402099977,-1.597226500102863,0 103.6243693997281,-1.597278200328617,0 103.6242842995808,-1.597736400414476,0 103.6242189998071,-1.59797019986479,0 103.624144400144,-1.598115599555229,0 103.6240331998723,-1.598634699931381,0 103.6238760001773,-1.599094099712886,0 103.6238176000023,-1.599098500095636,0 103.6230156997148,-1.599076699629961,0 103.6224517996109,-1.59900820006834,0 103.6224664001043,-1.599528400315364,0 103.6225834999286,-1.600451600261124,0 103.6225916999471,-1.600961600397511,0 103.6225305001825,-1.601137700244635,0 103.6224993998275,-1.601354900008573,0 103.6225223999888,-1.601379800437371,0 103.6225998999655,-1.601471900008107,0 103.6227584000802,-1.601660299882894,0 103.6229496004437,-1.601801700288206,0 103.6229913002084,-1.601832500269609,0 103.6231007998621,-1.601913600232422,0 103.6232224997186,-1.602008000268938,0 103.6233456996444,-1.602103600001101,0 103.6234286000499,-1.602123299650486,0 103.6236788004363,-1.602182699871662,0 103.6237596000256,-1.602193700378905,0 103.6240202001721,-1.602229399866872,0 103.6243377004246,-1.602151700240711,0 103.6243986996403,-1.602136700448341,0 103.624485200032,-1.602145500314521,0 103.6247678002938,-1.602174099654917,0 103.6250267996472,-1.602294199617575,0 103.6252291003428,-1.602388099631071,0 103.625307299992,-1.602452500082791,0 103.6255335001709,-1.602638999690043,0 103.6258898996992,-1.602973700375912,0 103.6274921003802,-1.60186879960537,0 103.627484199836,-1.601833100117403,0 103.6273843004452,-1.601379400239068,0 103.6273705003484,-1.600733300301499,0 103.627493200251,-1.600039899621606,0 103.6275280004169,-1.599843199903717,0 103.6276252998678,-1.599376600149924,0 103.6277107003885,-1.598966799777941,0 103.6278290997332,-1.598364799895535,0 103.6278619996316,-1.598197300265156,0 103.6279869001754,-1.596454899773732,0 103.6280798001427,-1.5953258000456,0 103.6281361004008,-1.594964699761022,0</coordinates></LinearRing></outerBoundaryIs>
+					</Polygon>
+				</MultiGeometry>
+			</Placemark>
+		</Folder>
+	</Document>
+</kml>

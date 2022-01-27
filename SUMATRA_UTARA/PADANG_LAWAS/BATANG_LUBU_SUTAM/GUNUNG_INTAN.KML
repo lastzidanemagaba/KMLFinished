@@ -1,0 +1,608 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.opengis.net/kml/2.2 http://schemas.opengis.net/kml/2.2.0/ogckml22.xsd http://www.google.com/kml/ext/2.2 http://code.google.com/apis/kml/schema/kml22gx.xsd">
+	<Document id="Gunung_Intan_Layer">
+		<name>Gunung_Intan_Layer</name>
+		<Snippet></Snippet>
+		<Style id="PolyStyle00">
+			<LabelStyle>
+				<color>00000000</color>
+				<scale>0.000000</scale>
+			</LabelStyle>
+			<LineStyle>
+				<color>ff6e6e6e</color>
+				<width>0.400000</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>fffac8ca</color>
+				<outline>1</outline>
+			</PolyStyle>
+		</Style>
+		<Folder id="FeatureLayer0">
+			<name>Gunung_Intan_Layer</name>
+			<Snippet></Snippet>
+			<description><![CDATA[Gunung_Intan_Layer]]></description>
+			<Placemark id="ID_00000">
+				<name>Gunung Intan</name>
+				<Snippet></Snippet>
+				<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Gunung Intan</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>1</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Shape_Leng</td>
+
+<td>0.112407</td>
+
+</tr>
+
+<tr>
+
+<td>ADM4_EN</td>
+
+<td>Gunung Intan</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>ADM4_PCODE</td>
+
+<td>ID1220061002</td>
+
+</tr>
+
+<tr>
+
+<td>ADM4_REF</td>
+
+<td></td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>ADM4ALT1EN</td>
+
+<td></td>
+
+</tr>
+
+<tr>
+
+<td>ADM4ALT2EN</td>
+
+<td></td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>ADM3_EN</td>
+
+<td>Halongonan Timur</td>
+
+</tr>
+
+<tr>
+
+<td>ADM3_PCODE</td>
+
+<td>ID1220061</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>ADM2_EN</td>
+
+<td>Padang Lawas Utara</td>
+
+</tr>
+
+<tr>
+
+<td>ADM2_PCODE</td>
+
+<td>ID1220</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>ADM1_EN</td>
+
+<td>Sumatera Utara</td>
+
+</tr>
+
+<tr>
+
+<td>ADM1_PCODE</td>
+
+<td>ID12</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>ADM0_EN</td>
+
+<td>Indonesia</td>
+
+</tr>
+
+<tr>
+
+<td>ADM0_PCODE</td>
+
+<td>ID</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>date</td>
+
+<td>12/20/2019</td>
+
+</tr>
+
+<tr>
+
+<td>validOn</td>
+
+<td>4/1/2020</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>validTo</td>
+
+<td>&lt;Null&gt;</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>
+
+]]></description>
+				<styleUrl>#PolyStyle00</styleUrl>
+				<MultiGeometry>
+					<Polygon>
+						<extrude>0</extrude><altitudeMode>clampToGround</altitudeMode>
+						<outerBoundaryIs><LinearRing><coordinates> 99.84618019995634,1.592945700383837,0 99.84406189993678,1.593207900424318,0 99.84317660012005,1.593529800160184,0 99.84140589976255,1.593610300275202,0 99.83810600029176,1.594254199571708,0 99.83480619974637,1.594173700356009,0 99.83198920024148,1.594737100436873,0 99.82893080021631,1.595220000402719,0 99.82547000034032,1.595461499848398,0 99.82593619989575,1.593367100211537,0 99.82573440012254,1.590945500234682,0 99.82485570043031,1.58979829985168,0 99.82389000032333,1.588375100230735,0 99.82343259973476,1.587053600443369,0 99.82256849963659,1.586443700016787,0 99.82145029969166,1.585122200229421,0 99.82002719989543,1.583953200280007,0 99.81937249974112,1.583287399793733,0 99.81922009972789,1.583132300015677,0 99.81846979984147,1.582369299903291,0 99.81988240005279,1.578636099876178,0 99.82038689993556,1.576819999943098,0 99.82149670021261,1.573893999908194,0 99.82255099972889,1.569508400192547,0 99.82286439997216,1.569487499948195,0 99.82809030012731,1.568067900313395,0 99.83115470042912,1.567445799683981,0 99.83694969966899,1.565865299643917,0 99.84043980035653,1.565996999961612,0 99.84267880018655,1.566194599900939,0 99.8462347995964,1.566523900157904,0 99.84932980023018,1.566787299894031,0 99.85209349961536,1.567845599594818,0 99.85476060012166,1.570512600276345,0 99.85594590028313,1.572512900250217,0 99.85661269991624,1.574735400218572,0 99.85742759990387,1.577476499640795,0 99.85764979989841,1.579624999793964,0 99.85676080027076,1.58147709958854,0 99.85594590028313,1.583181000103139,0 99.85394560030926,1.58399590009077,0 99.85298250014233,1.584959000257697,0 99.85246399961397,1.586440699878437,0 99.85090820035322,1.588589200031606,0 99.84856759961508,1.591041400340373,0 99.84682739976472,1.592864600421024,0 99.84664729973315,1.592966900102397,0 99.84632539999728,1.592956799816534,0 99.84618019995634,1.592945700383837,0</coordinates></LinearRing></outerBoundaryIs>
+					</Polygon>
+				</MultiGeometry>
+			</Placemark>
+			<Placemark id="ID_00001">
+				<name>Gunung Intan</name>
+				<Snippet></Snippet>
+				<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Gunung Intan</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>2</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Shape_Leng</td>
+
+<td>0.246196</td>
+
+</tr>
+
+<tr>
+
+<td>ADM4_EN</td>
+
+<td>Gunung Intan</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>ADM4_PCODE</td>
+
+<td>ID1221031004</td>
+
+</tr>
+
+<tr>
+
+<td>ADM4_REF</td>
+
+<td></td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>ADM4ALT1EN</td>
+
+<td></td>
+
+</tr>
+
+<tr>
+
+<td>ADM4ALT2EN</td>
+
+<td></td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>ADM3_EN</td>
+
+<td>Barumun Selatan</td>
+
+</tr>
+
+<tr>
+
+<td>ADM3_PCODE</td>
+
+<td>ID1221031</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>ADM2_EN</td>
+
+<td>Padang Lawas</td>
+
+</tr>
+
+<tr>
+
+<td>ADM2_PCODE</td>
+
+<td>ID1221</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>ADM1_EN</td>
+
+<td>Sumatera Utara</td>
+
+</tr>
+
+<tr>
+
+<td>ADM1_PCODE</td>
+
+<td>ID12</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>ADM0_EN</td>
+
+<td>Indonesia</td>
+
+</tr>
+
+<tr>
+
+<td>ADM0_PCODE</td>
+
+<td>ID</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>date</td>
+
+<td>12/20/2019</td>
+
+</tr>
+
+<tr>
+
+<td>validOn</td>
+
+<td>4/1/2020</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>validTo</td>
+
+<td>&lt;Null&gt;</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>
+
+]]></description>
+				<styleUrl>#PolyStyle00</styleUrl>
+				<MultiGeometry>
+					<Polygon>
+						<extrude>0</extrude><altitudeMode>clampToGround</altitudeMode>
+						<outerBoundaryIs><LinearRing><coordinates> 99.76483199999689,1.002051599901449,0 99.7620937001642,1.002599299618055,0 99.76064209995303,1.002599299618055,0 99.75879009998317,1.000747199823479,0 99.75471610006804,0.9994740997499321,0 99.75115129989263,0.9984556004456522,0 99.74274870019241,0.9875067996990765,0 99.73052670044694,0.9653543995859195,0 99.72186949997752,0.9406559000498191,0 99.71244840007364,0.9304708998122351,0 99.71092070013026,0.926142300027152,0 99.70680479990165,0.9202154997455523,0 99.70702339991004,0.9199683003968175,0 99.7072525004026,0.9197140998259101,0 99.70749680033714,0.9195173002832462,0 99.7077181001103,0.9192629000628472,0 99.70794669968052,0.9190546998145805,0 99.70823640008985,0.9187540996220491,0 99.7085115998305,0.9185225997382531,0 99.70890810012878,0.9181755999240409,0 99.70915969986032,0.9179327002339619,0 99.70960219958192,0.9175162997374855,0 99.70988470001896,0.9172272998999915,0 99.71027389962086,0.9168685999060244,0 99.71051759970754,0.9165679997134362,0 99.7107698001862,0.9163137002171311,0 99.71101410012068,0.9160937997890528,0 99.71128080036868,0.9158971000711631,0 99.7115858000447,0.9156769999935932,0 99.71183799962404,0.9154918997314212,0 99.7120896002549,0.9153182001748519,0 99.71234119998644,0.9151329002631883,0 99.71257760027606,0.9149363003700159,0 99.71279890004928,0.9146933997806173,0 99.71293640009486,0.9143817001553884,0 99.71302009999766,0.9140584001750653,0 99.71305869979921,0.9136776002411011,0 99.71306599959627,0.9133662000901381,0 99.71305070032963,0.9129163996721559,0 99.71299730038515,0.9125359001117204,0 99.71293659974435,0.912155399652022,0 99.71293649991958,0.9118438996762848,0 99.71293640009486,0.9115325004245847,0 99.71291330010877,0.9111749003014324,0 99.71288290032567,0.9108635001504695,0 99.71285980033957,0.9104714002349965,0 99.71289849996589,0.910159699710448,0 99.71289060032103,0.9098484002835221,0 99.71289049959694,0.909525399777408,0 99.71289049959694,0.9092138998016708,0 99.71285280001678,0.9087526995774624,0 99.71282180038583,0.9083490002062149,0 99.71278409990634,0.9079569002907419,0 99.71282950038119,0.907552899646646,0 99.71286030036265,0.9072299000399084,0 99.71302810036661,0.9066182000699428,0 99.71316510038912,0.9062947004401281,0 99.7133561002039,0.9060059002521257,0 99.71363070009681,0.9057745001931039,0 99.713928300151,0.9055892002814403,0 99.71424120037113,0.9053692000285878,0 99.71466470011586,0.9050664999190872,0 99.71479769995398,0.9049755002192228,0 99.71503470009139,0.9048018995880511,0 99.71537790026991,0.9045703997042551,0 99.71571369992739,0.9043618999817227,0 99.71605690010591,0.9041302004484351,0 99.71659100027449,0.9038288996840151,0 99.71695719971507,0.9036434001228599,0 99.71737670017461,0.9034232002205727,0 99.71764350024739,0.9032726995754956,0 99.71791810014025,0.9030641998529632,0 99.71815510027773,0.9028213999876584,0 99.71833820044765,0.9025786999470711,0 99.71857459983795,0.902335800257049,0 99.71873469984661,0.9020817004101787,0 99.71879760022915,0.901903599571483,0 99.72314260005101,0.9090824000327871,0 99.72848970003969,0.9157026999197342,0 99.73358220015848,0.9462575999083356,0 99.74071169978515,0.9737570001854579,0 99.75446140037337,0.9966731999082867,0 99.75828080041867,0.9976917001119432,0 99.76355680000637,0.998055599986003,0 99.76358059966498,0.9981572998195816,0 99.76367170008893,0.9985497999333575,0 99.76380939978401,0.9989075997060013,0 99.76390830002811,0.9993576995981925,0 99.76401519974172,0.9997731998733457,0 99.76413710014714,1.000142600001027,0 99.76422149972251,1.000488800317953,0 99.76435859956979,1.000869799901409,0 99.76448059979992,1.001204600412052,0 99.76461039985014,1.001539400023319,0 99.76477790037984,1.001920299782057,0 99.76483199999689,1.002051599901449,0</coordinates></LinearRing></outerBoundaryIs>
+					</Polygon>
+				</MultiGeometry>
+			</Placemark>
+			<Placemark id="ID_00002">
+				<name>Gunung Intan</name>
+				<Snippet></Snippet>
+				<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Gunung Intan</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>3</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Shape_Leng</td>
+
+<td>0.193559</td>
+
+</tr>
+
+<tr>
+
+<td>ADM4_EN</td>
+
+<td>Gunung Intan</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>ADM4_PCODE</td>
+
+<td>ID1221060025</td>
+
+</tr>
+
+<tr>
+
+<td>ADM4_REF</td>
+
+<td></td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>ADM4ALT1EN</td>
+
+<td></td>
+
+</tr>
+
+<tr>
+
+<td>ADM4ALT2EN</td>
+
+<td></td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>ADM3_EN</td>
+
+<td>Batang Lubu Sutam</td>
+
+</tr>
+
+<tr>
+
+<td>ADM3_PCODE</td>
+
+<td>ID1221060</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>ADM2_EN</td>
+
+<td>Padang Lawas</td>
+
+</tr>
+
+<tr>
+
+<td>ADM2_PCODE</td>
+
+<td>ID1221</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>ADM1_EN</td>
+
+<td>Sumatera Utara</td>
+
+</tr>
+
+<tr>
+
+<td>ADM1_PCODE</td>
+
+<td>ID12</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>ADM0_EN</td>
+
+<td>Indonesia</td>
+
+</tr>
+
+<tr>
+
+<td>ADM0_PCODE</td>
+
+<td>ID</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>date</td>
+
+<td>12/20/2019</td>
+
+</tr>
+
+<tr>
+
+<td>validOn</td>
+
+<td>4/1/2020</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>validTo</td>
+
+<td>&lt;Null&gt;</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>
+
+]]></description>
+				<styleUrl>#PolyStyle00</styleUrl>
+				<MultiGeometry>
+					<Polygon>
+						<extrude>0</extrude><altitudeMode>clampToGround</altitudeMode>
+						<outerBoundaryIs><LinearRing><coordinates> 100.1353071997675,0.9209464003561152,0 100.1354141003805,0.9214681995977685,0 100.1357343003977,0.9235120996037836,0 100.135780299821,0.9250164000868608,0 100.1353070999428,0.9260036002859806,0 100.134964100313,0.9263707997726556,0 100.1338118996995,0.9272769998337367,0 100.1326140998609,0.9279306999418964,0 100.1312024996957,0.928894200307127,0 100.1302945999159,0.9298350998100773,0 100.1297455997797,0.9306613996039346,0 100.1292040001645,0.9317289002685811,0 100.1290838003771,0.932339399643638,0 100.1283856998402,0.9287091998697292,0 100.1226905999912,0.8990948000849812,0 100.122656600222,0.898917800016477,0 100.122656600222,0.8742007996272605,0 100.1282768000344,0.8473964997486974,0 100.1281678004037,0.8473953998778256,0 100.1290085001422,0.84361210041817,0 100.1378595998407,0.8441869003052602,0 100.1353503996013,0.8567902000077652,0 100.1340754001596,0.8661784000132116,0 100.1371858997096,0.8813027997844074,0 100.1369860002038,0.8813038996552791,0 100.1365446003531,0.8813237000287586,0 100.1350094998886,0.889437700089843,0 100.1343625995544,0.8936425001013504,0 100.1343625995544,0.8975237995837233,0 100.1335649000002,0.9003158995591889,0 100.1330688996101,0.9020521001243651,0 100.1349562995936,0.9058269999161439,0 100.134544400204,0.9063452000709731,0 100.1337892997365,0.9071828996711133,0 100.1328967001227,0.9084681999474924,0 100.132507299972,0.9096622001504784,0 100.1322476998715,0.9111545999049326,0 100.1323778002953,0.9123029999835239,0 100.1326370001975,0.9133251001732674,0 100.1331789001862,0.9147034002417627,0 100.1339112001418,0.9162081000238231,0 100.1346895004202,0.9177472995982612,0 100.1350022999163,0.9194584000851478,0 100.1353071997675,0.9209464003561152,0</coordinates></LinearRing></outerBoundaryIs>
+					</Polygon>
+				</MultiGeometry>
+			</Placemark>
+		</Folder>
+	</Document>
+</kml>

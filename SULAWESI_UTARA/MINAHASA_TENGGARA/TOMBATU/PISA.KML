@@ -1,0 +1,220 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.opengis.net/kml/2.2 http://schemas.opengis.net/kml/2.2.0/ogckml22.xsd http://www.google.com/kml/ext/2.2 http://code.google.com/apis/kml/schema/kml22gx.xsd">
+	<Document id="Pisa_Layer">
+		<name>Pisa_Layer</name>
+		<Snippet></Snippet>
+		<Style id="PolyStyle00">
+			<LabelStyle>
+				<color>00000000</color>
+				<scale>0.000000</scale>
+			</LabelStyle>
+			<LineStyle>
+				<color>ff6e6e6e</color>
+				<width>0.400000</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>fff2e0bf</color>
+				<outline>1</outline>
+			</PolyStyle>
+		</Style>
+		<Folder id="FeatureLayer0">
+			<name>Pisa_Layer</name>
+			<Snippet></Snippet>
+			<description><![CDATA[Pisa_Layer]]></description>
+			<Placemark id="ID_00000">
+				<name>Pisa</name>
+				<Snippet></Snippet>
+				<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Pisa</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>1</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Shape_Leng</td>
+
+<td>0.128572</td>
+
+</tr>
+
+<tr>
+
+<td>ADM4_EN</td>
+
+<td>Pisa</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>ADM4_PCODE</td>
+
+<td>ID7109050035</td>
+
+</tr>
+
+<tr>
+
+<td>ADM4_REF</td>
+
+<td></td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>ADM4ALT1EN</td>
+
+<td></td>
+
+</tr>
+
+<tr>
+
+<td>ADM4ALT2EN</td>
+
+<td></td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>ADM3_EN</td>
+
+<td>Tombatu</td>
+
+</tr>
+
+<tr>
+
+<td>ADM3_PCODE</td>
+
+<td>ID7109050</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>ADM2_EN</td>
+
+<td>Minahasa Tenggara</td>
+
+</tr>
+
+<tr>
+
+<td>ADM2_PCODE</td>
+
+<td>ID7109</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>ADM1_EN</td>
+
+<td>Sulawesi Utara</td>
+
+</tr>
+
+<tr>
+
+<td>ADM1_PCODE</td>
+
+<td>ID71</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>ADM0_EN</td>
+
+<td>Indonesia</td>
+
+</tr>
+
+<tr>
+
+<td>ADM0_PCODE</td>
+
+<td>ID</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>date</td>
+
+<td>12/20/2019</td>
+
+</tr>
+
+<tr>
+
+<td>validOn</td>
+
+<td>4/1/2020</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>validTo</td>
+
+<td>&lt;Null&gt;</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>
+
+]]></description>
+				<styleUrl>#PolyStyle00</styleUrl>
+				<MultiGeometry>
+					<Polygon>
+						<extrude>0</extrude><altitudeMode>clampToGround</altitudeMode>
+						<outerBoundaryIs><LinearRing><coordinates> 124.6459890003921,0.9570959998805506,0 124.6461062998659,0.9588538003626468,0 124.6463119999988,0.96193669971899,0 124.6450885002341,0.9654312997147372,0 124.6454990002787,0.9697472999979482,0 124.6445062000012,0.9717480999948407,0 124.6413883997549,0.9724840997614592,0 124.6374545996501,0.9747792001999755,0 124.6348848003933,0.9770885000343128,0 124.6317100002163,0.9799416001247891,0 124.6281974002899,0.9841392999887262,0 124.6276403997847,0.984804899926246,0 124.6275320998266,0.9834238002682127,0 124.6274827000666,0.982793700169168,0 124.6276151000569,0.9826545004049194,0 124.628617100399,0.9816011002106393,0 124.6290109998578,0.9798624004295107,0 124.6293553997319,0.9778258002205575,0 124.6291072003371,0.9747960004351057,0 124.6290538003926,0.9747094002186714,0 124.6289512003377,0.9745431002838814,0 124.6288873997338,0.9744396000075994,0 124.6287655002277,0.9742419002435554,0 124.6275762997066,0.9723132996191453,0 124.6239728997296,0.9695831998049016,0 124.6197316996582,0.9674169002697681,0 124.6176886998736,0.9663733998125963,0 124.6104798000028,0.9624788002564628,0 124.6073582001209,0.9580407997431735,0 124.6085381996783,0.9510021999915921,0 124.6105813001869,0.9463467002400989,0 124.6107019001727,0.9464006002075962,0 124.6122916002772,0.9475721002722821,0 124.6129628002931,0.9478914998928758,0 124.614234000099,0.9473936001346033,0 124.6155756995589,0.9468245999753435,0 124.6174474000775,0.9465751001607714,0 124.6190366999838,0.946716399842046,0 124.6190895000805,0.9467446997081765,0 124.6206263002636,0.9475681999125527,0 124.6214743996239,0.948598000097661,0 124.6221455996398,0.9489173997182547,0 124.6229930002269,0.9486328002635673,0 124.6231764996958,0.9485789002960701,0 124.6238404997393,0.9483836997479784,0 124.6246173997732,0.9481701997949585,0 124.6258533002897,0.9479210003539151,0 124.6269126998612,0.9476363001751338,0 124.6280779999997,0.9473515999964093,0 124.6291726997604,0.9471023996560461,0 124.6299495997943,0.9471020003570629,0 124.6328346995618,0.9477465004007399,0 124.6340357999123,0.9484208003796653,0 124.6348482996094,0.948846700414947,0 124.6354842003357,0.9493791997902576,0 124.6366499995979,0.9501956996718377,0 124.6367225002433,0.9502796999482257,0 124.6375687002354,0.9512608998707037,0 124.6387343996729,0.9518287003343175,0 124.639003699861,0.9519864998771368,0 124.639582300283,0.9523256000464357,0 124.6409244997659,0.9528577999475374,0 124.6420902999274,0.9536032003275068,0 124.6424099999216,0.9538472997131748,0 124.6429734998272,0.9542776999559237,0 124.6437154000457,0.9548102002306109,0 124.6441394996383,0.9553783999932079,0 124.6443870002599,0.955946599755805,0 124.644952299709,0.9564791998552096,0 124.6454468000298,0.9566565002972993,0 124.6459572003646,0.9566182997947408,0 124.6459890003921,0.9570959998805506,0</coordinates></LinearRing></outerBoundaryIs>
+					</Polygon>
+				</MultiGeometry>
+			</Placemark>
+		</Folder>
+	</Document>
+</kml>

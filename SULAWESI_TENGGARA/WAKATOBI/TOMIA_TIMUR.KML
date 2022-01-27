@@ -1,0 +1,216 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.opengis.net/kml/2.2 http://schemas.opengis.net/kml/2.2.0/ogckml22.xsd http://www.google.com/kml/ext/2.2 http://code.google.com/apis/kml/schema/kml22gx.xsd">
+	<Document id="Tomia_Timur_Layer">
+		<name>Tomia_Timur_Layer</name>
+		<Snippet></Snippet>
+		<Style id="PolyStyle00">
+			<LabelStyle>
+				<color>00000000</color>
+				<scale>0.000000</scale>
+			</LabelStyle>
+			<LineStyle>
+				<color>ff6e6e6e</color>
+				<width>0.400000</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>ffcafad2</color>
+				<outline>1</outline>
+			</PolyStyle>
+		</Style>
+		<Folder id="FeatureLayer0">
+			<name>Tomia_Timur_Layer</name>
+			<Snippet></Snippet>
+			<description><![CDATA[Tomia_Timur_Layer]]></description>
+			<Placemark id="ID_00000">
+				<name>Tomia Timur</name>
+				<Snippet></Snippet>
+				<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Tomia Timur</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>1</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Shape_Leng</td>
+
+<td>0.333382</td>
+
+</tr>
+
+<tr>
+
+<td>ADM3_EN</td>
+
+<td>Tomia Timur</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>ADM3_PCODE</td>
+
+<td>ID7407021</td>
+
+</tr>
+
+<tr>
+
+<td>ADM3_REF</td>
+
+<td></td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>ADM3ALT1EN</td>
+
+<td></td>
+
+</tr>
+
+<tr>
+
+<td>ADM3ALT2EN</td>
+
+<td></td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>ADM2_EN</td>
+
+<td>Wakatobi</td>
+
+</tr>
+
+<tr>
+
+<td>ADM2_PCODE</td>
+
+<td>ID7407</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>ADM1_EN</td>
+
+<td>Sulawesi Tenggara</td>
+
+</tr>
+
+<tr>
+
+<td>ADM1_PCODE</td>
+
+<td>ID74</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>ADM0_EN</td>
+
+<td>Indonesia</td>
+
+</tr>
+
+<tr>
+
+<td>ADM0_PCODE</td>
+
+<td>ID</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>date</td>
+
+<td>12/20/2019</td>
+
+</tr>
+
+<tr>
+
+<td>validOn</td>
+
+<td>4/1/2020</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>validTo</td>
+
+<td>&lt;Null&gt;</td>
+
+</tr>
+
+<tr>
+
+<td>tes</td>
+
+<td></td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>
+
+]]></description>
+				<styleUrl>#PolyStyle00</styleUrl>
+				<MultiGeometry>
+					<Polygon>
+						<extrude>0</extrude><altitudeMode>clampToGround</altitudeMode>
+						<outerBoundaryIs><LinearRing><coordinates> 123.9328858004394,-5.802260400097339,0 123.9270059996272,-5.801355899754924,0 123.9212769998337,-5.801205099635581,0 123.9155425996114,-5.802405399589475,0 123.9125518996506,-5.802476400165688,0 123.9094009000315,-5.801968599771044,0 123.9071579000172,-5.801397800068344,0 123.90457920017,-5.802907500081005,0 123.9033363002301,-5.805124899994098,0 123.9063515004215,-5.809195499572581,0 123.9117789998011,-5.814773700146077,0 123.9164526002074,-5.817487499748268,0 123.9188647995709,-5.81899509984396,0 123.9200709001519,-5.820050400305661,0 123.9223324001202,-5.823216399717012,0 123.9276091002798,-5.823970299589632,0 123.9306242995718,-5.823668700250266,0 123.9333380002486,-5.822311900273917,0 123.9346949000496,-5.82291490020242,0 123.9363533002646,-5.823819500369609,0 123.9410247998547,-5.823075299685286,0 123.9440421997878,-5.820050400305661,0 123.9459000003848,-5.817627400084405,0 123.9459991002783,-5.814940000080867,0 123.9466247999945,-5.812768499766378,0 123.9460021004166,-5.809798600225179,0 123.9437331999274,-5.806465100284129,0 123.9399716002092,-5.804672600360163,0 123.9328858004394,-5.802260400097339,0</coordinates></LinearRing></outerBoundaryIs>
+					</Polygon>
+					<Polygon>
+						<extrude>0</extrude><altitudeMode>clampToGround</altitudeMode>
+						<outerBoundaryIs><LinearRing><coordinates> 123.9542812996423,-5.779058400324857,0 123.9599324999849,-5.778760999920166,0 123.9650285002651,-5.777566600418254,0 123.9694504002158,-5.776530200108596,0 123.9736143997848,-5.775935400198534,0 123.9768861999382,-5.774299500121799,0 123.9818771998729,-5.773937999638918,0 123.9862985998006,-5.773617799621718,0 123.9941025001303,-5.771001800392753,0 123.9978713996454,-5.767857599648437,0 124.0003891002768,-5.766637799694649,0 124.0034218003758,-5.765272299676838,0 124.0060484997385,-5.761104499572923,0 124.0054453999853,-5.758843100328761,0 124.0034855002557,-5.757184700113783,0 124.0010732999929,-5.75703389999444,0 123.9957965998333,-5.756581600360505,0 123.9908214000876,-5.754471000336366,0 123.9891630996974,-5.753114099635923,0 123.9845720003975,-5.749306100296224,0 123.9775772003276,-5.745770900406683,0 123.9749121997382,-5.741012000203625,0 123.9695822003583,-5.736157899567388,0 123.9643070002679,-5.732447900250349,0 123.962776900034,-5.731827299690053,0 123.9584939003732,-5.730589900003849,0 123.9537350001702,-5.728876699599937,0 123.9522120999086,-5.72725869962926,0 123.9499278003278,-5.726687599553031,0 123.9439321002862,-5.725148499803367,0 123.9433575998734,-5.726126699587496,0 123.9383255000218,-5.734695799771316,0 123.9380000002998,-5.735249999787641,0 123.9359419998235,-5.738525700300784,0 123.9351627003983,-5.739766100125394,0 123.9319999997003,-5.744800000419616,0 123.9214910996346,-5.760241500245002,0 123.9199390001847,-5.762522199839623,0 123.9160000001999,-5.768310000006466,0 123.91772460041,-5.769797299705544,0 123.9185624996597,-5.770498900403879,0 123.9206859995593,-5.772276799834401,0 123.9216919002611,-5.773118999642065,0 123.9230650004495,-5.773711800359251,0 123.9239349002755,-5.77408740041318,0 123.9252242996617,-5.774793600244436,0 123.9268646001212,-5.775689600194823,0 123.9273911001193,-5.775905600263172,0 123.930488599969,-5.777174499603404,0 123.9310539003174,-5.777275399939697,0 123.9353026996599,-5.778033700195067,0 123.9362258996057,-5.778199199733251,0 123.9409943002469,-5.779612100318104,0 123.9508608001859,-5.779950699565063,0 123.9542812996423,-5.779058400324857,0</coordinates></LinearRing></outerBoundaryIs>
+					</Polygon>
+				</MultiGeometry>
+			</Placemark>
+		</Folder>
+	</Document>
+</kml>

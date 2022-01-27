@@ -1,0 +1,415 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.opengis.net/kml/2.2 http://schemas.opengis.net/kml/2.2.0/ogckml22.xsd http://www.google.com/kml/ext/2.2 http://code.google.com/apis/kml/schema/kml22gx.xsd">
+	<Document id="Bandar_Meriah_Layer">
+		<name>Bandar_Meriah_Layer</name>
+		<Snippet></Snippet>
+		<Style id="PolyStyle00">
+			<LabelStyle>
+				<color>00000000</color>
+				<scale>0.000000</scale>
+			</LabelStyle>
+			<LineStyle>
+				<color>ff6e6e6e</color>
+				<width>0.400000</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>ffcbf5cd</color>
+				<outline>1</outline>
+			</PolyStyle>
+		</Style>
+		<Folder id="FeatureLayer0">
+			<name>Bandar_Meriah_Layer</name>
+			<Snippet></Snippet>
+			<description><![CDATA[Bandar_Meriah_Layer]]></description>
+			<Placemark id="ID_00000">
+				<name>Bandar Meriah</name>
+				<Snippet></Snippet>
+				<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Bandar Meriah</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>1</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Shape_Leng</td>
+
+<td>0.084351</td>
+
+</tr>
+
+<tr>
+
+<td>ADM4_EN</td>
+
+<td>Bandar Meriah</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>ADM4_PCODE</td>
+
+<td>ID1211050020</td>
+
+</tr>
+
+<tr>
+
+<td>ADM4_REF</td>
+
+<td></td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>ADM4ALT1EN</td>
+
+<td></td>
+
+</tr>
+
+<tr>
+
+<td>ADM4ALT2EN</td>
+
+<td></td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>ADM3_EN</td>
+
+<td>Munte</td>
+
+</tr>
+
+<tr>
+
+<td>ADM3_PCODE</td>
+
+<td>ID1211050</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>ADM2_EN</td>
+
+<td>Karo</td>
+
+</tr>
+
+<tr>
+
+<td>ADM2_PCODE</td>
+
+<td>ID1211</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>ADM1_EN</td>
+
+<td>Sumatera Utara</td>
+
+</tr>
+
+<tr>
+
+<td>ADM1_PCODE</td>
+
+<td>ID12</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>ADM0_EN</td>
+
+<td>Indonesia</td>
+
+</tr>
+
+<tr>
+
+<td>ADM0_PCODE</td>
+
+<td>ID</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>date</td>
+
+<td>12/20/2019</td>
+
+</tr>
+
+<tr>
+
+<td>validOn</td>
+
+<td>4/1/2020</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>validTo</td>
+
+<td>&lt;Null&gt;</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>
+
+]]></description>
+				<styleUrl>#PolyStyle00</styleUrl>
+				<MultiGeometry>
+					<Polygon>
+						<extrude>0</extrude><altitudeMode>clampToGround</altitudeMode>
+						<outerBoundaryIs><LinearRing><coordinates> 98.41365189971543,3.082542699685916,0 98.41162489976938,3.083156000449094,0 98.40909420033711,3.084111600270205,0 98.40719290043205,3.084737700184746,0 98.40559369988938,3.085520800144877,0 98.40444260004602,3.086911699715245,0 98.4032623001151,3.088165399613558,0 98.40211199976903,3.088066799743046,0 98.40037659960046,3.088330400027985,0 98.39830989998194,3.088427200355056,0 98.39582439957644,3.087828000062188,0 98.39458649986716,3.08750389968526,0 98.39361190006917,3.087072199922147,0 98.3920237000338,3.085650299821509,0 98.39084469962324,3.084718600383155,0 98.38994819964978,3.08397329982796,0 98.38881800005072,3.082894699730673,0 98.38721909988163,3.083217200213653,0 98.38520110035057,3.083353200190061,0 98.38309489980986,3.084243799711658,0 98.38169070016573,3.08504650039572,0 98.3795170001095,3.084721899995714,0 98.37764409989535,3.084236300265104,0 98.37767720034259,3.084213200279009,0 98.37916979974653,3.082802000312086,0 98.38057529981029,3.081325100373135,0 98.38334260008099,3.078546400296204,0 98.38503130025435,3.076894500380945,0 98.38567459970307,3.075504799606847,0 98.3859038000204,3.074497799933567,0 98.38624199996838,3.073458199836125,0 98.38624440025893,3.073421399577967,0 98.38852619972442,3.073534099918845,0 98.39100230041589,3.073621399807791,0 98.39273220033084,3.073539899646676,0 98.39399079973566,3.073377800445201,0 98.39498019967652,3.07317039969422,0 98.39593990040612,3.073936899968032,0 98.39722479958488,3.074882400402487,0 98.39846820044716,3.075744600233179,0 98.39939620007465,3.076109000130316,0 98.40130129961534,3.076496500013491,0 98.40297600004243,3.076876799924435,0 98.40601390002155,3.077708000124176,0 98.40687089997209,3.077638999640158,0 98.40792110037853,3.078139799712062,0 98.40921969982935,3.079224300261274,0 98.41225940025117,3.081407499856255,0 98.41365189971543,3.082542699685916,0</coordinates></LinearRing></outerBoundaryIs>
+					</Polygon>
+				</MultiGeometry>
+			</Placemark>
+			<Placemark id="ID_00001">
+				<name>Bandar Meriah</name>
+				<Snippet></Snippet>
+				<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Bandar Meriah</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>2</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Shape_Leng</td>
+
+<td>0.131227</td>
+
+</tr>
+
+<tr>
+
+<td>ADM4_EN</td>
+
+<td>Bandar Meriah</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>ADM4_PCODE</td>
+
+<td>ID1212090015</td>
+
+</tr>
+
+<tr>
+
+<td>ADM4_REF</td>
+
+<td></td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>ADM4ALT1EN</td>
+
+<td></td>
+
+</tr>
+
+<tr>
+
+<td>ADM4ALT2EN</td>
+
+<td></td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>ADM3_EN</td>
+
+<td>Bangun Purba</td>
+
+</tr>
+
+<tr>
+
+<td>ADM3_PCODE</td>
+
+<td>ID1212090</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>ADM2_EN</td>
+
+<td>Deli Serdang</td>
+
+</tr>
+
+<tr>
+
+<td>ADM2_PCODE</td>
+
+<td>ID1212</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>ADM1_EN</td>
+
+<td>Sumatera Utara</td>
+
+</tr>
+
+<tr>
+
+<td>ADM1_PCODE</td>
+
+<td>ID12</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>ADM0_EN</td>
+
+<td>Indonesia</td>
+
+</tr>
+
+<tr>
+
+<td>ADM0_PCODE</td>
+
+<td>ID</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>date</td>
+
+<td>12/20/2019</td>
+
+</tr>
+
+<tr>
+
+<td>validOn</td>
+
+<td>4/1/2020</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>validTo</td>
+
+<td>&lt;Null&gt;</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>
+
+]]></description>
+				<styleUrl>#PolyStyle00</styleUrl>
+				<MultiGeometry>
+					<Polygon>
+						<extrude>0</extrude><altitudeMode>clampToGround</altitudeMode>
+						<outerBoundaryIs><LinearRing><coordinates> 98.79549079976067,3.355409000025361,0 98.79458900008234,3.355682000024331,0 98.78899100003468,3.35544900007136,0 98.78415190009019,3.356053000045961,0 98.77685179997064,3.357438000063723,0 98.77607999999208,3.357734000223957,0 98.76815210023932,3.346399000013889,0 98.76391419978057,3.340947000403787,0 98.76932780013794,3.338834000089093,0 98.77367699979379,3.335124999918833,0 98.77447010021501,3.333821000039165,0 98.78008279968151,3.338175000276067,0 98.78488699963538,3.341066999642351,0 98.78931609955839,3.341663000147378,0 98.79151899970213,3.343277999979762,0 98.79509919986822,3.346881999804509,0 98.79822289966717,3.349707999724444,0 98.8014211002037,3.352871999942863,0 98.80181999989315,3.353400000010026,0 98.79943720026665,3.354213999776334,0 98.79549079976067,3.355409000025361,0</coordinates></LinearRing></outerBoundaryIs>
+						<innerBoundaryIs><LinearRing><coordinates> 98.78812880020405,3.349099999565397,0 98.78763889991535,3.346469999690783,0 98.78423109978547,3.34384199990842,0 98.77971999967832,3.341829999754736,0 98.77558000031684,3.341595999755612,0 98.77422490005915,3.34374399988576,0 98.77516419966815,3.346117999646026,0 98.77566199960165,3.348833999889223,0 98.77761110027211,3.349522000140269,0 98.77894700000411,3.349100999611494,0 98.78159409958806,3.348950999888757,0 98.78475709976038,3.349788999862483,0 98.78812880020405,3.349099999565397,0</coordinates></LinearRing></innerBoundaryIs>
+					</Polygon>
+				</MultiGeometry>
+			</Placemark>
+		</Folder>
+	</Document>
+</kml>

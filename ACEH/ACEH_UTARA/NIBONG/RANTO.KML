@@ -1,0 +1,608 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.opengis.net/kml/2.2 http://schemas.opengis.net/kml/2.2.0/ogckml22.xsd http://www.google.com/kml/ext/2.2 http://code.google.com/apis/kml/schema/kml22gx.xsd">
+	<Document id="Ranto_Layer">
+		<name>Ranto_Layer</name>
+		<Snippet></Snippet>
+		<Style id="PolyStyle00">
+			<LabelStyle>
+				<color>00000000</color>
+				<scale>0.000000</scale>
+			</LabelStyle>
+			<LineStyle>
+				<color>ff6e6e6e</color>
+				<width>0.400000</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>ffcdfac8</color>
+				<outline>1</outline>
+			</PolyStyle>
+		</Style>
+		<Folder id="FeatureLayer0">
+			<name>Ranto_Layer</name>
+			<Snippet></Snippet>
+			<description><![CDATA[Ranto_Layer]]></description>
+			<Placemark id="ID_00000">
+				<name>Ranto</name>
+				<Snippet></Snippet>
+				<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Ranto</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>1</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Shape_Leng</td>
+
+<td>0.042019</td>
+
+</tr>
+
+<tr>
+
+<td>ADM4_EN</td>
+
+<td>Ranto</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>ADM4_PCODE</td>
+
+<td>ID1111050008</td>
+
+</tr>
+
+<tr>
+
+<td>ADM4_REF</td>
+
+<td></td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>ADM4ALT1EN</td>
+
+<td></td>
+
+</tr>
+
+<tr>
+
+<td>ADM4ALT2EN</td>
+
+<td></td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>ADM3_EN</td>
+
+<td>Meurah Mulia</td>
+
+</tr>
+
+<tr>
+
+<td>ADM3_PCODE</td>
+
+<td>ID1111050</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>ADM2_EN</td>
+
+<td>Aceh Utara</td>
+
+</tr>
+
+<tr>
+
+<td>ADM2_PCODE</td>
+
+<td>ID1111</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>ADM1_EN</td>
+
+<td>Aceh</td>
+
+</tr>
+
+<tr>
+
+<td>ADM1_PCODE</td>
+
+<td>ID11</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>ADM0_EN</td>
+
+<td>Indonesia</td>
+
+</tr>
+
+<tr>
+
+<td>ADM0_PCODE</td>
+
+<td>ID</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>date</td>
+
+<td>12/20/2019</td>
+
+</tr>
+
+<tr>
+
+<td>validOn</td>
+
+<td>4/1/2020</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>validTo</td>
+
+<td>&lt;Null&gt;</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>
+
+]]></description>
+				<styleUrl>#PolyStyle00</styleUrl>
+				<MultiGeometry>
+					<Polygon>
+						<extrude>0</extrude><altitudeMode>clampToGround</altitudeMode>
+						<outerBoundaryIs><LinearRing><coordinates> 97.21919820013687,5.046359500190817,0 97.21919739974027,5.04635990038912,0 97.21919729991549,5.04635990038912,0 97.21065980010974,5.040398899789466,0 97.21065930008666,5.040398499591106,0 97.21161470025828,5.035732600079484,0 97.211614800083,5.035732600079484,0 97.211614800083,5.035732699904202,0 97.2116152002813,5.03573339957677,0 97.21501600008838,5.034611599645643,0 97.21523200015673,5.034540400319258,0 97.2152381002582,5.034868599806089,0 97.21520029995395,5.035085199722232,0 97.21517550024919,5.035301799638376,0 97.21523610016595,5.035570199605104,0 97.21534879960745,5.035812100148348,0 97.21545349957938,5.035897800143402,0 97.21553940012325,5.035968199972501,0 97.21575550001637,5.036025799750917,0 97.21597150008472,5.036057199580171,0 97.21680850001235,5.036071399875254,0 97.2170180996057,5.036135599778163,0 97.21714309997412,5.036252800326508,0 97.2171969001169,5.0364885000443,0 97.21718529976181,5.036704900310951,0 97.21711999998809,5.036878800416332,0 97.21690170035328,5.037349299630534,0 97.21683760027508,5.037539900146328,0 97.21681870012299,5.037644899592465,0 97.21685729992453,5.0377365000395,0 97.2168648002704,5.037754099771917,0 97.21695069991495,5.037840699988351,0 97.2170424001867,5.037866399914492,0 97.21715349973431,5.037865700241923,0 97.21725270035188,5.037816599956159,0 97.21776500005478,5.03756309995714,0 97.21796779987415,5.037394899754872,0 97.21820880019601,5.037229500041462,0 97.22008709993975,5.036522200339334,0 97.22023079991152,5.036501599569192,0 97.22038779995705,5.036513699947363,0 97.22087909959083,5.036661300278809,0 97.2209644002869,5.036719699554567,0 97.22105659968241,5.036817499927736,0 97.22120799964955,5.036980400425193,0 97.22125469964476,5.037124399871232,0 97.22129490023951,5.037268300391816,0 97.22132689991656,5.037362400054747,0 97.22132820033625,5.037366500063968,0 97.22136289977806,5.037409400423542,0 97.22140730020681,5.037464300437136,0 97.22148680027567,5.037621099933858,0 97.22152719962065,5.037804499578044,0 97.22158769971264,5.038059800019823,0 97.2216548997539,5.038334700286214,0 97.22201879962796,5.039219199706338,0 97.22231839977439,5.040077099878317,0 97.22246579955709,5.040388199655752,0 97.22266340039567,5.040609799802439,0 97.22293919998413,5.040804699976945,0 97.22301209992855,5.040941899648999,0 97.22363469968172,5.042190200017785,0 97.22367540029956,5.042412800210627,0 97.22367030024424,5.042629199577959,0 97.22364560036425,5.042865400218091,0 97.22360880010609,5.043150499695855,0 97.22360830008301,5.043154099681999,0 97.22361609990315,5.043350800299265,0 97.22364339972319,5.043527599818901,0 97.22376260036378,5.043769399638109,0 97.22391140039088,5.043972800204642,0 97.22402109969403,5.044032300250478,0 97.22404149991536,5.044298399751369,0 97.22404149991536,5.044298499576144,0 97.22401429992004,5.044309900281746,0 97.22175249957826,5.04526230031496,0 97.2217574998088,5.045270399609308,0 97.22175830020547,5.045271600204217,0 97.22027230002669,5.04590239997583,0 97.21919820013687,5.046359500190817,0</coordinates></LinearRing></outerBoundaryIs>
+					</Polygon>
+				</MultiGeometry>
+			</Placemark>
+			<Placemark id="ID_00001">
+				<name>Ranto</name>
+				<Snippet></Snippet>
+				<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Ranto</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>2</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Shape_Leng</td>
+
+<td>0.02284</td>
+
+</tr>
+
+<tr>
+
+<td>ADM4_EN</td>
+
+<td>Ranto</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>ADM4_PCODE</td>
+
+<td>ID1111110067</td>
+
+</tr>
+
+<tr>
+
+<td>ADM4_REF</td>
+
+<td></td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>ADM4ALT1EN</td>
+
+<td></td>
+
+</tr>
+
+<tr>
+
+<td>ADM4ALT2EN</td>
+
+<td></td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>ADM3_EN</td>
+
+<td>Lhoksukon</td>
+
+</tr>
+
+<tr>
+
+<td>ADM3_PCODE</td>
+
+<td>ID1111110</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>ADM2_EN</td>
+
+<td>Aceh Utara</td>
+
+</tr>
+
+<tr>
+
+<td>ADM2_PCODE</td>
+
+<td>ID1111</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>ADM1_EN</td>
+
+<td>Aceh</td>
+
+</tr>
+
+<tr>
+
+<td>ADM1_PCODE</td>
+
+<td>ID11</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>ADM0_EN</td>
+
+<td>Indonesia</td>
+
+</tr>
+
+<tr>
+
+<td>ADM0_PCODE</td>
+
+<td>ID</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>date</td>
+
+<td>12/20/2019</td>
+
+</tr>
+
+<tr>
+
+<td>validOn</td>
+
+<td>4/1/2020</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>validTo</td>
+
+<td>&lt;Null&gt;</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>
+
+]]></description>
+				<styleUrl>#PolyStyle00</styleUrl>
+				<MultiGeometry>
+					<Polygon>
+						<extrude>0</extrude><altitudeMode>clampToGround</altitudeMode>
+						<outerBoundaryIs><LinearRing><coordinates> 97.31291009972136,5.0657636000102,0 97.31290999989665,5.065764100033221,0 97.31291030027018,5.065764500231523,0 97.31291069956922,5.065766399599738,0 97.31291059974444,5.06576660014855,0 97.31290749978137,5.06576660014855,0 97.31079479984021,5.065761500093231,0 97.31079460019072,5.065757599733502,0 97.31079470001544,5.065757499908727,0 97.31166530041332,5.062016099863172,0 97.31250729967218,5.057972399906362,0 97.31251170005498,5.057972399906362,0 97.31650460000736,5.057936999892661,0 97.31645360035344,5.058335399559098,0 97.31638059968498,5.058904799916604,0 97.31605910014741,5.059893699834447,0 97.31569100043936,5.060603399827073,0 97.31568640040712,5.060608800255977,0 97.31494109985192,5.061478399708449,0 97.31433149979893,5.062380499760309,0 97.31431430026481,5.06241110009222,0 97.31377829982875,5.063366400439065,0 97.31367119956627,5.063593900138414,0 97.31344710020358,5.064070199979767,0 97.3132101000661,5.064620200162153,0 97.31314399989571,5.064773799871034,0 97.3129663001547,5.06552580037544,0 97.31291479957838,5.065743799636664,0 97.31291009972136,5.0657636000102,0</coordinates></LinearRing></outerBoundaryIs>
+					</Polygon>
+				</MultiGeometry>
+			</Placemark>
+			<Placemark id="ID_00002">
+				<name>Ranto</name>
+				<Snippet></Snippet>
+				<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Ranto</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>3</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Shape_Leng</td>
+
+<td>0.049241</td>
+
+</tr>
+
+<tr>
+
+<td>ADM4_EN</td>
+
+<td>Ranto</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>ADM4_PCODE</td>
+
+<td>ID1111121008</td>
+
+</tr>
+
+<tr>
+
+<td>ADM4_REF</td>
+
+<td></td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>ADM4ALT1EN</td>
+
+<td></td>
+
+</tr>
+
+<tr>
+
+<td>ADM4ALT2EN</td>
+
+<td></td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>ADM3_EN</td>
+
+<td>Nibong</td>
+
+</tr>
+
+<tr>
+
+<td>ADM3_PCODE</td>
+
+<td>ID1111121</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>ADM2_EN</td>
+
+<td>Aceh Utara</td>
+
+</tr>
+
+<tr>
+
+<td>ADM2_PCODE</td>
+
+<td>ID1111</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>ADM1_EN</td>
+
+<td>Aceh</td>
+
+</tr>
+
+<tr>
+
+<td>ADM1_PCODE</td>
+
+<td>ID11</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>ADM0_EN</td>
+
+<td>Indonesia</td>
+
+</tr>
+
+<tr>
+
+<td>ADM0_PCODE</td>
+
+<td>ID</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>date</td>
+
+<td>12/20/2019</td>
+
+</tr>
+
+<tr>
+
+<td>validOn</td>
+
+<td>4/1/2020</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>validTo</td>
+
+<td>&lt;Null&gt;</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>
+
+]]></description>
+				<styleUrl>#PolyStyle00</styleUrl>
+				<MultiGeometry>
+					<Polygon>
+						<extrude>0</extrude><altitudeMode>clampToGround</altitudeMode>
+						<outerBoundaryIs><LinearRing><coordinates> 97.22919710006619,5.051078099974404,0 97.22917319968349,5.051098900393981,0 97.22847290030415,5.050464899935207,0 97.22798969996472,5.048641900403425,0 97.2266774002419,5.047812599571841,0 97.22615900043758,5.045998700279824,0 97.22614880032694,5.045986500076992,0 97.22606909970926,5.045800200119174,0 97.22602019997231,5.045685700234912,0 97.22594660035537,5.045320999964247,0 97.22587199979301,5.044813499943132,0 97.22584550036959,5.04439289961266,0 97.22581270029593,5.044210500014628,0 97.22568509998746,5.044060500291891,0 97.22553420004334,5.043982199918617,0 97.22517769979106,5.043952700356897,0 97.22480609992164,5.044018599978472,0 97.22443269960945,5.044133800434565,0 97.22404149991536,5.044298499576144,0 97.22404149991536,5.044298399751369,0 97.22402109969403,5.044032300250478,0 97.22391140039088,5.043972800204642,0 97.22376260036378,5.043769399638109,0 97.22364339972319,5.043527599818901,0 97.22361609990315,5.043350800299265,0 97.22360830008301,5.043154099681999,0 97.22360880010609,5.043150499695855,0 97.22364560036425,5.042865400218091,0 97.22367030024424,5.042629199577959,0 97.22367540029956,5.042412800210627,0 97.22363469968172,5.042190200017785,0 97.22301209992855,5.040941899648999,0 97.22293919998413,5.040804699976945,0 97.22266340039567,5.040609799802439,0 97.22246579955709,5.040388199655752,0 97.22231839977439,5.040077099878317,0 97.22201879962796,5.039219199706338,0 97.2216548997539,5.038334700286214,0 97.22158769971264,5.038059800019823,0 97.22152719962065,5.037804499578044,0 97.22148680027567,5.037621099933858,0 97.22140730020681,5.037464300437136,0 97.22136289977806,5.037409400423542,0 97.22724610002757,5.033634499732443,0 97.22733139982432,5.033579800267603,0 97.23060610029137,5.039128799854268,0 97.23066510031418,5.039182500172274,0 97.23664400012058,5.04461919961642,0 97.23656989958124,5.044683400418648,0 97.23001629971253,5.050367599585115,0 97.22919710006619,5.051078099974404,0</coordinates></LinearRing></outerBoundaryIs>
+					</Polygon>
+				</MultiGeometry>
+			</Placemark>
+		</Folder>
+	</Document>
+</kml>

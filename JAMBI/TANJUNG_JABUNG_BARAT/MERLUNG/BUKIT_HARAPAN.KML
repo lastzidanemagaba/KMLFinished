@@ -1,0 +1,414 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.opengis.net/kml/2.2 http://schemas.opengis.net/kml/2.2.0/ogckml22.xsd http://www.google.com/kml/ext/2.2 http://code.google.com/apis/kml/schema/kml22gx.xsd">
+	<Document id="Bukit_Harapan_Layer">
+		<name>Bukit_Harapan_Layer</name>
+		<Snippet></Snippet>
+		<Style id="PolyStyle00">
+			<LabelStyle>
+				<color>00000000</color>
+				<scale>0.000000</scale>
+			</LabelStyle>
+			<LineStyle>
+				<color>ff6e6e6e</color>
+				<width>0.400000</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>ffd2e1fc</color>
+				<outline>1</outline>
+			</PolyStyle>
+		</Style>
+		<Folder id="FeatureLayer0">
+			<name>Bukit_Harapan_Layer</name>
+			<Snippet></Snippet>
+			<description><![CDATA[Bukit_Harapan_Layer]]></description>
+			<Placemark id="ID_00000">
+				<name>Bukit Harapan</name>
+				<Snippet></Snippet>
+				<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Bukit Harapan</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>1</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Shape_Leng</td>
+
+<td>0.413614</td>
+
+</tr>
+
+<tr>
+
+<td>ADM4_EN</td>
+
+<td>Bukit Harapan</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>ADM4_PCODE</td>
+
+<td>ID1504010027</td>
+
+</tr>
+
+<tr>
+
+<td>ADM4_REF</td>
+
+<td></td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>ADM4ALT1EN</td>
+
+<td></td>
+
+</tr>
+
+<tr>
+
+<td>ADM4ALT2EN</td>
+
+<td></td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>ADM3_EN</td>
+
+<td>Mersam</td>
+
+</tr>
+
+<tr>
+
+<td>ADM3_PCODE</td>
+
+<td>ID1504010</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>ADM2_EN</td>
+
+<td>Batang Hari</td>
+
+</tr>
+
+<tr>
+
+<td>ADM2_PCODE</td>
+
+<td>ID1504</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>ADM1_EN</td>
+
+<td>Jambi</td>
+
+</tr>
+
+<tr>
+
+<td>ADM1_PCODE</td>
+
+<td>ID15</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>ADM0_EN</td>
+
+<td>Indonesia</td>
+
+</tr>
+
+<tr>
+
+<td>ADM0_PCODE</td>
+
+<td>ID</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>date</td>
+
+<td>12/20/2019</td>
+
+</tr>
+
+<tr>
+
+<td>validOn</td>
+
+<td>4/1/2020</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>validTo</td>
+
+<td>&lt;Null&gt;</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>
+
+]]></description>
+				<styleUrl>#PolyStyle00</styleUrl>
+				<MultiGeometry>
+					<Polygon>
+						<extrude>0</extrude><altitudeMode>clampToGround</altitudeMode>
+						<outerBoundaryIs><LinearRing><coordinates> 103.0356752999752,-1.451975300319816,0 103.0352611001197,-1.451869899776,0 103.0317157001195,-1.44773760040988,0 103.0309783999332,-1.44546190014654,0 103.0309107996937,-1.443803900129865,0 103.030641500405,-1.439095600281689,0 103.0283043998282,-1.436880599759832,0 103.0267929002722,-1.436501299895042,0 103.0242733002726,-1.436350800149285,0 103.0212140998509,-1.436314599738921,0 103.0174315000638,-1.437076900178738,0 103.0165324001502,-1.437440100380286,0 103.0146129995903,-1.438215699994487,0 103.0141793995597,-1.438390799795513,0 103.0118243997763,-1.439342299607404,0 103.0109335997059,-1.438721899595919,0 103.0105068003486,-1.438009200364263,0 103.0104921000304,-1.437984700133768,0 103.010468099823,-1.435444000240352,0 103.0102025003452,-1.434814599813876,0 103.0082065998548,-1.433808100163617,0 103.0040877003871,-1.433204000364299,0 103.0039047000419,-1.433170700267567,0 103.0000477002412,-1.432467899873643,0 102.9999713999602,-1.432453999952088,0 102.998393700409,-1.431645600264176,0 102.9991868997557,-1.43545389997746,0 102.9991075004109,-1.435653199635397,0 102.9992781998291,-1.435743300013257,0 102.9998653995686,-1.438299999745141,0 103.0025818998349,-1.450129000253128,0 103.0014035999962,-1.45367590032248,0 103.0006159998286,-1.458405899912293,0 102.9978689001297,-1.464316700355369,0 102.9955115998805,-1.472198999983789,0 102.9904122999877,-1.480078699672219,0 102.9837474998473,-1.486380000136876,0 102.9774744003234,-1.492681699900459,0 102.9768937998091,-1.493541899638899,0 102.9741273997598,-1.497640499609304,0 102.9686376996702,-1.509843699926762,0 102.9621707000179,-1.521839000369539,0 102.9616473998077,-1.523039499972924,0 102.9594227999223,-1.528143700271528,0 102.957068800185,-1.532083599578414,0 102.9565273003947,-1.532057399629252,0 102.9570136996226,-1.537999799551073,0 102.9556393997386,-1.550182599647201,0 102.9546586998392,-1.560923399795001,0 102.9528943001319,-1.574783400433546,0 102.9528252996479,-1.575325300422207,0 102.9513651999441,-1.580084400274814,0 102.9513339997644,-1.580576100106896,0 102.9509582000609,-1.586512499752018,0 102.9509216003516,-1.587090500326269,0 102.9518540003619,-1.588278100054254,0 102.9576402995602,-1.595648600002846,0 102.9579958995911,-1.596101500383895,0 102.9598291999577,-1.598436699793808,0 102.961049199561,-1.599990700410444,0 102.9626577998177,-1.602571000151499,0 102.9691713996405,-1.596822100159727,0 102.9749915996827,-1.590489300041099,0 102.9765302003086,-1.5888153001859,0 102.9832787003518,-1.57834199978339,0 102.9909470998289,-1.56663649957477,0 102.9961458998135,-1.556447099853756,0 102.9990654004479,-1.5475389003999,0 103.0053863996627,-1.519798200326647,0 103.0133756997288,-1.491139199814199,0 103.021051100428,-1.470493999598375,0 103.0295621997358,-1.458675600298648,0 103.0303024002357,-1.457647700381017,0 103.0298001000946,-1.457320900239324,0 103.0356752999752,-1.451975300319816,0</coordinates></LinearRing></outerBoundaryIs>
+					</Polygon>
+				</MultiGeometry>
+			</Placemark>
+			<Placemark id="ID_00001">
+				<name>Bukit Harapan</name>
+				<Snippet></Snippet>
+				<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Bukit Harapan</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>2</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Shape_Leng</td>
+
+<td>0.321108</td>
+
+</tr>
+
+<tr>
+
+<td>ADM4_EN</td>
+
+<td>Bukit Harapan</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>ADM4_PCODE</td>
+
+<td>ID1507011006</td>
+
+</tr>
+
+<tr>
+
+<td>ADM4_REF</td>
+
+<td></td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>ADM4ALT1EN</td>
+
+<td></td>
+
+</tr>
+
+<tr>
+
+<td>ADM4ALT2EN</td>
+
+<td></td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>ADM3_EN</td>
+
+<td>Merlung</td>
+
+</tr>
+
+<tr>
+
+<td>ADM3_PCODE</td>
+
+<td>ID1507011</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>ADM2_EN</td>
+
+<td>Tanjung Jabung Barat</td>
+
+</tr>
+
+<tr>
+
+<td>ADM2_PCODE</td>
+
+<td>ID1507</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>ADM1_EN</td>
+
+<td>Jambi</td>
+
+</tr>
+
+<tr>
+
+<td>ADM1_PCODE</td>
+
+<td>ID15</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>ADM0_EN</td>
+
+<td>Indonesia</td>
+
+</tr>
+
+<tr>
+
+<td>ADM0_PCODE</td>
+
+<td>ID</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>date</td>
+
+<td>12/20/2019</td>
+
+</tr>
+
+<tr>
+
+<td>validOn</td>
+
+<td>4/1/2020</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>validTo</td>
+
+<td>&lt;Null&gt;</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>
+
+]]></description>
+				<styleUrl>#PolyStyle00</styleUrl>
+				<MultiGeometry>
+					<Polygon>
+						<extrude>0</extrude><altitudeMode>clampToGround</altitudeMode>
+						<outerBoundaryIs><LinearRing><coordinates> 103.0269629998426,-1.295095299908098,0 103.0269628001931,-1.295095600281684,0 103.0105101997859,-1.288801300139824,0 102.9988147000385,-1.325117099774275,0 102.9969923003545,-1.338021800065974,0 102.9969123002625,-1.338587800086884,0 102.9963162997575,-1.342807900264347,0 102.9956536999583,-1.345152199914025,0 102.9937636002101,-1.351839299643927,0 102.9932402001751,-1.353691099964237,0 102.9931905000416,-1.353866699788341,0 102.9929214004024,-1.35488379974754,0 102.9897130995799,-1.367010500134427,0 102.9886050997456,-1.371198300261312,0 102.9884448999123,-1.371803699581051,0 102.9822931000466,-1.395670899992012,0 102.9766181998701,-1.421863900098856,0 102.9767834997588,-1.421781700265228,0 102.9789374003408,-1.421391300068422,0 102.9815760004321,-1.4212763999858,0 102.983376900024,-1.421578199873977,0 102.9841091999796,-1.421814899637866,0 102.9883405003139,-1.42318200044889,0 102.9884344003274,-1.423248099719956,0 102.9894793999544,-1.423983299989231,0 102.9905503998811,-1.425182800445839,0 102.9935403003446,-1.428343199778794,0 102.9951934997803,-1.429756100363704,0 102.9968801998614,-1.430869999750655,0 102.9983753002799,-1.431636099826108,0 103.0001427001256,-1.423263200236477,0 103.0001525998626,-1.411713799851952,0 103.003647500232,-1.398517399957996,0 103.0059106999189,-1.3877949001145,0 103.0100222995895,-1.371917800166273,0 103.0152381003581,-1.360683599568404,0 103.0202816000159,-1.348023600308863,0 103.0253049998259,-1.325484300160269,0 103.0260037002107,-1.321750299736493,0 103.0269629998426,-1.295095299908098,0</coordinates></LinearRing></outerBoundaryIs>
+					</Polygon>
+				</MultiGeometry>
+			</Placemark>
+		</Folder>
+	</Document>
+</kml>

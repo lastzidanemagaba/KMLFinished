@@ -1,0 +1,220 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.opengis.net/kml/2.2 http://schemas.opengis.net/kml/2.2.0/ogckml22.xsd http://www.google.com/kml/ext/2.2 http://code.google.com/apis/kml/schema/kml22gx.xsd">
+	<Document id="Pajaten_Layer">
+		<name>Pajaten_Layer</name>
+		<Snippet></Snippet>
+		<Style id="PolyStyle00">
+			<LabelStyle>
+				<color>00000000</color>
+				<scale>0.000000</scale>
+			</LabelStyle>
+			<LineStyle>
+				<color>ff6e6e6e</color>
+				<width>0.400000</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>fff2bdbf</color>
+				<outline>1</outline>
+			</PolyStyle>
+		</Style>
+		<Folder id="FeatureLayer0">
+			<name>Pajaten_Layer</name>
+			<Snippet></Snippet>
+			<description><![CDATA[Pajaten_Layer]]></description>
+			<Placemark id="ID_00000">
+				<name>Pajaten</name>
+				<Snippet></Snippet>
+				<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Pajaten</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>1</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Shape_Leng</td>
+
+<td>0.084839</td>
+
+</tr>
+
+<tr>
+
+<td>ADM4_EN</td>
+
+<td>Pajaten</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>ADM4_PCODE</td>
+
+<td>ID3218060003</td>
+
+</tr>
+
+<tr>
+
+<td>ADM4_REF</td>
+
+<td></td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>ADM4ALT1EN</td>
+
+<td></td>
+
+</tr>
+
+<tr>
+
+<td>ADM4ALT2EN</td>
+
+<td></td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>ADM3_EN</td>
+
+<td>Sidamulih</td>
+
+</tr>
+
+<tr>
+
+<td>ADM3_PCODE</td>
+
+<td>ID3218060</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>ADM2_EN</td>
+
+<td>Pangandaran</td>
+
+</tr>
+
+<tr>
+
+<td>ADM2_PCODE</td>
+
+<td>ID3218</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>ADM1_EN</td>
+
+<td>Jawa Barat</td>
+
+</tr>
+
+<tr>
+
+<td>ADM1_PCODE</td>
+
+<td>ID32</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>ADM0_EN</td>
+
+<td>Indonesia</td>
+
+</tr>
+
+<tr>
+
+<td>ADM0_PCODE</td>
+
+<td>ID</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>date</td>
+
+<td>12/20/2019</td>
+
+</tr>
+
+<tr>
+
+<td>validOn</td>
+
+<td>4/1/2020</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>validTo</td>
+
+<td>&lt;Null&gt;</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>
+
+]]></description>
+				<styleUrl>#PolyStyle00</styleUrl>
+				<MultiGeometry>
+					<Polygon>
+						<extrude>0</extrude><altitudeMode>clampToGround</altitudeMode>
+						<outerBoundaryIs><LinearRing><coordinates> 108.6143981997172,-7.647597999747859,0 108.6139993000277,-7.647483800237126,0 108.6132167999154,-7.646915599575209,0 108.6085825997073,-7.647299199998031,0 108.6040316002782,-7.647308599712062,0 108.6026252998178,-7.647923799843454,0 108.6002155996703,-7.6490935003647,0 108.5997253000826,-7.649011600005281,0 108.5994898998391,-7.649115299931111,0 108.598038900375,-7.6499105002693,0 108.597655399777,-7.65028810041548,0 108.5974160002483,-7.6504044996679,0 108.596889600075,-7.651038799600883,0 108.5954825999421,-7.6526166997009,0 108.5947778003552,-7.653256499887505,0 108.5939689995697,-7.654866700038156,0 108.5931605998819,-7.656142200402201,0 108.5930143997948,-7.65716810022758,0 108.5928526998923,-7.658084799873563,0 108.5928044998279,-7.658357899697251,0 108.5931023004309,-7.658903700045698,0 108.593527099696,-7.659320599665875,0 108.5941738003806,-7.65997319990322,0 108.5944896000151,-7.660482299818227,0 108.5946030000285,-7.660901699553733,0 108.5948597996401,-7.660936200245374,0 108.5950595003957,-7.66071519994648,0 108.595428000302,-7.660968000272931,0 108.5959026004247,-7.660762899987787,0 108.5960471997186,-7.66052410030693,0 108.5964533002796,-7.660886299563003,0 108.5968582002458,-7.661102199806635,0 108.597151100443,-7.661081500111095,0 108.5976651996893,-7.661205100235122,0 108.5983177999266,-7.661648699827595,0 108.6016091000799,-7.668041500015192,0 108.6030694003326,-7.67058110003768,0 108.6050011998456,-7.672159900359077,0 108.6056050001707,-7.672224200086703,0 108.6056100004013,-7.67222999981459,0 108.6057499996628,-7.672399999560298,0 108.6059058998375,-7.672610899573328,0 108.6065209003194,-7.672266700247974,0 108.607533500071,-7.673853199665359,0 108.6081648996905,-7.672890899895094,0 108.6089636001901,-7.672804500227471,0 108.609871400145,-7.671441100126628,0 108.6098576000483,-7.669806499570257,0 108.6118014001146,-7.66807559960921,0 108.6155406004185,-7.665970700387447,0 108.6155758997081,-7.665412199813147,0 108.6154434997178,-7.663937999638904,0 108.6167568003861,-7.663313100319272,0 108.6167159001188,-7.66303760020503,0 108.6167133001787,-7.662726899726579,0 108.616895599952,-7.662615700354252,0 108.6173911003191,-7.662721199823466,0 108.6175923002445,-7.662683000220227,0 108.6176627000736,-7.662335100184691,0 108.6175375000556,-7.661078999995823,0 108.6174892001665,-7.661048200014363,0 108.6174773003372,-7.661037800254235,0 108.6174832997146,-7.66061860016822,0 108.6170772000528,-7.660256499837544,0 108.6159287001494,-7.658767399695705,0 108.616072999969,-7.6584920003055,0 108.6161770002684,-7.657796600432732,0 108.6155444000541,-7.657143400347593,0 108.6150621997608,-7.651509600087934,0 108.6148956003518,-7.651298200051826,0 108.6147788998264,-7.647707100102537,0 108.6143981997172,-7.647597999747859,0</coordinates></LinearRing></outerBoundaryIs>
+					</Polygon>
+				</MultiGeometry>
+			</Placemark>
+		</Folder>
+	</Document>
+</kml>

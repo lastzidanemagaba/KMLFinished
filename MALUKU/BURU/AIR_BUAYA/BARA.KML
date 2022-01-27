@@ -1,0 +1,220 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.opengis.net/kml/2.2 http://schemas.opengis.net/kml/2.2.0/ogckml22.xsd http://www.google.com/kml/ext/2.2 http://code.google.com/apis/kml/schema/kml22gx.xsd">
+	<Document id="Bara_Layer">
+		<name>Bara_Layer</name>
+		<Snippet></Snippet>
+		<Style id="PolyStyle00">
+			<LabelStyle>
+				<color>00000000</color>
+				<scale>0.000000</scale>
+			</LabelStyle>
+			<LineStyle>
+				<color>ff6e6e6e</color>
+				<width>0.400000</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>fffaf2d2</color>
+				<outline>1</outline>
+			</PolyStyle>
+		</Style>
+		<Folder id="FeatureLayer0">
+			<name>Bara_Layer</name>
+			<Snippet></Snippet>
+			<description><![CDATA[Bara_Layer]]></description>
+			<Placemark id="ID_00000">
+				<name>Bara</name>
+				<Snippet></Snippet>
+				<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Bara</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>1</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Shape_Leng</td>
+
+<td>0.666767</td>
+
+</tr>
+
+<tr>
+
+<td>ADM4_EN</td>
+
+<td>Bara</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>ADM4_PCODE</td>
+
+<td>ID8104030001</td>
+
+</tr>
+
+<tr>
+
+<td>ADM4_REF</td>
+
+<td></td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>ADM4ALT1EN</td>
+
+<td></td>
+
+</tr>
+
+<tr>
+
+<td>ADM4ALT2EN</td>
+
+<td></td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>ADM3_EN</td>
+
+<td>Air Buaya</td>
+
+</tr>
+
+<tr>
+
+<td>ADM3_PCODE</td>
+
+<td>ID8104030</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>ADM2_EN</td>
+
+<td>Buru</td>
+
+</tr>
+
+<tr>
+
+<td>ADM2_PCODE</td>
+
+<td>ID8104</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>ADM1_EN</td>
+
+<td>Maluku</td>
+
+</tr>
+
+<tr>
+
+<td>ADM1_PCODE</td>
+
+<td>ID81</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>ADM0_EN</td>
+
+<td>Indonesia</td>
+
+</tr>
+
+<tr>
+
+<td>ADM0_PCODE</td>
+
+<td>ID</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>date</td>
+
+<td>12/20/2019</td>
+
+</tr>
+
+<tr>
+
+<td>validOn</td>
+
+<td>4/1/2020</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>validTo</td>
+
+<td>&lt;Null&gt;</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>
+
+]]></description>
+				<styleUrl>#PolyStyle00</styleUrl>
+				<MultiGeometry>
+					<Polygon>
+						<extrude>0</extrude><altitudeMode>clampToGround</altitudeMode>
+						<outerBoundaryIs><LinearRing><coordinates> 126.2494585996347,-3.13118729965413,0 126.2492481996447,-3.131171100166114,0 126.2401564998227,-3.131743800136235,0 126.2340714997999,-3.132531299579739,0 126.2307067996791,-3.136039099824529,0 126.2274853004063,-3.137757299559667,0 126.2267695003122,-3.140835599783031,0 126.2254809004232,-3.142482100168763,0 126.2232616002427,-3.148853500088933,0 126.221615099857,-3.15307720025254,0 126.2214003003836,-3.155582799606464,0 126.2210423998869,-3.158661099829828,0 126.2214718999084,-3.163385900438925,0 126.2224026001999,-3.167466399754517,0 126.2239775001616,-3.16997200000776,0 126.2259819999693,-3.172191300188331,0 126.2263398995668,-3.173980999623382,0 126.2271990003337,-3.176629799825378,0 126.2280581002012,-3.178061499838293,0 126.2274853004063,-3.17956490009999,0 126.225695600072,-3.182070500353234,0 126.2223309997759,-3.183502200366206,0 126.2200401998954,-3.183144299869468,0 126.2153153003609,-3.182643200323412,0 126.2126665999837,-3.183287499818221,0 126.2093018998629,-3.183716999839646,0 126.2064384000122,-3.184647600306448,0 126.2034317002128,-3.185936200195442,0 126.1972750997661,-3.185793100071464,0 126.1943398996667,-3.185077200152591,0 126.1892572003595,-3.185291899801314,0 126.1871094997038,-3.184432899758463,0 126.1827425995914,-3.182213599577892,0 126.1775882000354,-3.18106819963765,0 126.1718612003342,-3.178992200129869,0 126.1707940000431,-3.17861910019127,0 126.1649809001485,-3.193714000400746,0 126.1544489999214,-3.21268639955764,0 126.1414742001742,-3.223183399794038,0 126.129998900329,-3.226032499700068,0 126.1300370999322,-3.226145299865664,0 126.1326264999132,-3.259813700441896,0 126.1326125999916,-3.264695799671358,0 126.1306739998053,-3.272141900228462,0 126.1304147000784,-3.273282200113385,0 126.1284288000492,-3.282014600093646,0 126.1279874001984,-3.283397099996137,0 126.1267889996127,-3.286816799955318,0 126.1242811996177,-3.295004000334302,0 126.1242113996365,-3.295231699683143,0 126.1242013002499,-3.295264999779874,0 126.1313423004069,-3.300804900026094,0 126.1331272001602,-3.302011499730895,0 126.1594368000683,-3.311865099794488,0 126.1646299001499,-3.313815900183613,0 126.1799621997958,-3.319574799737154,0 126.182625499767,-3.320515700139424,0 126.1916909996399,-3.323718099610574,0 126.1919781999341,-3.323819499969886,0 126.2062747000175,-3.328868099683007,0 126.2285913001484,-3.336748900141572,0 126.2330717999237,-3.338064700025825,0 126.2471764997957,-3.341589199781708,0 126.2820506996801,-3.350303599831193,0 126.2910753001851,-3.255708000323921,0 126.290737999559,-3.226520600445326,0 126.2886214999824,-3.206766599598836,0 126.2881512004176,-3.199946800404462,0 126.2876808001289,-3.181838999570118,0 126.277098400271,-3.164436699793839,0 126.2691026997298,-3.152208099923826,0 126.2596960995954,-3.140449799618523,0 126.2494585996347,-3.13118729965413,0</coordinates></LinearRing></outerBoundaryIs>
+					</Polygon>
+				</MultiGeometry>
+			</Placemark>
+		</Folder>
+	</Document>
+</kml>

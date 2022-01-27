@@ -1,0 +1,220 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.opengis.net/kml/2.2 http://schemas.opengis.net/kml/2.2.0/ogckml22.xsd http://www.google.com/kml/ext/2.2 http://code.google.com/apis/kml/schema/kml22gx.xsd">
+	<Document id="Siem_Layer">
+		<name>Siem_Layer</name>
+		<Snippet></Snippet>
+		<Style id="PolyStyle00">
+			<LabelStyle>
+				<color>00000000</color>
+				<scale>0.000000</scale>
+			</LabelStyle>
+			<LineStyle>
+				<color>ff6e6e6e</color>
+				<width>0.400000</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>ffe7f2c7</color>
+				<outline>1</outline>
+			</PolyStyle>
+		</Style>
+		<Folder id="FeatureLayer0">
+			<name>Siem_Layer</name>
+			<Snippet></Snippet>
+			<description><![CDATA[Siem_Layer]]></description>
+			<Placemark id="ID_00000">
+				<name>Siem</name>
+				<Snippet></Snippet>
+				<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Siem</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>1</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Shape_Leng</td>
+
+<td>0.040145</td>
+
+</tr>
+
+<tr>
+
+<td>ADM4_EN</td>
+
+<td>Siem</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>ADM4_PCODE</td>
+
+<td>ID1108060006</td>
+
+</tr>
+
+<tr>
+
+<td>ADM4_REF</td>
+
+<td></td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>ADM4ALT1EN</td>
+
+<td></td>
+
+</tr>
+
+<tr>
+
+<td>ADM4ALT2EN</td>
+
+<td></td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>ADM3_EN</td>
+
+<td>Darussalam</td>
+
+</tr>
+
+<tr>
+
+<td>ADM3_PCODE</td>
+
+<td>ID1108060</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>ADM2_EN</td>
+
+<td>Aceh Besar</td>
+
+</tr>
+
+<tr>
+
+<td>ADM2_PCODE</td>
+
+<td>ID1108</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>ADM1_EN</td>
+
+<td>Aceh</td>
+
+</tr>
+
+<tr>
+
+<td>ADM1_PCODE</td>
+
+<td>ID11</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>ADM0_EN</td>
+
+<td>Indonesia</td>
+
+</tr>
+
+<tr>
+
+<td>ADM0_PCODE</td>
+
+<td>ID</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>date</td>
+
+<td>12/20/2019</td>
+
+</tr>
+
+<tr>
+
+<td>validOn</td>
+
+<td>4/1/2020</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>validTo</td>
+
+<td>&lt;Null&gt;</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>
+
+]]></description>
+				<styleUrl>#PolyStyle00</styleUrl>
+				<MultiGeometry>
+					<Polygon>
+						<extrude>0</extrude><altitudeMode>clampToGround</altitudeMode>
+						<outerBoundaryIs><LinearRing><coordinates> 95.41054940023469,5.570949900217784,0 95.41071179980975,5.571118999742112,0 95.40896330011628,5.578156600346858,0 95.40859249974415,5.579130200098689,0 95.40858200015924,5.579157999941799,0 95.40750559980364,5.578895999550809,0 95.40657469986257,5.579000300223697,0 95.40589250023874,5.578378900166172,0 95.40589140036786,5.578352999691219,0 95.40530529959995,5.577775000016288,0 95.40498420026069,5.577511799929653,0 95.40454750026697,5.577197899663361,0 95.40448879971837,5.577161899801865,0 95.40445360025353,5.577140299885002,0 95.40405040000604,5.576893499835194,0 95.40395819971121,5.576986700176121,0 95.40362630041352,5.577391899616543,0 95.40348339993903,5.577559699620508,0 95.40340849990241,5.577585799744895,0 95.40292319964601,5.577344900147068,0 95.40245340010438,5.578003399937018,0 95.40194259957138,5.577736599864238,0 95.40145620034343,5.577659000062852,0 95.40063320016213,5.577365400193116,0 95.40052990043461,5.577339399893447,0 95.40026029987303,5.577271600004394,0 95.3995459998481,5.577062799908333,0 95.39936680003785,5.57701040001001,0 95.39882890023364,5.576797400080011,0 95.39794370024163,5.576436799818509,0 95.39721970012914,5.575926699857348,0 95.39723700038729,5.575828900383499,0 95.39716999999558,5.575696399669141,0 95.39692600043463,5.575617100149088,0 95.3973583000456,5.574698199862098,0 95.3973661996904,5.574681500351005,0 95.39809920021798,5.57442540041194,0 95.39866150042798,5.572759999874165,0 95.39892859997497,5.572161500153186,0 95.39960470039665,5.57077910007547,0 95.39992040020638,5.570487799772195,0 95.39992979992041,5.570478999905959,0 95.40039920016301,5.570662000251161,0 95.40054790036538,5.570636499974569,0 95.40090970032247,5.570574599638121,0 95.40116389999406,5.570203700340528,0 95.40200480028136,5.569502400015779,0 95.40286449999672,5.57019949960727,0 95.40322599958029,5.570325099823549,0 95.40360469959728,5.570096899552311,0 95.40377100043139,5.57010380005039,0 95.40382540042197,5.570105999792133,0 95.40410649971523,5.570094799635342,0 95.4045281000918,5.570123300050284,0 95.40498959979027,5.570131400243952,0 95.40500330006233,5.570131800442311,0 95.40564229985233,5.570148900151651,0 95.40565020039651,5.570149099801142,0 95.40607360031646,5.57015719999481,0 95.40638499956816,5.570196100169937,0 95.40681699970486,5.570315000436949,0 95.40700810024367,5.570384699694159,0 95.40716870027535,5.570404099869336,0 95.40759019992782,5.570432600284335,0 95.4078815002311,5.57046149999826,0 95.40807230039638,5.570470799887573,0 95.40834340012788,5.570519900173281,0 95.40866479984072,5.570579000020871,0 95.40914040000951,5.570657699693129,0 95.40925699981074,5.570677099868306,0 95.409555099888,5.570724200061818,0 95.40962890005375,5.57073590024163,0 95.40981970021903,5.570785399826377,0 95.41034389975124,5.570910500019636,0 95.41047279958008,5.570953699853419,0 95.41050230004117,5.570929599821227,0 95.41054940023469,5.570949900217784,0</coordinates></LinearRing></outerBoundaryIs>
+					</Polygon>
+				</MultiGeometry>
+			</Placemark>
+		</Folder>
+	</Document>
+</kml>

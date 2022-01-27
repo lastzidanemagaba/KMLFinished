@@ -1,0 +1,996 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.opengis.net/kml/2.2 http://schemas.opengis.net/kml/2.2.0/ogckml22.xsd http://www.google.com/kml/ext/2.2 http://code.google.com/apis/kml/schema/kml22gx.xsd">
+	<Document id="Hagu_Layer">
+		<name>Hagu_Layer</name>
+		<Snippet></Snippet>
+		<Style id="PolyStyle00">
+			<LabelStyle>
+				<color>00000000</color>
+				<scale>0.000000</scale>
+			</LabelStyle>
+			<LineStyle>
+				<color>ff6e6e6e</color>
+				<width>0.400000</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>ffceecf5</color>
+				<outline>1</outline>
+			</PolyStyle>
+		</Style>
+		<Folder id="FeatureLayer0">
+			<name>Hagu_Layer</name>
+			<Snippet></Snippet>
+			<description><![CDATA[Hagu_Layer]]></description>
+			<Placemark id="ID_00000">
+				<name>Hagu</name>
+				<Snippet></Snippet>
+				<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Hagu</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>1</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Shape_Leng</td>
+
+<td>0.060677</td>
+
+</tr>
+
+<tr>
+
+<td>ADM4_EN</td>
+
+<td>Hagu</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>ADM4_PCODE</td>
+
+<td>ID1110040011</td>
+
+</tr>
+
+<tr>
+
+<td>ADM4_REF</td>
+
+<td></td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>ADM4ALT1EN</td>
+
+<td></td>
+
+</tr>
+
+<tr>
+
+<td>ADM4ALT2EN</td>
+
+<td></td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>ADM3_EN</td>
+
+<td>Peudada</td>
+
+</tr>
+
+<tr>
+
+<td>ADM3_PCODE</td>
+
+<td>ID1110040</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>ADM2_EN</td>
+
+<td>Bireuen</td>
+
+</tr>
+
+<tr>
+
+<td>ADM2_PCODE</td>
+
+<td>ID1110</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>ADM1_EN</td>
+
+<td>Aceh</td>
+
+</tr>
+
+<tr>
+
+<td>ADM1_PCODE</td>
+
+<td>ID11</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>ADM0_EN</td>
+
+<td>Indonesia</td>
+
+</tr>
+
+<tr>
+
+<td>ADM0_PCODE</td>
+
+<td>ID</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>date</td>
+
+<td>12/20/2019</td>
+
+</tr>
+
+<tr>
+
+<td>validOn</td>
+
+<td>4/1/2020</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>validTo</td>
+
+<td>&lt;Null&gt;</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>
+
+]]></description>
+				<styleUrl>#PolyStyle00</styleUrl>
+				<MultiGeometry>
+					<Polygon>
+						<extrude>0</extrude><altitudeMode>clampToGround</altitudeMode>
+						<outerBoundaryIs><LinearRing><coordinates> 96.58659480040978,5.176685199662302,0 96.58634679976507,5.176425700285904,0 96.58597550026917,5.176349599654372,0 96.58550879979134,5.17664569963938,0 96.58496570010703,5.177235799692426,0 96.58446139987376,5.1777865004467,0 96.58397509957126,5.178063100431814,0 96.58397079991255,5.178066700417958,0 96.58370060040244,5.177759199727348,0 96.58293999968129,5.176433299557175,0 96.58233499966059,5.175447999625533,0 96.58181809992544,5.174606100191397,0 96.58181309969484,5.174581699785676,0 96.58180739979173,5.174715900218644,0 96.58160350010149,5.174114000161012,0 96.58134490004716,5.173350400200832,0 96.58097139991025,5.172932399810463,0 96.58022620007915,5.172098400021184,0 96.5791419000787,5.170594599561184,0 96.57891569989971,5.170451000313449,0 96.57884380000144,5.170405300364393,0 96.58077360032144,5.16801310012454,0 96.58119789956345,5.16779740042972,0 96.58167099961702,5.167556900130876,0 96.58302020032204,5.16743649979469,0 96.58415020027161,5.16768720020417,0 96.58428270008659,5.167624799844702,0 96.58517059984337,5.167619799614101,0 96.58678020014617,5.167610700273656,0 96.58685029960168,5.167610300075353,0 96.58956169981263,5.167546799845013,0 96.59320859999696,5.167405799638004,0 96.59874890044148,5.166845100221224,0 96.60067240011125,5.167507799845112,0 96.60090060038249,5.16796640012933,0 96.60097350032686,5.168112899690641,0 96.60140060005773,5.168971299885641,0 96.60130050011804,5.170959700030153,0 96.60118490036291,5.173255199767709,0 96.60115520025232,5.173784500254555,0 96.60103229980086,5.17597479999705,0 96.60098199981951,5.176955200422185,0 96.59935389956286,5.176249899912989,0 96.59633849972204,5.176435099999935,0 96.59601130028136,5.176482100368673,0 96.59280539974947,5.176942400371502,0 96.59191149971599,5.177316700005747,0 96.59148230006815,5.176944399564434,0 96.59068139982679,5.17681199957417,0 96.59036090033533,5.176798200376709,0 96.58989860024025,5.176778200353738,0 96.58908070011427,5.176742800340037,0 96.58759439956197,5.176708400372434,0 96.58752420028168,5.176706799579165,0 96.58659480040978,5.176685199662302,0</coordinates></LinearRing></outerBoundaryIs>
+					</Polygon>
+				</MultiGeometry>
+			</Placemark>
+			<Placemark id="ID_00001">
+				<name>Hagu</name>
+				<Snippet></Snippet>
+				<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Hagu</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>2</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Shape_Leng</td>
+
+<td>0.04008</td>
+
+</tr>
+
+<tr>
+
+<td>ADM4_EN</td>
+
+<td>Hagu</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>ADM4_PCODE</td>
+
+<td>ID1111060090</td>
+
+</tr>
+
+<tr>
+
+<td>ADM4_REF</td>
+
+<td></td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>ADM4ALT1EN</td>
+
+<td></td>
+
+</tr>
+
+<tr>
+
+<td>ADM4ALT2EN</td>
+
+<td></td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>ADM3_EN</td>
+
+<td>Matangkuli</td>
+
+</tr>
+
+<tr>
+
+<td>ADM3_PCODE</td>
+
+<td>ID1111060</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>ADM2_EN</td>
+
+<td>Aceh Utara</td>
+
+</tr>
+
+<tr>
+
+<td>ADM2_PCODE</td>
+
+<td>ID1111</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>ADM1_EN</td>
+
+<td>Aceh</td>
+
+</tr>
+
+<tr>
+
+<td>ADM1_PCODE</td>
+
+<td>ID11</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>ADM0_EN</td>
+
+<td>Indonesia</td>
+
+</tr>
+
+<tr>
+
+<td>ADM0_PCODE</td>
+
+<td>ID</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>date</td>
+
+<td>12/20/2019</td>
+
+</tr>
+
+<tr>
+
+<td>validOn</td>
+
+<td>4/1/2020</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>validTo</td>
+
+<td>&lt;Null&gt;</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>
+
+]]></description>
+				<styleUrl>#PolyStyle00</styleUrl>
+				<MultiGeometry>
+					<Polygon>
+						<extrude>0</extrude><altitudeMode>clampToGround</altitudeMode>
+						<outerBoundaryIs><LinearRing><coordinates> 97.27256480042524,5.034857199999806,0 97.27256590029612,5.034874500258013,0 97.27254719979351,5.034903099598409,0 97.27251029971063,5.034959300031744,0 97.27206040036725,5.035645800213558,0 97.27111310038936,5.035472499955972,0 97.27075829985569,5.035962099871085,0 97.27061640032667,5.037350500225443,0 97.27061409986089,5.037373500386764,0 97.27061199994392,5.03737169994406,0 97.27060139963493,5.037362999902598,0 97.27053559983813,5.037308699736741,0 97.27036369982494,5.037036599959151,0 97.27031289982051,5.036981100097762,0 97.2701460998627,5.037134000134074,0 97.26985119957328,5.036790100282929,0 97.26964050010906,5.036610100076132,0 97.26922079999997,5.036488699693791,0 97.2691947997003,5.036487199624617,0 97.26916029990798,5.036485200431684,0 97.26905350001908,5.036478999606175,0 97.26888949965075,5.034907099782856,0 97.26849090033483,5.033361300083982,0 97.26071749961295,5.028850199976773,0 97.26071310012952,5.028847600036784,0 97.26076819979266,5.028752899626681,0 97.26094810017474,5.028443799941442,0 97.26097919963041,5.028390300172248,0 97.26306499994985,5.024806099821717,0 97.26468640025723,5.025570000155426,0 97.26474269961597,5.025596499578853,0 97.26827209977762,5.027259400001356,0 97.2689113999412,5.027255200167417,0 97.27109609960536,5.030356300003291,0 97.27109709965151,5.03035749969888,0 97.27131399994119,5.030610499674879,0 97.27141359985779,5.030726700177127,0 97.27142189970095,5.030736400264686,0 97.27146740000057,5.030982499742606,0 97.27266970004666,5.031051500226624,0 97.27328960003507,5.031996300089247,0 97.2722056004082,5.033024299831595,0 97.27216720025615,5.033051400002137,0 97.2719872000493,5.033231300384273,0 97.27176469968123,5.033442400046795,0 97.27169189956157,5.034032599924615,0 97.27247060003822,5.034539099899575,0 97.27250299991357,5.034560199793418,0 97.27255139962745,5.034643200023709,0 97.27256480042524,5.034857199999806,0</coordinates></LinearRing></outerBoundaryIs>
+					</Polygon>
+				</MultiGeometry>
+			</Placemark>
+			<Placemark id="ID_00002">
+				<name>Hagu</name>
+				<Snippet></Snippet>
+				<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Hagu</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>3</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Shape_Leng</td>
+
+<td>0.025104</td>
+
+</tr>
+
+<tr>
+
+<td>ADM4_EN</td>
+
+<td>Hagu</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>ADM4_PCODE</td>
+
+<td>ID1111120015</td>
+
+</tr>
+
+<tr>
+
+<td>ADM4_REF</td>
+
+<td></td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>ADM4ALT1EN</td>
+
+<td></td>
+
+</tr>
+
+<tr>
+
+<td>ADM4ALT2EN</td>
+
+<td></td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>ADM3_EN</td>
+
+<td>Tanah Luas</td>
+
+</tr>
+
+<tr>
+
+<td>ADM3_PCODE</td>
+
+<td>ID1111120</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>ADM2_EN</td>
+
+<td>Aceh Utara</td>
+
+</tr>
+
+<tr>
+
+<td>ADM2_PCODE</td>
+
+<td>ID1111</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>ADM1_EN</td>
+
+<td>Aceh</td>
+
+</tr>
+
+<tr>
+
+<td>ADM1_PCODE</td>
+
+<td>ID11</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>ADM0_EN</td>
+
+<td>Indonesia</td>
+
+</tr>
+
+<tr>
+
+<td>ADM0_PCODE</td>
+
+<td>ID</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>date</td>
+
+<td>12/20/2019</td>
+
+</tr>
+
+<tr>
+
+<td>validOn</td>
+
+<td>4/1/2020</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>validTo</td>
+
+<td>&lt;Null&gt;</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>
+
+]]></description>
+				<styleUrl>#PolyStyle00</styleUrl>
+				<MultiGeometry>
+					<Polygon>
+						<extrude>0</extrude><altitudeMode>clampToGround</altitudeMode>
+						<outerBoundaryIs><LinearRing><coordinates> 97.2146769997438,5.018869700176595,0 97.21464030020974,5.018958500134715,0 97.21173259957988,5.017699600356309,0 97.21165139979234,5.0176643999921,0 97.21165179999065,5.017663399946002,0 97.21382719976549,5.01198069994939,0 97.21383610035582,5.011957400313804,0 97.21429209980062,5.01145789976232,0 97.21670859972215,5.008925600436157,0 97.21672310039082,5.008936000196286,0 97.21672179997114,5.008938600136332,0 97.21829419981754,5.010094300011986,0 97.21747450014811,5.012100200064253,0 97.2146769997438,5.018869700176595,0</coordinates></LinearRing></outerBoundaryIs>
+					</Polygon>
+				</MultiGeometry>
+			</Placemark>
+			<Placemark id="ID_00003">
+				<name>Hagu</name>
+				<Snippet></Snippet>
+				<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Hagu</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>4</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Shape_Leng</td>
+
+<td>0.035879</td>
+
+</tr>
+
+<tr>
+
+<td>ADM4_EN</td>
+
+<td>Hagu</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>ADM4_PCODE</td>
+
+<td>ID1111140029</td>
+
+</tr>
+
+<tr>
+
+<td>ADM4_REF</td>
+
+<td></td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>ADM4ALT1EN</td>
+
+<td></td>
+
+</tr>
+
+<tr>
+
+<td>ADM4ALT2EN</td>
+
+<td></td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>ADM3_EN</td>
+
+<td>Syamtalira Aron</td>
+
+</tr>
+
+<tr>
+
+<td>ADM3_PCODE</td>
+
+<td>ID1111140</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>ADM2_EN</td>
+
+<td>Aceh Utara</td>
+
+</tr>
+
+<tr>
+
+<td>ADM2_PCODE</td>
+
+<td>ID1111</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>ADM1_EN</td>
+
+<td>Aceh</td>
+
+</tr>
+
+<tr>
+
+<td>ADM1_PCODE</td>
+
+<td>ID11</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>ADM0_EN</td>
+
+<td>Indonesia</td>
+
+</tr>
+
+<tr>
+
+<td>ADM0_PCODE</td>
+
+<td>ID</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>date</td>
+
+<td>12/20/2019</td>
+
+</tr>
+
+<tr>
+
+<td>validOn</td>
+
+<td>4/1/2020</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>validTo</td>
+
+<td>&lt;Null&gt;</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>
+
+]]></description>
+				<styleUrl>#PolyStyle00</styleUrl>
+				<MultiGeometry>
+					<Polygon>
+						<extrude>0</extrude><altitudeMode>clampToGround</altitudeMode>
+						<outerBoundaryIs><LinearRing><coordinates> 97.25947220028189,5.112051499776953,0 97.25665679977158,5.112982299893247,0 97.24563970001219,5.113666299959846,0 97.24336189983188,5.113819500369686,0 97.24337119972114,5.113488299845187,0 97.24338299972572,5.113070099805327,0 97.24334339987809,5.113017899556439,0 97.24330120009034,5.112962200045558,0 97.24339619997471,5.111517199958882,0 97.24817100019158,5.111312300222551,0 97.25231370021714,5.111090399702221,0 97.25368900014729,5.111153999757335,0 97.25398529978185,5.111167700029398,0 97.25533909961979,5.111230399863132,0 97.25944030042956,5.110916399772066,0 97.25944889974699,5.110915700099554,0 97.25946710022657,5.110914299855096,0 97.25948400028642,5.111117599697536,0 97.25950570002811,5.112040400344256,0 97.25947220028189,5.112051499776953,0</coordinates></LinearRing></outerBoundaryIs>
+					</Polygon>
+				</MultiGeometry>
+			</Placemark>
+			<Placemark id="ID_00004">
+				<name>Hagu</name>
+				<Snippet></Snippet>
+				<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Hagu</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>5</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Shape_Leng</td>
+
+<td>0.064402</td>
+
+</tr>
+
+<tr>
+
+<td>ADM4_EN</td>
+
+<td>Hagu</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>ADM4_PCODE</td>
+
+<td>ID1118070008</td>
+
+</tr>
+
+<tr>
+
+<td>ADM4_REF</td>
+
+<td></td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>ADM4ALT1EN</td>
+
+<td></td>
+
+</tr>
+
+<tr>
+
+<td>ADM4ALT2EN</td>
+
+<td></td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>ADM3_EN</td>
+
+<td>Panteraja</td>
+
+</tr>
+
+<tr>
+
+<td>ADM3_PCODE</td>
+
+<td>ID1118070</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>ADM2_EN</td>
+
+<td>Pidie Jaya</td>
+
+</tr>
+
+<tr>
+
+<td>ADM2_PCODE</td>
+
+<td>ID1118</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>ADM1_EN</td>
+
+<td>Aceh</td>
+
+</tr>
+
+<tr>
+
+<td>ADM1_PCODE</td>
+
+<td>ID11</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>ADM0_EN</td>
+
+<td>Indonesia</td>
+
+</tr>
+
+<tr>
+
+<td>ADM0_PCODE</td>
+
+<td>ID</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>date</td>
+
+<td>12/20/2019</td>
+
+</tr>
+
+<tr>
+
+<td>validOn</td>
+
+<td>4/1/2020</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>validTo</td>
+
+<td>&lt;Null&gt;</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>
+
+]]></description>
+				<styleUrl>#PolyStyle00</styleUrl>
+				<MultiGeometry>
+					<Polygon>
+						<extrude>0</extrude><altitudeMode>clampToGround</altitudeMode>
+						<outerBoundaryIs><LinearRing><coordinates> 96.13608149976147,5.273861599833026,0 96.13587559997899,5.273816800105294,0 96.13572029965218,5.27381759960258,0 96.13556500022463,5.273818399999186,0 96.13535319999022,5.273805299574974,0 96.1351417001294,5.273877099648473,0 96.13498639980259,5.273877900045079,0 96.13481709972945,5.273892899837506,0 96.13459119992399,5.273894100432415,0 96.13439350015994,5.273880900183428,0 96.13420980014223,5.273867699934442,0 96.13402579975093,5.27376950026229,0 96.13388430042016,5.273713600202541,0 96.13360170015841,5.273658499640078,0 96.1333893000762,5.273532099926513,0 96.13319099956504,5.273405800037665,0 96.13299310015151,5.273364299922548,0 96.1328273002398,5.273296900231799,0 96.13286630023964,5.272868300431753,0 96.13275970000024,5.272859899864557,0 96.13241370023212,5.272770500058584,0 96.13230409985437,5.272661700077435,0 96.13217639972112,5.272589399980859,0 96.13201190022909,5.272426200009193,0 96.13193840043687,5.272262500014392,0 96.13164600026278,5.271972299581989,0 96.13146359976537,5.2718638997992,0 96.13139369995935,5.271908200403175,0 96.13132990025474,5.271852800366503,0 96.1308106002291,5.272116399752122,0 96.130769600137,5.272137200171699,0 96.13076269963892,5.272123200425426,0 96.12956220003554,5.272732199731308,0 96.12956780011393,5.272758500404507,0 96.1284876001227,5.272218399959229,0 96.12731729975366,5.272082300158047,0 96.12584769961171,5.27219119996397,0 96.12535380003789,5.272749499989459,0 96.12530309985823,5.272422099999972,0 96.12550789976984,5.271582900330657,0 96.12539859976562,5.270619499790143,0 96.12539409955809,5.270616999674871,0 96.12540290032365,5.270363899874155,0 96.12531730015331,5.269348999656643,0 96.12499939970257,5.267074699637703,0 96.12494100042687,5.266600200239111,0 96.12490890002579,5.266339899566788,0 96.1248846003441,5.26633850022165,0 96.12488189967996,5.266306100346299,0 96.12477669968501,5.26543159958868,0 96.12475249982805,5.265230500387304,0 96.12464410004526,5.264329500206316,0 96.12453680013328,5.26343810028817,0 96.13304829963937,5.26289210029023,0 96.13610850010724,5.262608199608792,0 96.13773539976893,5.262695899696041,0 96.13972529998267,5.262666699608531,0 96.14064389989613,5.2626812002772,0 96.1406978996884,5.262710199815899,0 96.14110440044777,5.2629281999765,0 96.14179670035747,5.263615300006165,0 96.14184219975778,5.26364719985844,0 96.14258400015154,5.264167599754956,0 96.14289119956925,5.264376999698811,0 96.14295119963822,5.264894600005846,0 96.14278079969421,5.26525999994908,0 96.14249520019337,5.265529899984926,0 96.14213240019018,5.265685200311793,0 96.14165379988304,5.265649300275015,0 96.14132730011488,5.265401600003884,0 96.14088709995974,5.265384600119262,0 96.14004559982465,5.265484799883666,0 96.13931970034395,5.265718600233242,0 96.13888139955702,5.266085299696897,0 96.13853889995033,5.266470599838385,0 96.13852299993658,5.267122899702088,0 96.13865930028652,5.267582599857121,0 96.13935000030233,5.267943499592889,0 96.14015639989799,5.268495800241055,0 96.14026910023887,5.26858379980257,0 96.14079040035676,5.268991299708773,0 96.14088740033333,5.269062400109704,0 96.14091139964142,5.269079999842177,0 96.14097790001011,5.269128799754355,0 96.1412320996817,5.269315099712117,0 96.14180739959187,5.269561600287659,0 96.14263260041423,5.270036999907688,0 96.14320879964646,5.270456000344211,0 96.14347940025419,5.270991800231457,0 96.14334819995952,5.27152950038618,0 96.14315849966511,5.271875799628504,0 96.1425285002901,5.272166699733475,0 96.14184050003911,5.272323599954234,0 96.14128479995361,5.272173000383702,0 96.14088130023185,5.271848900006773,0 96.14024870001754,5.271621900330501,0 96.13969430035172,5.271720600025731,0 96.139409600173,5.272182400097734,0 96.13924030009986,5.272777899680364,0 96.13943430005298,5.273294800314829,0 96.13978680012076,5.273739899976476,0 96.13978249956278,5.27374259974124,0 96.13941870041276,5.273671500239573,0 96.13913639962522,5.273673000308747,0 96.13891049981976,5.273674100179619,0 96.13865630014817,5.273675399699982,0 96.13851499956763,5.27364780040574,0 96.13833150009873,5.273648699727744,0 96.13819059971644,5.273706099856668,0 96.13800689969872,5.273678700211917,0 96.13771040041473,5.273680200281092,0 96.13739969993628,5.2736675998799,0 96.13697630001627,5.273697999663,0 96.13651070030863,5.273756999685816,0 96.13624290018976,5.273857399999031,0 96.13613000019939,5.273872100317249,0 96.13608149976147,5.273861599833026,0</coordinates></LinearRing></outerBoundaryIs>
+					</Polygon>
+				</MultiGeometry>
+			</Placemark>
+		</Folder>
+	</Document>
+</kml>

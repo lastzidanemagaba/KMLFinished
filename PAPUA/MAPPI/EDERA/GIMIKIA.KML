@@ -1,0 +1,220 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.opengis.net/kml/2.2 http://schemas.opengis.net/kml/2.2.0/ogckml22.xsd http://www.google.com/kml/ext/2.2 http://code.google.com/apis/kml/schema/kml22gx.xsd">
+	<Document id="Gimikia_Layer">
+		<name>Gimikia_Layer</name>
+		<Snippet></Snippet>
+		<Style id="PolyStyle00">
+			<LabelStyle>
+				<color>00000000</color>
+				<scale>0.000000</scale>
+			</LabelStyle>
+			<LineStyle>
+				<color>ff6e6e6e</color>
+				<width>0.400000</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>ffcdf7ee</color>
+				<outline>1</outline>
+			</PolyStyle>
+		</Style>
+		<Folder id="FeatureLayer0">
+			<name>Gimikia_Layer</name>
+			<Snippet></Snippet>
+			<description><![CDATA[Gimikia_Layer]]></description>
+			<Placemark id="ID_00000">
+				<name>Gimikia</name>
+				<Snippet></Snippet>
+				<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Gimikia</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>1</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Shape_Leng</td>
+
+<td>0.606415</td>
+
+</tr>
+
+<tr>
+
+<td>ADM4_EN</td>
+
+<td>Gimikia</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>ADM4_PCODE</td>
+
+<td>ID9414020007</td>
+
+</tr>
+
+<tr>
+
+<td>ADM4_REF</td>
+
+<td></td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>ADM4ALT1EN</td>
+
+<td></td>
+
+</tr>
+
+<tr>
+
+<td>ADM4ALT2EN</td>
+
+<td></td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>ADM3_EN</td>
+
+<td>Edera</td>
+
+</tr>
+
+<tr>
+
+<td>ADM3_PCODE</td>
+
+<td>ID9414020</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>ADM2_EN</td>
+
+<td>Mappi</td>
+
+</tr>
+
+<tr>
+
+<td>ADM2_PCODE</td>
+
+<td>ID9414</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>ADM1_EN</td>
+
+<td>Papua</td>
+
+</tr>
+
+<tr>
+
+<td>ADM1_PCODE</td>
+
+<td>ID94</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>ADM0_EN</td>
+
+<td>Indonesia</td>
+
+</tr>
+
+<tr>
+
+<td>ADM0_PCODE</td>
+
+<td>ID</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>date</td>
+
+<td>12/20/2019</td>
+
+</tr>
+
+<tr>
+
+<td>validOn</td>
+
+<td>4/1/2020</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>validTo</td>
+
+<td>&lt;Null&gt;</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>
+
+]]></description>
+				<styleUrl>#PolyStyle00</styleUrl>
+				<MultiGeometry>
+					<Polygon>
+						<extrude>0</extrude><altitudeMode>clampToGround</altitudeMode>
+						<outerBoundaryIs><LinearRing><coordinates> 139.7759884003444,-7.045351700420611,0 139.7712453003304,-7.039422900046759,0 139.7635378001295,-7.036458499859862,0 139.7546445995687,-7.034679800032677,0 139.7481227997275,-7.035272699675318,0 139.7398224997087,-7.036458499859862,0 139.732115000407,-7.042387300233656,0 139.726778999851,-7.046537499705778,0 139.7184786998322,-7.050687700077276,0 139.7060280996171,-7.050687700077276,0 139.6965420003131,-7.050687700077276,0 139.68777010031,-7.049654799929044,0 139.6864628997431,-7.049501899892732,0 139.6769768004391,-7.05128059971986,0 139.6651190998666,-7.054244999906757,0 139.6550401000206,-7.054837900448717,0 139.6473325998197,-7.057209400093711,0 139.6354749001466,-7.061952500107736,0 139.6236173002982,-7.063731100110147,0 139.6165025999151,-7.063731100110147,0 139.6034591998822,-7.063731100110147,0 139.5951588000387,-7.062545399750377,0 139.5862656003773,-7.06432399975273,0 139.5818188998225,-7.068770599583445,0 139.5815225003631,-7.069067099766812,0 139.5815225003631,-7.073217300138253,0 139.5838940000082,-7.079146099612785,0 139.5809295998213,-7.08388919962681,0 139.5779651996343,-7.089225100358021,0 139.5767794003491,-7.094561100014687,0 139.5732220996202,-7.097525500201641,0 139.5667003996039,-7.095153999657327,0 139.5643288999588,-7.096932599659681,0 139.5606238999731,-7.098962499919367,0 139.5649217996014,-7.102268600215666,0 139.5702577003327,-7.106418799687788,0 139.5850798001927,-7.109976100416645,0 139.587747800021,-7.112644000420232,0 139.5993090004101,-7.115312000248593,0 139.6093880002561,-7.118276400435491,0 139.6188742002842,-7.121240799723068,0 139.6307318999573,-7.122426599907612,0 139.6396250996187,-7.120055100262618,0 139.6479255003616,-7.120055100262618,0 139.6574115996657,-7.118869300078075,0 139.6751980997126,-7.118276400435491,0 139.6912059997571,-7.112940499704223,0 139.7018779001451,-7.112940499704223,0 139.7149214000027,-7.111161799877095,0 139.7279648000356,-7.109383199874742,0 139.742194000253,-7.109383199874742,0 139.756423199571,-7.115312000248593,0 139.7660056999032,-7.121581499786316,0 139.7665022003164,-7.118276400435491,0 139.774209699618,-7.108197399690198,0 139.781917199819,-7.099896999846635,0 139.7908105002044,-7.092782400187559,0 139.7928611999845,-7.08827080005733,0 139.7919961996649,-7.077960300327561,0 139.786660299833,-7.07381009995612,0 139.7807315003586,-7.07381009995612,0 139.7748026001599,-7.075588799783247,0 139.7736167999755,-7.072624399596293,0 139.7777670003469,-7.068474200124172,0 139.7836958996461,-7.068474200124172,0 139.7890318003773,-7.065509799937274,0 139.7919961996649,-7.058395200278198,0 139.7925891002069,-7.051873400437046,0 139.7884388998355,-7.045944600063194,0 139.7854744996486,-7.041794399691753,0 139.7863359998066,-7.038633899634704,0 139.7807315003586,-7.045944600063194,0 139.7759884003444,-7.045351700420611,0</coordinates></LinearRing></outerBoundaryIs>
+					</Polygon>
+				</MultiGeometry>
+			</Placemark>
+		</Folder>
+	</Document>
+</kml>

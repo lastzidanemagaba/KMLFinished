@@ -1,0 +1,608 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.opengis.net/kml/2.2 http://schemas.opengis.net/kml/2.2.0/ogckml22.xsd http://www.google.com/kml/ext/2.2 http://code.google.com/apis/kml/schema/kml22gx.xsd">
+	<Document id="Kandang_Layer">
+		<name>Kandang_Layer</name>
+		<Snippet></Snippet>
+		<Style id="PolyStyle00">
+			<LabelStyle>
+				<color>00000000</color>
+				<scale>0.000000</scale>
+			</LabelStyle>
+			<LineStyle>
+				<color>ff6e6e6e</color>
+				<width>0.400000</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>ffb8eaf2</color>
+				<outline>1</outline>
+			</PolyStyle>
+		</Style>
+		<Folder id="FeatureLayer0">
+			<name>Kandang_Layer</name>
+			<Snippet></Snippet>
+			<description><![CDATA[Kandang_Layer]]></description>
+			<Placemark id="ID_00000">
+				<name>Kandang</name>
+				<Snippet></Snippet>
+				<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Kandang</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>1</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Shape_Leng</td>
+
+<td>0.019967</td>
+
+</tr>
+
+<tr>
+
+<td>ADM4_EN</td>
+
+<td>Kandang</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>ADM4_PCODE</td>
+
+<td>ID1108110030</td>
+
+</tr>
+
+<tr>
+
+<td>ADM4_REF</td>
+
+<td></td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>ADM4ALT1EN</td>
+
+<td></td>
+
+</tr>
+
+<tr>
+
+<td>ADM4ALT2EN</td>
+
+<td></td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>ADM3_EN</td>
+
+<td>Darul Imarah</td>
+
+</tr>
+
+<tr>
+
+<td>ADM3_PCODE</td>
+
+<td>ID1108110</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>ADM2_EN</td>
+
+<td>Aceh Besar</td>
+
+</tr>
+
+<tr>
+
+<td>ADM2_PCODE</td>
+
+<td>ID1108</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>ADM1_EN</td>
+
+<td>Aceh</td>
+
+</tr>
+
+<tr>
+
+<td>ADM1_PCODE</td>
+
+<td>ID11</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>ADM0_EN</td>
+
+<td>Indonesia</td>
+
+</tr>
+
+<tr>
+
+<td>ADM0_PCODE</td>
+
+<td>ID</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>date</td>
+
+<td>12/20/2019</td>
+
+</tr>
+
+<tr>
+
+<td>validOn</td>
+
+<td>4/1/2020</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>validTo</td>
+
+<td>&lt;Null&gt;</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>
+
+]]></description>
+				<styleUrl>#PolyStyle00</styleUrl>
+				<MultiGeometry>
+					<Polygon>
+						<extrude>0</extrude><altitudeMode>clampToGround</altitudeMode>
+						<outerBoundaryIs><LinearRing><coordinates> 95.3175282995914,5.509386900385209,0 95.31737860024225,5.509419800283581,0 95.3173746000578,5.5094285003251,0 95.31734000044071,5.509502799614552,0 95.31687959971384,5.509979499654207,0 95.31684249998148,5.510266500298826,0 95.31681520016144,5.510727499974166,0 95.31673849968206,5.511272999949028,0 95.31664599991302,5.511473699851422,0 95.3166290000284,5.511970800112408,0 95.31659410003772,5.512279799972816,0 95.31659090024988,5.512307900189512,0 95.31657760017617,5.512423699594137,0 95.31648539988134,5.512623799648679,0 95.31637490018153,5.51277259967577,0 95.31620390038972,5.512728999643684,0 95.31596020030304,5.512719699754371,0 95.31581760020214,5.51265919966238,0 95.31560450044742,5.512690600390954,0 95.31543199968712,5.512681099952829,0 95.31499460002084,5.512601300409756,0 95.31497300010392,5.512606699939283,0 95.31478150026606,5.512653099560964,0 95.31445639984304,5.512593200216088,0 95.31441320000926,5.512579900142327,0 95.31413099994575,5.512492799902816,0 95.31384660014055,5.512463400165814,0 95.31359239956964,5.512382900050852,0 95.31348079999896,5.512375899728056,0 95.31347939975456,5.51235079964971,0 95.31307220022194,5.512295000314055,0 95.31265319978542,5.512244899982193,0 95.31249800018264,5.5121853999363,0 95.31252970038543,5.512120000337802,0 95.31259340026526,5.511883500223405,0 95.31262759968405,5.511537700104839,0 95.31260210030672,5.511534899615981,0 95.31287420008431,5.510801499789409,0 95.31291239968755,5.509880899783752,0 95.31292390021787,5.509600299614192,0 95.31281050020448,5.509330899601366,0 95.31276519955435,5.509173699906398,0 95.31278499992789,5.509092699768303,0 95.31272409963753,5.509075500234189,0 95.31273019973901,5.509076299731476,0 95.31265180044028,5.508881799755329,0 95.31262620033891,5.50853909959983,0 95.3133289000088,5.508464800310321,0 95.31474699957442,5.507982600017044,0 95.31490320012267,5.507404200143753,0 95.31483080020132,5.507245600204328,0 95.31513110002032,5.506666700308017,0 95.31513720012174,5.506406600184505,0 95.31524559990459,5.506201099701059,0 95.31534669989037,5.506661000404904,0 95.31537589997788,5.507188200075404,0 95.31556629994486,5.507593100041561,0 95.31585069975006,5.507889399676117,0 95.31627049968387,5.508198799734885,0 95.316824900249,5.508548199839595,0 95.31720320006769,5.508681900249542,0 95.31739300018688,5.508897500119588,0 95.31743400027892,5.509046099597867,0 95.3175282995914,5.509386900385209,0</coordinates></LinearRing></outerBoundaryIs>
+					</Polygon>
+				</MultiGeometry>
+			</Placemark>
+			<Placemark id="ID_00001">
+				<name>Kandang</name>
+				<Snippet></Snippet>
+				<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Kandang</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>2</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Shape_Leng</td>
+
+<td>0.022236</td>
+
+</tr>
+
+<tr>
+
+<td>ADM4_EN</td>
+
+<td>Kandang</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>ADM4_PCODE</td>
+
+<td>ID1109120002</td>
+
+</tr>
+
+<tr>
+
+<td>ADM4_REF</td>
+
+<td></td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>ADM4ALT1EN</td>
+
+<td></td>
+
+</tr>
+
+<tr>
+
+<td>ADM4ALT2EN</td>
+
+<td></td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>ADM3_EN</td>
+
+<td>Sakti</td>
+
+</tr>
+
+<tr>
+
+<td>ADM3_PCODE</td>
+
+<td>ID1109120</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>ADM2_EN</td>
+
+<td>Pidie</td>
+
+</tr>
+
+<tr>
+
+<td>ADM2_PCODE</td>
+
+<td>ID1109</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>ADM1_EN</td>
+
+<td>Aceh</td>
+
+</tr>
+
+<tr>
+
+<td>ADM1_PCODE</td>
+
+<td>ID11</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>ADM0_EN</td>
+
+<td>Indonesia</td>
+
+</tr>
+
+<tr>
+
+<td>ADM0_PCODE</td>
+
+<td>ID</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>date</td>
+
+<td>12/20/2019</td>
+
+</tr>
+
+<tr>
+
+<td>validOn</td>
+
+<td>4/1/2020</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>validTo</td>
+
+<td>&lt;Null&gt;</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>
+
+]]></description>
+				<styleUrl>#PolyStyle00</styleUrl>
+				<MultiGeometry>
+					<Polygon>
+						<extrude>0</extrude><altitudeMode>clampToGround</altitudeMode>
+						<outerBoundaryIs><LinearRing><coordinates> 95.91330410000427,5.2529325996598,0 95.91122429996153,5.252989700314458,0 95.91055579971044,5.252881199807575,0 95.91011239976751,5.252221199948451,0 95.90999520011843,5.252046799819993,0 95.91010400009958,5.251488200320239,0 95.90992759987887,5.24947999980219,0 95.90986289995294,5.247527100395416,0 95.90985949961629,5.246801600213701,0 95.9096766998199,5.245261200044411,0 95.91074320043839,5.24529069960613,0 95.91195309975581,5.245403399947008,0 95.91230609984672,5.24617639962122,0 95.91275740033382,5.247457800437189,0 95.91342980004532,5.248403299972381,0 95.9136566000721,5.249295199913604,0 95.91388190002971,5.249852200418786,0 95.91472020037702,5.250573800240716,0 95.91522239979395,5.251072500395651,0 95.91330410000427,5.2529325996598,0</coordinates></LinearRing></outerBoundaryIs>
+					</Polygon>
+				</MultiGeometry>
+			</Placemark>
+			<Placemark id="ID_00002">
+				<name>Kandang</name>
+				<Snippet></Snippet>
+				<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Kandang</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>3</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Shape_Leng</td>
+
+<td>0.03114</td>
+
+</tr>
+
+<tr>
+
+<td>ADM4_EN</td>
+
+<td>Kandang</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>ADM4_PCODE</td>
+
+<td>ID1110010053</td>
+
+</tr>
+
+<tr>
+
+<td>ADM4_REF</td>
+
+<td></td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>ADM4ALT1EN</td>
+
+<td></td>
+
+</tr>
+
+<tr>
+
+<td>ADM4ALT2EN</td>
+
+<td></td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>ADM3_EN</td>
+
+<td>Samalanga</td>
+
+</tr>
+
+<tr>
+
+<td>ADM3_PCODE</td>
+
+<td>ID1110010</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>ADM2_EN</td>
+
+<td>Bireuen</td>
+
+</tr>
+
+<tr>
+
+<td>ADM2_PCODE</td>
+
+<td>ID1110</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>ADM1_EN</td>
+
+<td>Aceh</td>
+
+</tr>
+
+<tr>
+
+<td>ADM1_PCODE</td>
+
+<td>ID11</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>ADM0_EN</td>
+
+<td>Indonesia</td>
+
+</tr>
+
+<tr>
+
+<td>ADM0_PCODE</td>
+
+<td>ID</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>date</td>
+
+<td>12/20/2019</td>
+
+</tr>
+
+<tr>
+
+<td>validOn</td>
+
+<td>4/1/2020</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>validTo</td>
+
+<td>&lt;Null&gt;</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>
+
+]]></description>
+				<styleUrl>#PolyStyle00</styleUrl>
+				<MultiGeometry>
+					<Polygon>
+						<extrude>0</extrude><altitudeMode>clampToGround</altitudeMode>
+						<outerBoundaryIs><LinearRing><coordinates> 96.37007930001971,5.208329399881961,0 96.36975950020081,5.208459699955256,0 96.36947270010506,5.208456199793829,0 96.36763469988153,5.208555900434533,0 96.36652009992275,5.208498600130326,0 96.36646150009818,5.208495599991977,0 96.36525729978462,5.208433800379623,0 96.36364220012752,5.208307499591456,0 96.36347039993905,5.208376500075474,0 96.36059040022684,5.208194399951651,0 96.35994869977276,5.208216200417382,0 96.35991179968988,5.208166299735012,0 96.36015280001175,5.207658900437934,0 96.36064830037884,5.206118500268644,0 96.36064969972392,5.20611840044387,0 96.36541200026369,5.205707600025789,0 96.36612339997498,5.205676300021253,0 96.36684289988,5.20538609958885,0 96.36684720043803,5.205384300045466,0 96.36789849981596,5.204926000134833,0 96.3685352000395,5.204405500413543,0 96.36860220043127,5.204603399827079,0 96.36863410028354,5.204616900449651,0 96.36893890031007,5.204745900103262,0 96.36923069973705,5.204725999905008,0 96.36932259965829,5.204719799978818,0 96.36989669987287,5.204404000344368,0 96.37006099971541,5.204327299865042,0 96.37078220023841,5.20399040033675,0 96.37099410029754,5.203861299959101,0 96.37114090023243,5.203771999977846,0 96.37142920039736,5.203842600355756,0 96.3715038000604,5.204347299888013,0 96.37141119956726,5.20497320015312,0 96.37150959978828,5.205429599796219,0 96.3717994998471,5.205812899845512,0 96.37223209983159,5.205954900098618,0 96.3725450998765,5.205939000084811,0 96.37282439962638,5.206839600067553,0 96.37288319999976,5.207086499942079,0 96.37288339964925,5.207113699937338,0 96.37288360019807,5.207148000080167,0 96.37200960036284,5.207527999617525,0 96.37183050037737,5.207605899792497,0 96.37182149996232,5.207609700327453,0 96.37025480001904,5.208257900181991,0 96.37007930001971,5.208329399881961,0</coordinates></LinearRing></outerBoundaryIs>
+					</Polygon>
+				</MultiGeometry>
+			</Placemark>
+		</Folder>
+	</Document>
+</kml>
