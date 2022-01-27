@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+ xsi:schemaLocation="http://www.opengis.net/kml/2.2 http://schemas.opengis.net/kml/2.2.0/ogckml22.xsd http://www.google.com/kml/ext/2.2 http://code.google.com/apis/kml/schema/kml22gx.xsd">
+<Document id="Danau_Layer3">
+  <name>Danau_Layer3</name>
+  <Snippet></Snippet>
+  <Style id="PolyStyle00">
+    <LabelStyle>
+      <color>00000000</color>
+      <scale>0.000000</scale>
+    </LabelStyle>
+    <LineStyle>
+      <color>ff6e6e6e</color>
+      <width>0.400000</width>
+    </LineStyle>
+    <PolyStyle>
+      <color>fff7c6d3</color>
+      <outline>1</outline>
+    </PolyStyle>
+  </Style>
+  <Folder id="FeatureLayer0">
+    <name>Danau_Layer3</name>
+    <Snippet></Snippet>
+    <description><![CDATA[Danau_Layer3]]></description>
+    <Placemark id="ID_00000">
+      <name>Danau</name>
+      <Snippet></Snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+<head>
+<META http-equiv="Content-Type" content="text/html">
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+</head>
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+<td>Danau</td>
+</tr>
+<tr>
+<td>
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+<tr>
+<td>FID</td>
+<td>1</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Shape_Leng</td>
+<td>0.168137</td>
+</tr>
+<tr>
+<td>ADM3_EN</td>
+<td>Danau</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>ADM3_PCODE</td>
+<td>ID1303888</td>
+</tr>
+<tr>
+<td>ADM3_REF</td>
+<td></td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>ADM3ALT1EN</td>
+<td></td>
+</tr>
+<tr>
+<td>ADM3ALT2EN</td>
+<td></td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>ADM2_EN</td>
+<td>Solok</td>
+</tr>
+<tr>
+<td>ADM2_PCODE</td>
+<td>ID1303</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>ADM1_EN</td>
+<td>Sumatera Barat</td>
+</tr>
+<tr>
+<td>ADM1_PCODE</td>
+<td>ID13</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>ADM0_EN</td>
+<td>Indonesia</td>
+</tr>
+<tr>
+<td>ADM0_PCODE</td>
+<td>ID</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>date</td>
+<td>12/20/2019</td>
+</tr>
+<tr>
+<td>validOn</td>
+<td>4/1/2020</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>validTo</td>
+<td>&lt;Null&gt;</td>
+</tr>
+<tr>
+<td>tes</td>
+<td></td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</body>
+</html>
+]]></description>
+      <styleUrl>#PolyStyle00</styleUrl>
+      <MultiGeometry>
+        <Polygon>
+          <extrude>0</extrude><altitudeMode>clampToGround</altitudeMode>
+          <outerBoundaryIs><LinearRing><coordinates> 100.7484740997999,-1.057983400113756,0 100.7476806999044,-1.05621340032809,0 100.7454833998391,-1.05621340032809,0 100.7435302998835,-1.05621340032809,0 100.7421265004377,-1.054809599983002,0 100.7404784999828,-1.0551758003229,0 100.7387085001972,-1.056396499598748,0 100.7363280999619,-1.057922399998688,0 100.7346802002311,-1.059082000234071,0 100.733276399886,-1.059692399784353,0 100.7318726004402,-1.059997600009183,0 100.7302856001004,-1.060790999904668,0 100.7301024999305,-1.062194800249756,0 100.7286986995854,-1.062683099745186,0 100.7288817997553,-1.064575199585761,0 100.7302856001004,-1.066223100215836,0 100.7316895002703,-1.066406200385813,0 100.733520500171,-1.067993199826276,0 100.7349242996168,-1.069885299666794,0 100.737487800022,-1.069274900116511,0 100.7390746996377,-1.068481400396252,0 100.7402953998129,-1.069091799946591,0 100.7407227000926,-1.072509800187106,0 100.7393187999227,-1.073181199852456,0 100.7382812997423,-1.073486300252512,0 100.7371215996822,-1.07489009969828,0 100.7373046998521,-1.077209499818537,0 100.741699200158,-1.08172610017931,0 100.7459106002941,-1.08172610017931,0 100.7495116998052,-1.082397499844717,0 100.7529297000457,-1.08538819980555,0 100.7542725002757,-1.087097200375467,0 100.7556762997215,-1.088623000051371,0 100.7576903997922,-1.090026900221233,0 100.7592773003072,-1.091491699782068,0 100.7606811995777,-1.093505899677496,0 100.7620849999229,-1.094909700022583,0 100.7640990999935,-1.095397899693296,0 100.765930199719,-1.094909700022583,0 100.767700200404,-1.096191400312819,0 100.7669066997844,-1.097412099588666,0 100.7667235996145,-1.098999000103731,0 100.7686768002941,-1.099304200328561,0 100.7694702001896,-1.101196300169079,0 100.7714844000851,-1.101013199999159,0 100.774108899706,-1.099304200328561,0 100.7750853997715,-1.097412099588666,0 100.7744751000459,-1.094177200417391,0 100.774108899706,-1.092529299787316,0 100.7736816003256,-1.091674799951988,0 100.7749022996015,-1.090026900221233,0 100.7763061997713,-1.087707500100976,0 100.7736816003256,-1.082092299619887,0 100.7728882004301,-1.08020019977937,0 100.7770995996668,-1.077697800213286,0 100.774108899706,-1.075500500147939,0 100.770324700025,-1.078002899714022,0 100.7689208996798,-1.073608400307364,0 100.7655029003386,-1.072509800187106,0 100.7626952996484,-1.068115200056411,0 100.7584839004118,-1.065185500210646,0 100.7559204000065,-1.05889890006415,0 100.7484740997999,-1.057983400113756,0</coordinates></LinearRing></outerBoundaryIs>
+        </Polygon>
+      </MultiGeometry>
+    </Placemark>
+  </Folder>
+</Document>
+</kml>

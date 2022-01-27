@@ -1,212 +1,126 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.opengis.net/kml/2.2 http://schemas.opengis.net/kml/2.2.0/ogckml22.xsd http://www.google.com/kml/ext/2.2 http://code.google.com/apis/kml/schema/kml22gx.xsd">
-	<Document id="Inanwatan_Layer">
-		<name>Inanwatan_Layer</name>
-		<Snippet></Snippet>
-		<Style id="PolyStyle00">
-			<LabelStyle>
-				<color>00000000</color>
-				<scale>0.000000</scale>
-			</LabelStyle>
-			<LineStyle>
-				<color>ff6e6e6e</color>
-				<width>0.400000</width>
-			</LineStyle>
-			<PolyStyle>
-				<color>fff5e6d0</color>
-				<outline>1</outline>
-			</PolyStyle>
-		</Style>
-		<Folder id="FeatureLayer0">
-			<name>Inanwatan_Layer</name>
-			<Snippet></Snippet>
-			<description><![CDATA[Inanwatan_Layer]]></description>
-			<Placemark id="ID_00000">
-				<name>Inanwatan</name>
-				<Snippet></Snippet>
-				<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
-
-<head>
-
-<META http-equiv="Content-Type" content="text/html">
-
-<meta http-equiv="content-type" content="text/html; charset=UTF-8">
-
-</head>
-
-<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
-
-<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
-
-<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
-
-<td>Inanwatan</td>
-
-</tr>
-
-<tr>
-
-<td>
-
-<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
-
-<tr>
-
-<td>FID</td>
-
-<td>1</td>
-
-</tr>
-
-<tr bgcolor="#D4E4F3">
-
-<td>Shape_Leng</td>
-
-<td>0.645748</td>
-
-</tr>
-
-<tr>
-
-<td>ADM3_EN</td>
-
-<td>Inanwatan</td>
-
-</tr>
-
-<tr bgcolor="#D4E4F3">
-
-<td>ADM3_PCODE</td>
-
-<td>ID9106010</td>
-
-</tr>
-
-<tr>
-
-<td>ADM3_REF</td>
-
-<td></td>
-
-</tr>
-
-<tr bgcolor="#D4E4F3">
-
-<td>ADM3ALT1EN</td>
-
-<td></td>
-
-</tr>
-
-<tr>
-
-<td>ADM3ALT2EN</td>
-
-<td></td>
-
-</tr>
-
-<tr bgcolor="#D4E4F3">
-
-<td>ADM2_EN</td>
-
-<td>Sorong Selatan</td>
-
-</tr>
-
-<tr>
-
-<td>ADM2_PCODE</td>
-
-<td>ID9106</td>
-
-</tr>
-
-<tr bgcolor="#D4E4F3">
-
-<td>ADM1_EN</td>
-
-<td>Papua Barat</td>
-
-</tr>
-
-<tr>
-
-<td>ADM1_PCODE</td>
-
-<td>ID91</td>
-
-</tr>
-
-<tr bgcolor="#D4E4F3">
-
-<td>ADM0_EN</td>
-
-<td>Indonesia</td>
-
-</tr>
-
-<tr>
-
-<td>ADM0_PCODE</td>
-
-<td>ID</td>
-
-</tr>
-
-<tr bgcolor="#D4E4F3">
-
-<td>date</td>
-
-<td>12/20/2019</td>
-
-</tr>
-
-<tr>
-
-<td>validOn</td>
-
-<td>4/1/2020</td>
-
-</tr>
-
-<tr bgcolor="#D4E4F3">
-
-<td>validTo</td>
-
-<td>&lt;Null&gt;</td>
-
-</tr>
-
-<tr>
-
-<td>tes</td>
-
-<td></td>
-
-</tr>
-
-</table>
-
-</td>
-
-</tr>
-
-</table>
-
-</body>
-
-</html>
-
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+ xsi:schemaLocation="http://www.opengis.net/kml/2.2 http://schemas.opengis.net/kml/2.2.0/ogckml22.xsd http://www.google.com/kml/ext/2.2 http://code.google.com/apis/kml/schema/kml22gx.xsd">
+<Document id="Inanwatan_Layer">
+  <name>Inanwatan_Layer</name>
+  <Snippet></Snippet>
+  <Style id="PolyStyle00">
+    <LabelStyle>
+      <color>00000000</color>
+      <scale>0.000000</scale>
+    </LabelStyle>
+    <LineStyle>
+      <color>ff6e6e6e</color>
+      <width>0.400000</width>
+    </LineStyle>
+    <PolyStyle>
+      <color>fffac3d6</color>
+      <outline>1</outline>
+    </PolyStyle>
+  </Style>
+  <Folder id="FeatureLayer0">
+    <name>Inanwatan_Layer</name>
+    <Snippet></Snippet>
+    <description><![CDATA[Inanwatan_Layer]]></description>
+    <Placemark id="ID_00000">
+      <name>Inanwatan</name>
+      <Snippet></Snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+<head>
+<META http-equiv="Content-Type" content="text/html">
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+</head>
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+<td>Inanwatan</td>
+</tr>
+<tr>
+<td>
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+<tr>
+<td>FID</td>
+<td>1</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Shape_Leng</td>
+<td>0.645748</td>
+</tr>
+<tr>
+<td>ADM3_EN</td>
+<td>Inanwatan</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>ADM3_PCODE</td>
+<td>ID9106010</td>
+</tr>
+<tr>
+<td>ADM3_REF</td>
+<td></td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>ADM3ALT1EN</td>
+<td></td>
+</tr>
+<tr>
+<td>ADM3ALT2EN</td>
+<td></td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>ADM2_EN</td>
+<td>Sorong Selatan</td>
+</tr>
+<tr>
+<td>ADM2_PCODE</td>
+<td>ID9106</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>ADM1_EN</td>
+<td>Papua Barat</td>
+</tr>
+<tr>
+<td>ADM1_PCODE</td>
+<td>ID91</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>ADM0_EN</td>
+<td>Indonesia</td>
+</tr>
+<tr>
+<td>ADM0_PCODE</td>
+<td>ID</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>date</td>
+<td>12/20/2019</td>
+</tr>
+<tr>
+<td>validOn</td>
+<td>4/1/2020</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>validTo</td>
+<td>&lt;Null&gt;</td>
+</tr>
+<tr>
+<td>tes</td>
+<td></td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</body>
+</html>
 ]]></description>
-				<styleUrl>#PolyStyle00</styleUrl>
-				<MultiGeometry>
-					<Polygon>
-						<extrude>0</extrude><altitudeMode>clampToGround</altitudeMode>
-						<outerBoundaryIs><LinearRing><coordinates> 132.3122474002973,-2.033225599981392,0 132.3120423000122,-2.026457699763,0 132.3113403000149,-2.003290599981142,0 132.3119764003907,-2.000587100314362,0 132.2859713001354,-2.01277699965874,0 132.2828209003643,-2.014253699948256,0 132.2353971001961,-2.036483600038082,0 132.2118910000696,-2.047502100041811,0 132.1946762997715,-2.039266199575422,0 132.1756257998908,-2.030152200163855,0 132.1626331998624,-2.023936300220043,0 132.1493121997983,-2.053250500010506,0 132.1388678000091,-2.076234600346481,0 132.1547811003676,-2.08425699996053,0 132.1484419995986,-2.095472500055791,0 132.1267285001203,-2.133888699603744,0 132.1272730000489,-2.134029000138185,0 132.1308749997814,-2.134136999722728,0 132.1339569998157,-2.134995999765522,0 132.1346024000808,-2.135490599911236,0 132.1363529996912,-2.136831999896856,0 132.13778700017,-2.138677000443181,0 132.1386569998208,-2.140630999720827,0 132.1397400003009,-2.143390000148315,0 132.1425319995521,-2.143841000261887,0 132.1442559999145,-2.147234000248886,0 132.1466070004128,-2.147865999716089,0 132.1490479996655,-2.148037999553992,0 132.1512149997725,-2.148029000038264,0 132.1542359996917,-2.148082999830535,0 132.1572110001875,-2.147846999739215,0 132.1594239997179,-2.147449000271081,0 132.1614230001713,-2.146978000134538,0 132.1650690001343,-2.146924000342267,0 132.1679689998695,-2.147203999764713,0 132.1705930003667,-2.14679599983549,0 132.1737819999394,-2.146442999744579,0 132.1773220004101,-2.147022000364984,0 132.1815490001862,-2.146776999858616,0 132.183441000202,-2.150060000168821,0 132.1853180004255,-2.150919000211616,0 132.1874390002098,-2.152982000019222,0 132.1896210001091,-2.156202000122164,0 132.1904299996448,-2.158445000136624,0 132.1928859995893,-2.160761999966269,0 132.1935415001402,-2.16106649961921,0 132.1949460001579,-2.161719000031781,0 132.1989899995889,-2.164477000413171,0 132.2150419996887,-2.171992999876977,0 132.2205350002901,-2.17508600041856,0 132.2233889997026,-2.177211000387331,0 132.2284239998678,-2.181688000001145,0 132.2313390002947,-2.184564000428225,0 132.2339169995699,-2.186807000442684,0 132.2373509996489,-2.19013600017621,0 132.2375011000958,-2.190279700147983,0 132.2389196996844,-2.191637599995204,0 132.2554190000868,-2.174221699771579,0 132.2622121002083,-2.167051100228036,0 132.2684072995573,-2.155822300059071,0 132.2789520996597,-2.136709899841946,0 132.2876442999445,-2.120955200322214,0 132.2884138003567,-2.119560600041609,0 132.2896419001536,-2.116449300095098,0 132.2942087995965,-2.104879799862829,0 132.2997851997272,-2.090753099875599,0 132.3001838997673,-2.089742900414478,0 132.3001842999655,-2.089742100017872,0 132.3124841000613,-2.058582399657951,0 132.3129778998103,-2.057331600073212,0 132.3122474002973,-2.033225599981392,0</coordinates></LinearRing></outerBoundaryIs>
-					</Polygon>
-				</MultiGeometry>
-			</Placemark>
-		</Folder>
-	</Document>
+      <styleUrl>#PolyStyle00</styleUrl>
+      <MultiGeometry>
+        <Polygon>
+          <extrude>0</extrude><altitudeMode>clampToGround</altitudeMode>
+          <outerBoundaryIs><LinearRing><coordinates> 132.3122474002973,-2.033225599082073,0 132.3120423000122,-2.026457699763,0 132.3113403000149,-2.003290599081822,0 132.3119764003907,-2.000587099415043,0 132.2859713001354,-2.012776998759421,0 132.2828209003643,-2.014253699948256,0 132.2353971001961,-2.036483600038082,0 132.2118910000696,-2.047502099142491,0 132.1946762997715,-2.039266199575422,0 132.1756257998908,-2.030152199264535,0 132.1626331998624,-2.023936300220043,0 132.1493121997983,-2.053250499111186,0 132.1388678000091,-2.076234600346481,0 132.1547811003676,-2.08425699996053,0 132.1484419995986,-2.095472500055791,0 132.1267285001203,-2.133888698704425,0 132.1272730000489,-2.134028999238865,0 132.1308749997814,-2.134136998823408,0 132.1339569998157,-2.134995998866202,0 132.1346024000808,-2.135490599911236,0 132.1363529996912,-2.136831999896856,0 132.13778700017,-2.138677000443181,0 132.1386569998208,-2.140630999720827,0 132.1397400003009,-2.143389999248996,0 132.1425319995521,-2.143840999362567,0 132.1442559999145,-2.147234000248886,0 132.1466070004128,-2.147865999716089,0 132.1490479996655,-2.148037999553992,0 132.1512149997725,-2.148028999138944,0 132.1542359996917,-2.148082999830535,0 132.1572110001875,-2.147846998839896,0 132.1594239997179,-2.147448999371761,0 132.1614230001713,-2.146977999235219,0 132.1650690001343,-2.146923999442947,0 132.1679689998695,-2.147203998865393,0 132.1705930003667,-2.14679599983549,0 132.1737819999394,-2.146442998845259,0 132.1773220004101,-2.147022000364984,0 132.1815490001862,-2.146776999858616,0 132.183441000202,-2.150059999269502,0 132.1853180004255,-2.150918999312296,0 132.1874390002098,-2.152981999119902,0 132.1896210001091,-2.156202000122164,0 132.1904299996448,-2.158445000136624,0 132.1928859995893,-2.160761999066949,0 132.1935415001402,-2.16106649871989,0 132.1949460001579,-2.161719000031781,0 132.1989899995889,-2.164476999513852,0 132.2150419996887,-2.171992998977657,0 132.2205350002901,-2.17508600041856,0 132.2233889997026,-2.177211000387331,0 132.2284239998678,-2.181687999101825,0 132.2313390002947,-2.184563999528905,0 132.2339169995699,-2.186806999543364,0 132.2373509996489,-2.19013599927689,0 132.2375011000958,-2.190279699248663,0 132.2389196996844,-2.191637599995204,0 132.2554190000868,-2.174221699771579,0 132.2622121002083,-2.167051099328717,0 132.2684072995573,-2.155822300059071,0 132.2789520996597,-2.136709898942627,0 132.2876442999445,-2.120955200322214,0 132.2884138003567,-2.119560600041609,0 132.2896419001536,-2.116449300095098,0 132.2942087995965,-2.104879799862829,0 132.2997851997272,-2.090753098976279,0 132.3001838997673,-2.089742900414478,0 132.3001842999655,-2.089742100017872,0 132.3124841000613,-2.058582398758631,0 132.3129778998103,-2.057331599173892,0 132.3122474002973,-2.033225599082073,0</coordinates></LinearRing></outerBoundaryIs>
+        </Polygon>
+      </MultiGeometry>
+    </Placemark>
+  </Folder>
+</Document>
 </kml>

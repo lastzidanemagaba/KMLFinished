@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+ xsi:schemaLocation="http://www.opengis.net/kml/2.2 http://schemas.opengis.net/kml/2.2.0/ogckml22.xsd http://www.google.com/kml/ext/2.2 http://code.google.com/apis/kml/schema/kml22gx.xsd">
+<Document id="Pulau_Layer1">
+  <name>Pulau_Layer1</name>
+  <Snippet></Snippet>
+  <Style id="PolyStyle00">
+    <LabelStyle>
+      <color>00000000</color>
+      <scale>0.000000</scale>
+    </LabelStyle>
+    <LineStyle>
+      <color>ff6e6e6e</color>
+      <width>0.400000</width>
+    </LineStyle>
+    <PolyStyle>
+      <color>fff2dec4</color>
+      <outline>1</outline>
+    </PolyStyle>
+  </Style>
+  <Folder id="FeatureLayer0">
+    <name>Pulau_Layer1</name>
+    <Snippet></Snippet>
+    <description><![CDATA[Pulau_Layer1]]></description>
+    <Placemark id="ID_00000">
+      <name>Pulau</name>
+      <Snippet></Snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+<head>
+<META http-equiv="Content-Type" content="text/html">
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+</head>
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+<td>Pulau</td>
+</tr>
+<tr>
+<td>
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+<tr>
+<td>FID</td>
+<td>1</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Shape_Leng</td>
+<td>0.02697</td>
+</tr>
+<tr>
+<td>ADM3_EN</td>
+<td>Pulau</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>ADM3_PCODE</td>
+<td>ID1804555</td>
+</tr>
+<tr>
+<td>ADM3_REF</td>
+<td></td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>ADM3ALT1EN</td>
+<td></td>
+</tr>
+<tr>
+<td>ADM3ALT2EN</td>
+<td></td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>ADM2_EN</td>
+<td>Lampung Timur</td>
+</tr>
+<tr>
+<td>ADM2_PCODE</td>
+<td>ID1804</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>ADM1_EN</td>
+<td>Lampung</td>
+</tr>
+<tr>
+<td>ADM1_PCODE</td>
+<td>ID18</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>ADM0_EN</td>
+<td>Indonesia</td>
+</tr>
+<tr>
+<td>ADM0_PCODE</td>
+<td>ID</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>date</td>
+<td>12/20/2019</td>
+</tr>
+<tr>
+<td>validOn</td>
+<td>4/1/2020</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>validTo</td>
+<td>&lt;Null&gt;</td>
+</tr>
+<tr>
+<td>tes</td>
+<td></td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</body>
+</html>
+]]></description>
+      <styleUrl>#PolyStyle00</styleUrl>
+      <MultiGeometry>
+        <Polygon>
+          <extrude>0</extrude><altitudeMode>clampToGround</altitudeMode>
+          <outerBoundaryIs><LinearRing><coordinates> 106.1111019996576,-5.156961600197633,0 106.1112251995834,-5.156550699954778,0 106.1113074003163,-5.156098799619883,0 106.1113485002331,-5.155688000101065,0 106.1114307000668,-5.155153800107769,0 106.1114717999836,-5.154825200422636,0 106.11138960015,-5.154414300179781,0 106.1112251995834,-5.154126699687367,0 106.111019799824,-5.153921299928015,0 106.1106090003052,-5.153880200011201,0 106.1103213998128,-5.154208900420372,0 106.1098695003772,-5.154619699939133,0 106.1097050998106,-5.155153800107769,0 106.1097050998106,-5.155523600433753,0 106.1097050998106,-5.155975499869385,0 106.1097461997274,-5.156468599945867,0 106.1097872996442,-5.156797199631001,0 106.1099927003029,-5.157043700206543,0 106.1103624997297,-5.157125900040228,0 106.1107322002309,-5.157208099873856,0 106.1111019996576,-5.156961600197633,0</coordinates></LinearRing></outerBoundaryIs>
+        </Polygon>
+        <Polygon>
+          <extrude>0</extrude><altitudeMode>clampToGround</altitudeMode>
+          <outerBoundaryIs><LinearRing><coordinates> 106.1088012002153,-5.172039700171979,0 106.1089655998826,-5.171587799837027,0 106.1090066997994,-5.171135799677359,0 106.1090887998083,-5.170683900241784,0 106.1092943002918,-5.170231999906832,0 106.109540799968,-5.169779999747163,0 106.109828399561,-5.169245899578527,0 106.1099516003861,-5.168835100059766,0 106.1100338002198,-5.168300999891187,0 106.1101570001455,-5.167848999731518,0 106.1101981000623,-5.167356000379073,0 106.110280299896,-5.166904100044121,0 106.1101981000623,-5.166246700125043,0 106.1097050998106,-5.166287800041914,0 106.1094997000512,-5.166657600367898,0 106.1092120995588,-5.167314899562939,0 106.1090477997162,-5.167725799805794,0 106.1087602001232,-5.168177700140689,0 106.1085546996397,-5.16854749956741,0 106.108431499714,-5.169163799569674,0 106.1080617002873,-5.169862199580791,0 106.1078151997118,-5.170272999998929,0 106.1077740997949,-5.170889300001136,0 106.1077740997949,-5.171300200243991,0 106.1077740997949,-5.17191640042148,0 106.1079385003616,-5.17245049969074,0 106.1081850000378,-5.172656000174243,0 106.1088012002153,-5.172039700171979,0</coordinates></LinearRing></outerBoundaryIs>
+        </Polygon>
+        <Polygon>
+          <extrude>0</extrude><altitudeMode>clampToGround</altitudeMode>
+          <outerBoundaryIs><LinearRing><coordinates> 106.2110939999882,-5.208487600322428,0 106.2113404996644,-5.208302699709805,0 106.2114020996273,-5.208179499784023,0 106.2114328996087,-5.207871300320221,0 106.2113096996829,-5.207532399800357,0 106.210785799625,-5.207316700105594,0 106.2105084999674,-5.207378300068456,0 106.2102620002912,-5.207439900031318,0 106.210046299697,-5.207778900375899,0 106.210046299697,-5.20796380008926,0 106.2100770996785,-5.208179499784023,0 106.210323600254,-5.208426000359566,0 106.2106625996993,-5.208518400303888,0 106.2109399002563,-5.20854920028529,0 106.2110939999882,-5.208487600322428,0</coordinates></LinearRing></outerBoundaryIs>
+        </Polygon>
+      </MultiGeometry>
+    </Placemark>
+  </Folder>
+</Document>
+</kml>
